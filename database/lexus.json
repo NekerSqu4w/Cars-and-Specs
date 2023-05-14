@@ -4848,34 +4848,34 @@
             },
             {
                 "model": "UX",
-                "year": 2022,
-                "price": 47070,
-                "formattedPrice": "$47,070",
+                "year": 2023,
+                "price": 36490,
+                "formattedPrice": "$36,490",
                 "previewImage": [
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/2022-lexus-rx-350-f-sport-awd-954-1647313780.jpg"
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2023-lexus-uxh-106-1652455133.jpg"
                     },
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/2022-lexus-rx-350-f-sport-awd-954-1647313780.jpg",
-                        "credit": "Michael Simari",
-                        "description": "2022 Lexus RX350 F Sport AWD"
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2023-lexus-uxh-106-1652455133.jpg",
+                        "credit": "Lexus",
+                        "description": "2023 Lexus UXh"
                     },
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/2022-lexus-rx-350-f-sport-awd-932-1647313774.jpg",
-                        "credit": "Michael Simari",
-                        "description": "2022 Lexus RX350 F Sport AWD"
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2023-lexus-uxh-116-1652455136.jpg",
+                        "credit": "Lexus",
+                        "description": "2023 Lexus UXh Interior"
                     },
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/2022-lexus-rx-350-f-sport-awd-983-1647313781.jpg",
-                        "credit": "Michael Simari",
-                        "description": "2022 Lexus RX350 F Sport AWD"
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2023-lexus-uxh-107-1652455134.jpg",
+                        "credit": "Lexus",
+                        "description": "2023 Lexus UXh"
                     }
                 ],
                 "specs": {
                     "Vehicle": [
                         {
                             "name": "EPA Classification",
-                            "value": "Small SUV 2WD"
+                            "value": "Compact Cars"
                         },
                         {
                             "name": "Drivetrain",
@@ -4885,11 +4885,11 @@
                     "Engine": [
                         {
                             "name": "Engine Type and Required Fuel",
-                            "value": "Intercooled Turbo Premium Unleaded I-4"
+                            "value": "Gas/Electric I-4"
                         },
                         {
                             "name": "Displacement (liters/cubic inches)",
-                            "value": "2.4 L/146"
+                            "value": "2.0 L/121"
                         },
                         {
                             "name": "Fuel System",
@@ -4897,11 +4897,11 @@
                         },
                         {
                             "name": "Maximum Horsepower @ RPM",
-                            "value": "275 @ 6000"
+                            "value": "181 @ 6000"
                         },
                         {
                             "name": "Maximum Torque @ RPM",
-                            "value": "317 @ 1700"
+                            "value": "N/A"
                         },
                         {
                             "name": "Cooling System Capacity (quarts)",
@@ -4911,51 +4911,23 @@
                     "Transmission": [
                         {
                             "name": "Transmission Description",
-                            "value": "Automatic w/OD"
+                            "value": "CVT w/OD"
                         },
                         {
                             "name": "Number of Transmission Speeds",
-                            "value": "8"
+                            "value": "1"
                         },
                         {
                             "name": "First Gear Ratio (:1)",
-                            "value": "5.52"
-                        },
-                        {
-                            "name": "Second Gear Ratio (:1)",
-                            "value": "3.18"
-                        },
-                        {
-                            "name": "Third Gear Ratio (:1)",
-                            "value": "2.05"
-                        },
-                        {
-                            "name": "Fourth Gear Ratio (:1)",
-                            "value": "1.49"
-                        },
-                        {
-                            "name": "Fifth Gear Ratio (:1)",
-                            "value": "1.23"
-                        },
-                        {
-                            "name": "Sixth Gear Ratio (:1)",
-                            "value": "1.00"
-                        },
-                        {
-                            "name": "Seventh Gear Ratio (:1)",
-                            "value": "0.80"
-                        },
-                        {
-                            "name": "Eighth Gear Ratio (:1)",
-                            "value": "0.67"
+                            "value": "2.24 - 0.45"
                         },
                         {
                             "name": "Reverse Ratio (:1)",
-                            "value": "4.22"
+                            "value": "3.32"
                         },
                         {
                             "name": "Final Drive Axle Ratio (:1)",
-                            "value": "3.33"
+                            "value": "3.60"
                         },
                         {
                             "name": "Transfer Case Gear Ratio, high (:1)",
@@ -4977,15 +4949,15 @@
                         },
                         {
                             "name": "CO2 Emissions, 15K mi/year (tons)",
-                            "value": "7.1"
+                            "value": "4.3"
                         },
                         {
                             "name": "Range, city/highway (miles)",
-                            "value": "391.60 / 516.20"
+                            "value": "455.80 / 434.60"
                         },
                         {
                             "name": "EPA Fuel Economy, combined/city/highway (mpg)",
-                            "value": "25 / 22 / 29"
+                            "value": "42 / 43 / 41"
                         },
                         {
                             "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
@@ -4995,7 +4967,7 @@
                     "Fuel Tank": [
                         {
                             "name": "Fuel Capacity / Gas Tank Size",
-                            "value": "17.8"
+                            "value": "10.6"
                         },
                         {
                             "name": "Aux Fuel Tank Capacity (gallons)",
@@ -5005,31 +4977,31 @@
                     "Exterior Dimensions": [
                         {
                             "name": "Wheelbase (inches)",
-                            "value": "112.2"
+                            "value": "103.9"
                         },
                         {
                             "name": "Length (inches)",
-                            "value": "192.5"
+                            "value": "177"
                         },
                         {
                             "name": "Width, without mirrors (inches)",
-                            "value": "75.6"
+                            "value": "72.4"
                         },
                         {
                             "name": "Height (inches)",
-                            "value": "67.3"
+                            "value": "60.6"
                         },
                         {
                             "name": "Front Track Width (inches)",
-                            "value": "65.2"
+                            "value": "61"
                         },
                         {
                             "name": "Rear Track Width (inches)",
-                            "value": "66.5"
+                            "value": "61"
                         },
                         {
                             "name": "Minimum Ground Clearance (inches)",
-                            "value": "8.2"
+                            "value": "N/A"
                         },
                         {
                             "name": "Rear Door Opening Height (inches)",
@@ -5051,39 +5023,39 @@
                         },
                         {
                             "name": "Total Passenger Volume (cubic feet)",
-                            "value": "N/A"
+                            "value": "88.5"
                         },
                         {
                             "name": "Front Head Room (inches)",
-                            "value": "38.1"
+                            "value": "35.7"
                         },
                         {
                             "name": "Front Leg Room (inches)",
-                            "value": "41.1"
+                            "value": "42.1"
                         },
                         {
                             "name": "Front Shoulder Room (inches)",
-                            "value": "58.1"
+                            "value": "55.1"
                         },
                         {
                             "name": "Front Hip Room (inches)",
-                            "value": "56.7"
+                            "value": "53.8"
                         },
                         {
                             "name": "Second Row Head Room (inches)",
-                            "value": "28.5"
+                            "value": "36.3"
                         },
                         {
                             "name": "Second Row Leg Room (inches)",
-                            "value": "37.4"
+                            "value": "33.1"
                         },
                         {
                             "name": "Second Row Shoulder Room (inches)",
-                            "value": "56.5"
+                            "value": "52.9"
                         },
                         {
                             "name": "Second Row Hip Room (inches)",
-                            "value": "55.9"
+                            "value": "52.3"
                         }
                     ],
                     "Cargo Area Dimensions": [
@@ -5113,15 +5085,15 @@
                         },
                         {
                             "name": "Cargo Space/Area Behind Front Row (cubic feet)",
-                            "value": "46.2"
+                            "value": "N/A"
                         },
                         {
                             "name": "Cargo Space/Area Behind Second Row (cubic feet)",
-                            "value": "29.6"
+                            "value": "17.1"
                         },
                         {
                             "name": "Cargo Space/Area Behind Third Row (cubic feet)",
-                            "value": "29.6"
+                            "value": "17.1"
                         }
                     ],
                     "Steering": [
@@ -5139,7 +5111,7 @@
                         },
                         {
                             "name": "Turning Diameter / Radius, curb to curb (feet)",
-                            "value": "38.8"
+                            "value": "34.2"
                         },
                         {
                             "name": "Turning Diameter / Radius, wall to wall (feet)",
@@ -5183,17 +5155,17 @@
                         },
                         {
                             "name": "Front Brake Rotors, diameter x thickness (inches)",
-                            "value": "13.4"
+                            "value": "12"
                         },
                         {
                             "name": "Rear Brake Rotors, diameter x thickness (inches)",
-                            "value": "13.4"
+                            "value": "11.1"
                         }
                     ],
                     "Wheels and Tires": [
                         {
                             "name": "Front Wheel Size (inches)",
-                            "value": "19 X 8"
+                            "value": "18 X 7"
                         },
                         {
                             "name": "Front Wheel Material",
@@ -5201,11 +5173,11 @@
                         },
                         {
                             "name": "Front Tire Size",
-                            "value": "P235/60VR19"
+                            "value": "P225/50HR18"
                         },
                         {
                             "name": "Rear Wheel Size (inches)",
-                            "value": "19 X 8"
+                            "value": "18 X 7"
                         },
                         {
                             "name": "Rear Wheel Material",
@@ -5213,47 +5185,35 @@
                         },
                         {
                             "name": "Rear Tire Size",
-                            "value": "P235/60VR19"
-                        },
-                        {
-                            "name": "Spare Wheel Size (inches)",
-                            "value": "Compact"
-                        },
-                        {
-                            "name": "Spare Wheel Material",
-                            "value": "Steel"
-                        },
-                        {
-                            "name": "Spare Tire Size",
-                            "value": "Compact"
+                            "value": "P225/50HR18"
                         }
                     ],
                     "Towing": [
                         {
                             "name": "Maximum Towing Capacity (pounds)",
-                            "value": "3494"
+                            "value": "N/A"
                         },
                         {
                             "name": "Maximum Trailer Weight, dead weight hitch (pounds)",
-                            "value": "3494"
+                            "value": "N/A"
                         },
                         {
                             "name": "Maximum Tongue Weight, dead weight hitch (pounds)",
-                            "value": "349"
+                            "value": "N/A"
                         },
                         {
                             "name": "Maximum Trailer Weight, weight distributing hitch (pounds)",
-                            "value": "3494"
+                            "value": "N/A"
                         },
                         {
                             "name": "Maximum Tongue Weight, weight distributing hitch (pounds)",
-                            "value": "349"
+                            "value": "N/A"
                         }
                     ],
                     "Weight Information": [
                         {
                             "name": "Base Curb Weight (pounds)",
-                            "value": "4067"
+                            "value": "3483"
                         },
                         {
                             "name": "Total Option Weight (pounds)",
@@ -5279,8 +5239,8 @@
                         }
                     ]
                 },
-                "slug": "/lexus/rx-2022",
-                "name": "RX 350 Premium Plus FWD"
+                "slug": "/lexus/ux",
+                "name": "UX 250h Premium FWD"
             }
         ],
         "trucks": {},

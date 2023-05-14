@@ -1053,33 +1053,33 @@
             {
                 "model": "Sonata",
                 "year": 2023,
-                "price": 22065,
-                "formattedPrice": "$22,065",
+                "price": 26215,
+                "formattedPrice": "$26,215",
                 "previewImage": [
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/large-40585-2021elantra-158gg-1647884934.jpeg"
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2021-hyundai-sonata-n-line-lt-551-1635518371.jpg"
                     },
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/large-40585-2021elantra-158gg-1647884934.jpeg",
-                        "credit": "Hyundai",
-                        "description": "2023 Hyundai Elantra"
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2021-hyundai-sonata-n-line-lt-551-1635518371.jpg",
+                        "credit": null,
+                        "description": "2023 Hyundai Sonata N Line"
                     },
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/40590-2021elantra-1584497300.jpg",
-                        "credit": "Hyundai",
-                        "description": "2023 Hyundai Elantra"
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2021-hyundai-sonata-n-line-lt-782-edit-1635518398.jpg",
+                        "credit": "Michael Simari",
+                        "description": "2023 Hyundai Sonata N Line"
                     },
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/2021-hyundai-elantra-dash-1584498478.jpg",
-                        "credit": "Hyundai",
-                        "description": "2023 Hyundai Elantra interior"
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2021-hyundai-sonata-n-line-lt-681-1635518380.jpg",
+                        "credit": "Michael Simari",
+                        "description": "2023 Hyundai Sonata N Line interior"
                     }
                 ],
                 "specs": {
                     "Vehicle": [
                         {
                             "name": "EPA Classification",
-                            "value": "Midsize Cars"
+                            "value": "Large Cars"
                         },
                         {
                             "name": "Drivetrain",
@@ -1101,7 +1101,7 @@
                         },
                         {
                             "name": "Maximum Horsepower @ RPM",
-                            "value": "201 @ 6000"
+                            "value": "180 @ 5500"
                         },
                         {
                             "name": "Maximum Torque @ RPM",
@@ -1115,47 +1115,51 @@
                     "Transmission": [
                         {
                             "name": "Transmission Description",
-                            "value": "Auto-Shift Manual w/OD"
+                            "value": "Automatic w/OD"
                         },
                         {
                             "name": "Number of Transmission Speeds",
-                            "value": "7"
+                            "value": "8"
                         },
                         {
                             "name": "First Gear Ratio (:1)",
-                            "value": "3.64"
+                            "value": "4.72"
                         },
                         {
                             "name": "Second Gear Ratio (:1)",
-                            "value": "2.17"
+                            "value": "2.91"
                         },
                         {
                             "name": "Third Gear Ratio (:1)",
-                            "value": "1.83"
+                            "value": "1.86"
                         },
                         {
                             "name": "Fourth Gear Ratio (:1)",
-                            "value": "1.02"
+                            "value": "1.42"
                         },
                         {
                             "name": "Fifth Gear Ratio (:1)",
-                            "value": "0.85"
+                            "value": "1.22"
                         },
                         {
                             "name": "Sixth Gear Ratio (:1)",
-                            "value": "0.81"
+                            "value": "1.00"
                         },
                         {
                             "name": "Seventh Gear Ratio (:1)",
-                            "value": "0.72"
+                            "value": "0.79"
+                        },
+                        {
+                            "name": "Eighth Gear Ratio (:1)",
+                            "value": "0.64"
                         },
                         {
                             "name": "Reverse Ratio (:1)",
-                            "value": "4.70"
+                            "value": "3.24"
                         },
                         {
                             "name": "Final Drive Axle Ratio (:1)",
-                            "value": "3.61"
+                            "value": "3.37"
                         },
                         {
                             "name": "Clutch Size",
@@ -1169,15 +1173,15 @@
                         },
                         {
                             "name": "CO2 Emissions, 15K mi/year (tons)",
-                            "value": "5.7"
+                            "value": "5.6"
                         },
                         {
                             "name": "Range, city/highway (miles)",
-                            "value": "392.00 / 504.00"
+                            "value": "429.30 / 588.30"
                         },
                         {
                             "name": "EPA Fuel Economy, combined/city/highway (mpg)",
-                            "value": "31 / 28 / 36"
+                            "value": "31 / 27 / 37"
                         },
                         {
                             "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
@@ -1187,7 +1191,7 @@
                     "Fuel Tank": [
                         {
                             "name": "Fuel Capacity / Gas Tank Size",
-                            "value": "14"
+                            "value": "15.9"
                         },
                         {
                             "name": "Aux Fuel Tank Capacity (gallons)",
@@ -1197,31 +1201,31 @@
                     "Exterior Dimensions": [
                         {
                             "name": "Wheelbase (inches)",
-                            "value": "107.1"
+                            "value": "111.8"
                         },
                         {
                             "name": "Length (inches)",
-                            "value": "184.1"
+                            "value": "192.9"
                         },
                         {
                             "name": "Width, without mirrors (inches)",
-                            "value": "71.9"
+                            "value": "73.2"
                         },
                         {
                             "name": "Height (inches)",
-                            "value": "55.7"
+                            "value": "56.9"
                         },
                         {
                             "name": "Front Track Width (inches)",
-                            "value": "61.7"
+                            "value": "63.4"
                         },
                         {
                             "name": "Rear Track Width (inches)",
-                            "value": "62.2"
+                            "value": "63.7"
                         },
                         {
                             "name": "Minimum Ground Clearance (inches)",
-                            "value": "5.5"
+                            "value": "5.3"
                         },
                         {
                             "name": "Liftover Height (inches)",
@@ -1235,45 +1239,45 @@
                         },
                         {
                             "name": "Total Passenger Volume (cubic feet)",
-                            "value": "99.4"
+                            "value": "104.4"
                         },
                         {
                             "name": "Front Head Room (inches)",
-                            "value": "38.7"
+                            "value": "40"
                         },
                         {
                             "name": "Front Leg Room (inches)",
-                            "value": "42.3"
+                            "value": "46.1"
                         },
                         {
                             "name": "Front Shoulder Room (inches)",
-                            "value": "56.5"
+                            "value": "57.9"
                         },
                         {
                             "name": "Front Hip Room (inches)",
-                            "value": "53.4"
+                            "value": "54.6"
                         },
                         {
                             "name": "Second Row Head Room (inches)",
-                            "value": "37.3"
+                            "value": "37.4"
                         },
                         {
                             "name": "Second Row Leg Room (inches)",
-                            "value": "38"
+                            "value": "34.8"
                         },
                         {
                             "name": "Second Row Shoulder Room (inches)",
-                            "value": "55.6"
+                            "value": "56.1"
                         },
                         {
                             "name": "Second Row Hip Room (inches)",
-                            "value": "50.5"
+                            "value": "54.4"
                         }
                     ],
                     "Cargo Area Dimensions": [
                         {
                             "name": "Trunk Space (cubic feet)",
-                            "value": "14.2"
+                            "value": "16"
                         }
                     ],
                     "Steering": [
@@ -1291,7 +1295,7 @@
                         },
                         {
                             "name": "Turning Diameter / Radius, curb to curb (feet)",
-                            "value": "35.4"
+                            "value": "35.9"
                         },
                         {
                             "name": "Turning Diameter / Radius, wall to wall (feet)",
@@ -1339,13 +1343,13 @@
                         },
                         {
                             "name": "Rear Brake Rotors, diameter x thickness (inches)",
-                            "value": "10.3"
+                            "value": "11.2"
                         }
                     ],
                     "Wheels and Tires": [
                         {
                             "name": "Front Wheel Size (inches)",
-                            "value": "18 X 7.5"
+                            "value": "19 X 8"
                         },
                         {
                             "name": "Front Wheel Material",
@@ -1353,11 +1357,11 @@
                         },
                         {
                             "name": "Front Tire Size",
-                            "value": "P235/40WR18"
+                            "value": "P245/40WR19"
                         },
                         {
                             "name": "Rear Wheel Size (inches)",
-                            "value": "18 X 7.5"
+                            "value": "19 X 8"
                         },
                         {
                             "name": "Rear Wheel Material",
@@ -1365,7 +1369,7 @@
                         },
                         {
                             "name": "Rear Tire Size",
-                            "value": "P235/40WR18"
+                            "value": "P245/40WR19"
                         },
                         {
                             "name": "Spare Wheel Size (inches)",
@@ -1401,7 +1405,7 @@
                     "Weight Information": [
                         {
                             "name": "Base Curb Weight (pounds)",
-                            "value": "3020"
+                            "value": "3230"
                         }
                     ],
                     "Electrical": [
@@ -1415,8 +1419,8 @@
                         }
                     ]
                 },
-                "slug": "/hyundai/elantra-2023",
-                "name": "Elantra N Line DCT"
+                "slug": "/hyundai/sonata-2023",
+                "name": "Sonata SEL Plus 1.6T"
             }
         ],
         "eletric": [

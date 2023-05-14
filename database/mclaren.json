@@ -1811,18 +1811,24 @@
                 "model": "600LT"
             },
             {
-                "model": "650S",
-                "year": 2016,
-                "price": 0,
-                "formattedPrice": "$0",
+                "model": "650S"
+            },
+            {
+                "model": "Elva"
+            },
+            {
+                "model": "MP4-12C",
+                "year": 2012,
+                "price": 231400,
+                "formattedPrice": "$231,400",
                 "previewImage": [
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/577110/2015-mclaren-650s-photo-577137-s-986x603.jpg"
+                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/10q1/331226/2011-mclaren-mp4-12c-photo-331261-s-986x603.jpg"
                     },
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/577110/2015-mclaren-650s-photo-577137-s-986x603.jpg",
-                        "credit": "THE MANUFACTURER",
-                        "description": "Land vehicle, Vehicle, Car, Supercar, Sports car, Automotive design, Blue, Performance car, Wheel, Mclaren automotive, "
+                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/10q1/331226/2011-mclaren-mp4-12c-photo-331261-s-986x603.jpg",
+                        "credit": null,
+                        "description": "Land vehicle, Vehicle, Car, Supercar, Automotive design, Mclaren mp4-12c, Sports car, Mclaren automotive, Orange, Performance car, "
                     }
                 ],
                 "specs": {
@@ -1851,11 +1857,11 @@
                         },
                         {
                             "name": "Maximum Horsepower @ RPM",
-                            "value": "666 @ 7100"
+                            "value": "616 @ 7500"
                         },
                         {
                             "name": "Maximum Torque @ RPM",
-                            "value": "516 @ 5000"
+                            "value": "443 @ 3000"
                         },
                         {
                             "name": "Cooling System Capacity (quarts)",
@@ -1905,7 +1911,7 @@
                         },
                         {
                             "name": "Final Drive Axle Ratio (:1)",
-                            "value": "3.30"
+                            "value": "N/A"
                         },
                         {
                             "name": "Clutch Size",
@@ -1919,7 +1925,7 @@
                         },
                         {
                             "name": "CO2 Emissions, 15K mi/year (tons)",
-                            "value": "N/A"
+                            "value": "10.4 (Est)"
                         },
                         {
                             "name": "Range, city/highway (miles)",
@@ -1927,7 +1933,7 @@
                         },
                         {
                             "name": "EPA Fuel Economy, combined/city/highway (mpg)",
-                            "value": "N/A / N/A / N/A"
+                            "value": "18.1 (Est) / 15 (Est) / 22 (Est)"
                         },
                         {
                             "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
@@ -1937,7 +1943,7 @@
                     "Fuel Tank": [
                         {
                             "name": "Fuel Capacity / Gas Tank Size",
-                            "value": "19"
+                            "value": "N/A"
                         },
                         {
                             "name": "Aux Fuel Tank Capacity (gallons)",
@@ -1951,23 +1957,23 @@
                         },
                         {
                             "name": "Length (inches)",
-                            "value": "179"
+                            "value": "177.5"
                         },
                         {
                             "name": "Width, without mirrors (inches)",
-                            "value": "82.5"
+                            "value": "75.2"
                         },
                         {
                             "name": "Height (inches)",
-                            "value": "46.8"
+                            "value": "47.4"
                         },
                         {
                             "name": "Front Track Width (inches)",
-                            "value": "66"
+                            "value": "65.2"
                         },
                         {
                             "name": "Rear Track Width (inches)",
-                            "value": "63.1"
+                            "value": "63.3"
                         },
                         {
                             "name": "Minimum Ground Clearance (inches)",
@@ -1989,15 +1995,15 @@
                         },
                         {
                             "name": "Front Head Room (inches)",
-                            "value": "38.4"
+                            "value": "37.6"
                         },
                         {
                             "name": "Front Leg Room (inches)",
-                            "value": "44.2"
+                            "value": "43.4"
                         },
                         {
                             "name": "Front Shoulder Room (inches)",
-                            "value": "53.1"
+                            "value": "53.3"
                         },
                         {
                             "name": "Front Hip Room (inches)",
@@ -2023,7 +2029,7 @@
                     "Cargo Area Dimensions": [
                         {
                             "name": "Trunk Space (cubic feet)",
-                            "value": "N/A"
+                            "value": "6.9"
                         }
                     ],
                     "Steering": [
@@ -2085,11 +2091,11 @@
                         },
                         {
                             "name": "Front Brake Rotors, diameter x thickness (inches)",
-                            "value": "15.5"
+                            "value": "14.6"
                         },
                         {
                             "name": "Rear Brake Rotors, diameter x thickness (inches)",
-                            "value": "15"
+                            "value": "13.8"
                         }
                     ],
                     "Wheels and Tires": [
@@ -2099,7 +2105,7 @@
                         },
                         {
                             "name": "Front Wheel Material",
-                            "value": "Forged Aluminum"
+                            "value": "Aluminum"
                         },
                         {
                             "name": "Front Tire Size",
@@ -2111,7 +2117,7 @@
                         },
                         {
                             "name": "Rear Wheel Material",
-                            "value": "Forged Aluminum"
+                            "value": "Aluminum"
                         },
                         {
                             "name": "Rear Tire Size",
@@ -2139,7 +2145,7 @@
                     "Weight Information": [
                         {
                             "name": "Base Curb Weight (pounds)",
-                            "value": "2927"
+                            "value": "3249"
                         }
                     ],
                     "Electrical": [
@@ -2153,14 +2159,8 @@
                         }
                     ]
                 },
-                "slug": "/mclaren/650s",
-                "name": "675LT 2dr Cpe"
-            },
-            {
-                "model": "Elva"
-            },
-            {
-                "model": "MP4-12C"
+                "slug": "/mclaren/mp4-12c",
+                "name": "MP4-12C 2dr Conv Spider"
             },
             {
                 "model": "P1"

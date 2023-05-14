@@ -2457,73 +2457,102 @@
                 "model": "G"
             },
             {
-                "model": "JX",
+                "model": "JX"
+            },
+            {
+                "model": "M"
+            },
+            {
+                "model": "Q70"
+            },
+            {
+                "model": "QX",
                 "year": 2013,
-                "price": 42245,
-                "formattedPrice": "$42,245",
+                "price": 61745,
+                "formattedPrice": "$61,745",
                 "previewImage": [
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/2013-infiniti-jx-001-1557854653.jpg"
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2013-infiniti-qx-05-1557855482.jpg"
                     },
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/2013-infiniti-jx-001-1557854653.jpg",
-                        "credit": "Infiniti",
-                        "description": "2013 Infiniti JX side"
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2013-infiniti-qx-05-1557855482.jpg",
+                        "credit": "Infinti",
+                        "description": "Land vehicle, Vehicle, Car, Motor vehicle, Automotive design, Automotive tire, Rim, Tire, Infiniti, Transport, "
                     }
                 ],
                 "specs": {
                     "Vehicle": [
                         {
                             "name": "Drivetrain",
-                            "value": "All Wheel Drive"
+                            "value": "Four Wheel Drive"
                         }
                     ],
                     "Engine": [
                         {
-                            "name": "Engine Order Code",
-                            "value": "VQ35DE"
-                        },
-                        {
                             "name": "Engine Type and Required Fuel",
-                            "value": "Gas V6"
+                            "value": "Gas V8"
                         },
                         {
                             "name": "Displacement (liters/cubic inches)",
-                            "value": "3.5L/213"
+                            "value": "5.6L/339"
                         },
                         {
                             "name": "Fuel System",
-                            "value": "Electronic Fuel Injection"
+                            "value": "Direct Injection"
                         },
                         {
                             "name": "Maximum Horsepower @ RPM",
-                            "value": "265 @ 6400"
+                            "value": "400 @ 5800"
                         },
                         {
                             "name": "Maximum Torque @ RPM",
-                            "value": "248 @ 4400"
+                            "value": "413 @ 4000"
                         },
                         {
                             "name": "Cooling System Capacity (quarts)",
-                            "value": "N/A"
+                            "value": "15.6"
                         }
                     ],
                     "Transmission": [
                         {
                             "name": "Transmission Description",
-                            "value": "Continuously variable ratio"
+                            "value": "Automatic"
                         },
                         {
                             "name": "Number of Transmission Speeds",
-                            "value": "1"
+                            "value": "7"
                         },
                         {
                             "name": "First Gear Ratio (:1)",
-                            "value": "2.371 - 0.439"
+                            "value": "4.887"
+                        },
+                        {
+                            "name": "Second Gear Ratio (:1)",
+                            "value": "3.170"
+                        },
+                        {
+                            "name": "Third Gear Ratio (:1)",
+                            "value": "2.027"
+                        },
+                        {
+                            "name": "Fourth Gear Ratio (:1)",
+                            "value": "1.412"
+                        },
+                        {
+                            "name": "Fifth Gear Ratio (:1)",
+                            "value": "1.000"
+                        },
+                        {
+                            "name": "Sixth Gear Ratio (:1)",
+                            "value": "0.864"
+                        },
+                        {
+                            "name": "Seventh Gear Ratio (:1)",
+                            "value": "0.775"
                         },
                         {
                             "name": "Reverse Ratio (:1)",
-                            "value": "5.173"
+                            "value": "N/A"
                         },
                         {
                             "name": "Final Drive Axle Ratio (:1)",
@@ -2531,65 +2560,65 @@
                         },
                         {
                             "name": "Transfer Case Gear Ratio, high (:1)",
-                            "value": "0.404"
+                            "value": "1.00"
                         },
                         {
                             "name": "Transfer Case Gear Ratio, low (:1)",
-                            "value": "N/A"
+                            "value": "2.7"
                         }
                     ],
                     "Fuel Economy and Range": [
                         {
                             "name": "EPA Greenhouse Gas Score",
-                            "value": "N/A"
+                            "value": "3"
                         },
                         {
                             "name": "CO2 Emissions, 15K mi/year (tons)",
-                            "value": "N/A"
+                            "value": "11.5"
                         },
                         {
                             "name": "Range, city/highway (miles)",
-                            "value": "331.50 / 448.50"
+                            "value": "364.00 / 520.00"
                         },
                         {
                             "name": "EPA Fuel Economy, combined/city/highway (mpg)",
-                            "value": "19 (Est) / 17 (Est) / 23 (Est)"
+                            "value": "16 / 14 / 20"
                         }
                     ],
                     "Fuel Tank": [
                         {
                             "name": "Fuel Capacity / Gas Tank Size",
-                            "value": "19.5"
+                            "value": "26.0"
                         }
                     ],
                     "Exterior Dimensions": [
                         {
                             "name": "Wheelbase (inches)",
-                            "value": "114.2"
+                            "value": "121.1"
                         },
                         {
                             "name": "Length (inches)",
-                            "value": "196.4"
+                            "value": "208.3"
                         },
                         {
                             "name": "Width, without mirrors (inches)",
-                            "value": "77.2"
+                            "value": "79.9"
                         },
                         {
                             "name": "Height (inches)",
-                            "value": "67.8"
+                            "value": "75.8"
                         },
                         {
                             "name": "Front Track Width (inches)",
-                            "value": "65.7"
+                            "value": "67.5"
                         },
                         {
                             "name": "Rear Track Width (inches)",
-                            "value": "65.7"
+                            "value": "67.9"
                         },
                         {
                             "name": "Minimum Ground Clearance (inches)",
-                            "value": "6.5"
+                            "value": "9.2"
                         },
                         {
                             "name": "Rear Door Opening Height (inches)",
@@ -2601,7 +2630,7 @@
                         },
                         {
                             "name": "Liftover Height (inches)",
-                            "value": "N/A"
+                            "value": "34.9"
                         },
                         {
                             "name": "Body Length",
@@ -2619,65 +2648,65 @@
                         },
                         {
                             "name": "Front Head Room (inches)",
-                            "value": "40.7"
+                            "value": "39.9"
                         },
                         {
                             "name": "Front Leg Room (inches)",
-                            "value": "42.3"
+                            "value": "39.6"
                         },
                         {
                             "name": "Front Shoulder Room (inches)",
-                            "value": "60.3"
+                            "value": "63.8"
                         },
                         {
                             "name": "Front Hip Room (inches)",
-                            "value": "56.8"
+                            "value": "59.2"
                         },
                         {
                             "name": "Second Row Head Room (inches)",
-                            "value": "38.3"
+                            "value": "40.0"
                         },
                         {
                             "name": "Second Row Leg Room (inches)",
-                            "value": "41.7"
+                            "value": "41.0"
                         },
                         {
                             "name": "Second Row Shoulder Room (inches)",
-                            "value": "60.4"
+                            "value": "63.5"
                         },
                         {
                             "name": "Second Row Hip Room (inches)",
-                            "value": "55.8"
+                            "value": "58.4"
                         },
                         {
                             "name": "Third Row Head Room (inches)",
-                            "value": "36.5"
+                            "value": "36.4"
                         },
                         {
                             "name": "Third Row Leg Room (inches)",
-                            "value": "30.8"
+                            "value": "28.3"
                         },
                         {
                             "name": "Third Row Shoulder Room (inches)",
-                            "value": "57.1"
+                            "value": "60.5"
                         },
                         {
                             "name": "Third Row Hip Room (inches)",
-                            "value": "42.0"
+                            "value": "48.8"
                         }
                     ],
                     "Cargo Area Dimensions": [
                         {
                             "name": "Cargo Space/Area Length Behind First Row (inches)",
-                            "value": "N/A"
+                            "value": "86.2"
                         },
                         {
                             "name": "Cargo Space/Area Length Behind Second Row (inches)",
-                            "value": "N/A"
+                            "value": "49.1"
                         },
                         {
                             "name": "Cargo Space/Area Length Behind Third Row (inches)",
-                            "value": "N/A"
+                            "value": "20.2"
                         },
                         {
                             "name": "Cargo Space/Area Width at Beltline (inches)",
@@ -2693,7 +2722,7 @@
                         },
                         {
                             "name": "Cargo Bed Height (inches)",
-                            "value": "N/A"
+                            "value": "33.7"
                         },
                         {
                             "name": "Cargo Space/Area (cubic feet)",
@@ -2701,21 +2730,21 @@
                         },
                         {
                             "name": "Cargo Space/Area Behind Front Row (cubic feet)",
-                            "value": "N/A"
+                            "value": "95.1"
                         },
                         {
                             "name": "Cargo Space/Area Behind Second Row (cubic feet)",
-                            "value": "N/A"
+                            "value": "49.6"
                         },
                         {
                             "name": "Cargo Space/Area Behind Third Row (cubic feet)",
-                            "value": "15.8"
+                            "value": "16.6"
                         }
                     ],
                     "Steering": [
                         {
                             "name": "Steering Type",
-                            "value": "N/A"
+                            "value": "Pwr Rack & Pinion"
                         },
                         {
                             "name": "Steering Ratio (:1)",
@@ -2723,21 +2752,21 @@
                         },
                         {
                             "name": "Turning Diameter / Radius, curb to curb (feet)",
-                            "value": "N/A"
+                            "value": "41.6"
                         },
                         {
                             "name": "Turning Diameter / Radius, wall to wall (feet)",
-                            "value": "N/A"
+                            "value": "43.3"
                         }
                     ],
                     "Suspension": [
                         {
                             "name": "Front Suspension Type",
-                            "value": "N/A"
+                            "value": "Double Wishbone"
                         },
                         {
                             "name": "Rear Suspension Type",
-                            "value": "N/A"
+                            "value": "Self-Leveling"
                         },
                         {
                             "name": "Front Shock Absorber Diameter (mm)",
@@ -2759,7 +2788,7 @@
                     "Brakes": [
                         {
                             "name": "Brake Type",
-                            "value": "Power"
+                            "value": "Pwr"
                         },
                         {
                             "name": "Anti-Lock-Braking System",
@@ -2767,17 +2796,17 @@
                         },
                         {
                             "name": "Front Brake Rotors, diameter x thickness (inches)",
-                            "value": "12.6 x 1.10"
+                            "value": "13.78 x 1.18"
                         },
                         {
                             "name": "Rear Brake Rotors, diameter x thickness (inches)",
-                            "value": "12.13 x 0.63"
+                            "value": "13.78 x 0.79"
                         }
                     ],
                     "Wheels and Tires": [
                         {
                             "name": "Front Wheel Size (inches)",
-                            "value": "18 x 7.5"
+                            "value": "20 x 8.0"
                         },
                         {
                             "name": "Front Wheel Material",
@@ -2785,11 +2814,11 @@
                         },
                         {
                             "name": "Front Tire Size",
-                            "value": "P235/65R18"
+                            "value": "P275/60HR20"
                         },
                         {
                             "name": "Rear Wheel Size (inches)",
-                            "value": "18 x 7.5"
+                            "value": "20 x 8.0"
                         },
                         {
                             "name": "Rear Wheel Material",
@@ -2797,19 +2826,19 @@
                         },
                         {
                             "name": "Rear Tire Size",
-                            "value": "P235/65R18"
+                            "value": "P275/60HR20"
                         },
                         {
                             "name": "Spare Wheel Size (inches)",
-                            "value": "Compact"
+                            "value": "20 x 8.0"
                         },
                         {
                             "name": "Spare Wheel Material",
-                            "value": "N/A"
+                            "value": "Aluminum"
                         },
                         {
                             "name": "Spare Tire Size",
-                            "value": "Compact"
+                            "value": "P275/60HR20"
                         }
                     ],
                     "Towing": [
@@ -2819,19 +2848,19 @@
                         },
                         {
                             "name": "Maximum Trailer Weight, dead weight hitch (pounds)",
-                            "value": "N/A"
+                            "value": "5000"
                         },
                         {
                             "name": "Maximum Tongue Weight, dead weight hitch (pounds)",
-                            "value": "N/A"
+                            "value": "500"
                         },
                         {
                             "name": "Maximum Trailer Weight, weight distributing hitch (pounds)",
-                            "value": "N/A"
+                            "value": "8500"
                         },
                         {
                             "name": "Maximum Tongue Weight, weight distributing hitch (pounds)",
-                            "value": "N/A"
+                            "value": "850"
                         }
                     ],
                     "Weight Information": [
@@ -2845,27 +2874,27 @@
                         },
                         {
                             "name": "Maximum Payload Capacity (pounds)",
-                            "value": "-4462.00"
+                            "value": "1650.00"
                         },
                         {
                             "name": "As Spec'd Payload Capacity (pounds)",
-                            "value": "-4462.00"
+                            "value": "1650.00"
                         },
                         {
                             "name": "Gross Vehicle Weight Rating (pounds)",
-                            "value": "0.00"
+                            "value": "7500.00"
                         },
                         {
                             "name": "Front Gross Axle Weight Rating (pounds)",
-                            "value": "N/A"
+                            "value": "3615"
                         },
                         {
                             "name": "Rear Gross Axle Weight Rating (pounds)",
-                            "value": "N/A"
+                            "value": "4495"
                         },
                         {
                             "name": "Curb Weight",
-                            "value": "4462.00"
+                            "value": "5850.00"
                         },
                         {
                             "name": "Payload Weight Front",
@@ -2883,17 +2912,8 @@
                         }
                     ]
                 },
-                "slug": "/infiniti/jx",
-                "name": "JX35 AWD"
-            },
-            {
-                "model": "M"
-            },
-            {
-                "model": "Q70"
-            },
-            {
-                "model": "QX"
+                "slug": "/infiniti/qx",
+                "name": "QX56 4WD 4dr"
             },
             {
                 "model": "QX30"

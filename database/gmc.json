@@ -3601,48 +3601,48 @@
             },
             {
                 "model": "Sierra EV",
-                "year": 2023,
-                "price": 44095,
-                "formattedPrice": "$44,095",
+                "year": 2022,
+                "price": 30480,
+                "formattedPrice": "$30,480",
                 "previewImage": [
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-gmc-sierra-2500hd-at4-4wd-crew-cab-114-1577134209.jpg"
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2021-gmc-canyon-at4-4wd-short-bed-crew-cab-101-1619707975.jpg"
                     },
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-gmc-sierra-2500hd-at4-4wd-crew-cab-114-1577134209.jpg",
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2021-gmc-canyon-at4-4wd-short-bed-crew-cab-101-1619707975.jpg",
                         "credit": "Michael Simari",
-                        "description": "2023 GMC Sierra HD front"
+                        "description": "2021 GMC Canyon AT4 front"
                     },
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-gmc-sierra-2500hd-denali-4wd-crew-cab-144-1577134221.jpg",
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2021-gmc-canyon-at4-4wd-short-bed-crew-cab-534-1619707992.jpg",
                         "credit": "Michael Simari",
-                        "description": "2023 GMC Sierra HD Interior"
+                        "description": "2021 GMC Canyon AT4 interior"
                     },
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-gmc-sierra-2500hd-at4-4wd-crew-cab-108-1577134206.jpg",
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2021-gmc-canyon-at4-4wd-short-bed-crew-cab-232-1619707986.jpg",
                         "credit": "Michael Simari",
-                        "description": "2023 GMC Sierra 2500HD rear"
+                        "description": "2021 GMC Canyon AT4 rear"
                     }
                 ],
                 "specs": {
                     "Vehicle": [
                         {
                             "name": "Drivetrain",
-                            "value": "Rear Wheel Drive"
+                            "value": "Four Wheel Drive"
                         }
                     ],
                     "Engine": [
                         {
                             "name": "Engine Order Code",
-                            "value": "L8T"
+                            "value": "L3B"
                         },
                         {
                             "name": "Engine Type and Required Fuel",
-                            "value": "Gas V8"
+                            "value": "Turbocharged Gas I4"
                         },
                         {
                             "name": "Displacement (liters/cubic inches)",
-                            "value": "6.6L/-TBD-"
+                            "value": "2.7L/-TBD-"
                         },
                         {
                             "name": "Fuel System",
@@ -3650,11 +3650,11 @@
                         },
                         {
                             "name": "Maximum Horsepower @ RPM",
-                            "value": "401 @ 5200"
+                            "value": "310 @ 5600 (Est)"
                         },
                         {
                             "name": "Maximum Torque @ RPM",
-                            "value": "464 @ 4000"
+                            "value": "430 @ 3000 (Est)"
                         },
                         {
                             "name": "Cooling System Capacity (quarts)",
@@ -3668,7 +3668,7 @@
                     "Transmission": [
                         {
                             "name": "Transmission Order Code",
-                            "value": "MKM"
+                            "value": "MFC"
                         },
                         {
                             "name": "Transmission Description",
@@ -3676,58 +3676,58 @@
                         },
                         {
                             "name": "Number of Transmission Speeds",
-                            "value": "10"
+                            "value": "8"
                         },
                         {
                             "name": "First Gear Ratio (:1)",
-                            "value": "N/A"
+                            "value": "4.56"
                         },
                         {
                             "name": "Second Gear Ratio (:1)",
-                            "value": "N/A"
+                            "value": "2.97"
                         },
                         {
                             "name": "Third Gear Ratio (:1)",
-                            "value": "N/A"
+                            "value": "2.08"
                         },
                         {
                             "name": "Fourth Gear Ratio (:1)",
-                            "value": "N/A"
+                            "value": "1.69"
                         },
                         {
                             "name": "Fifth Gear Ratio (:1)",
-                            "value": "N/A"
+                            "value": "1.27"
                         },
                         {
                             "name": "Sixth Gear Ratio (:1)",
-                            "value": "N/A"
+                            "value": "1.00"
                         },
                         {
                             "name": "Seventh Gear Ratio (:1)",
-                            "value": "N/A"
+                            "value": "0.85"
                         },
                         {
                             "name": "Eighth Gear Ratio (:1)",
-                            "value": "N/A"
-                        },
-                        {
-                            "name": "Ninth Gear Ratio (:1)",
-                            "value": "N/A"
-                        },
-                        {
-                            "name": "Tenth Gear Ratio (:1)",
-                            "value": "N/A"
+                            "value": "0.65"
                         },
                         {
                             "name": "Reverse Ratio (:1)",
-                            "value": "N/A"
+                            "value": "3.82"
                         },
                         {
                             "name": "Final Drive Axle Ratio (:1)",
                             "value": "N/A"
                         },
                         {
-                            "name": "Clutch Size",
+                            "name": "Transfer Case Model",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Transfer Case Gear Ratio, high (:1)",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Transfer Case Gear Ratio, low (:1)",
                             "value": "N/A"
                         }
                     ],
@@ -3737,36 +3737,40 @@
                             "value": "N/A"
                         },
                         {
+                            "name": "CO2 Emissions, 15K mi/year (tons)",
+                            "value": "N/A"
+                        },
+                        {
                             "name": "Range, city/highway (miles)",
-                            "value": "0.00 / 0.00"
+                            "value": "N/A / N/A"
                         },
                         {
                             "name": "EPA Fuel Economy, combined/city/highway (mpg)",
-                            "value": " /  / "
+                            "value": "N/A / N/A / N/A"
                         }
                     ],
                     "Fuel Tank": [
                         {
                             "name": "Fuel Capacity / Gas Tank Size",
-                            "value": "36"
+                            "value": "21.4"
                         }
                     ],
                     "Exterior Dimensions": [
                         {
                             "name": "Wheelbase (inches)",
-                            "value": "141.55"
+                            "value": "131.4"
                         },
                         {
                             "name": "Length (inches)",
-                            "value": "236.3"
+                            "value": "213.2"
                         },
                         {
                             "name": "Width, without mirrors (inches)",
-                            "value": "81.75"
+                            "value": "72.4 w/Mirrors Folded, 84.4 w/Mirrors"
                         },
                         {
                             "name": "Height (inches)",
-                            "value": "79.94"
+                            "value": "80.4"
                         },
                         {
                             "name": "Body Length",
@@ -3774,73 +3778,73 @@
                         },
                         {
                             "name": "Ground Clearance, Front",
-                            "value": "10.2"
+                            "value": "10.5"
                         }
                     ],
                     "Interior Dimensions": [
                         {
                             "name": "Passenger / Seating Capacity",
-                            "value": "3"
+                            "value": "5"
                         },
                         {
                             "name": "Front Head Room (inches)",
-                            "value": "43.11"
+                            "value": "40.3"
                         },
                         {
                             "name": "Front Leg Room (inches)",
-                            "value": "44.53"
+                            "value": "45.2"
                         },
                         {
                             "name": "Front Shoulder Room (inches)",
-                            "value": "66.06"
+                            "value": "57.4"
                         },
                         {
                             "name": "Front Hip Room (inches)",
-                            "value": "60.9"
+                            "value": "54.7"
                         },
                         {
                             "name": "Second Row Head Room (inches)",
-                            "value": "N/A"
+                            "value": "38.3"
                         },
                         {
                             "name": "Second Row Leg Room (inches)",
-                            "value": "N/A"
+                            "value": "34.7"
                         },
                         {
                             "name": "Second Row Shoulder Room (inches)",
-                            "value": "N/A"
+                            "value": "56.1"
                         },
                         {
                             "name": "Second Row Hip Room (inches)",
-                            "value": "N/A"
+                            "value": "53.1"
                         }
                     ],
                     "Cargo Area Dimensions": [
                         {
                             "name": "Cargo Bed Length (inches)",
-                            "value": "98.27"
+                            "value": "61.7"
                         },
                         {
                             "name": "Cargo Bed Width at Floor (inches)",
-                            "value": "71.4"
+                            "value": "58.1"
                         },
                         {
                             "name": "Cargo Bed Width Between Wheelhousings (inches)",
-                            "value": "50.55"
+                            "value": "45.5"
                         },
                         {
                             "name": "Cargo Bed Height (inches)",
-                            "value": "21"
+                            "value": "N/A"
                         },
                         {
                             "name": "Cargo Space/Area (cubic feet)",
-                            "value": "83.5"
+                            "value": "41.9"
                         }
                     ],
                     "Steering": [
                         {
                             "name": "Steering Type",
-                            "value": "Pwr Recirculating Ball"
+                            "value": "Electric Rack & Pinion"
                         },
                         {
                             "name": "Steering Ratio (:1)",
@@ -3848,7 +3852,7 @@
                         },
                         {
                             "name": "Turning Diameter / Radius, curb to curb (feet)",
-                            "value": "46.9"
+                            "value": "N/A"
                         },
                         {
                             "name": "Turning Diameter / Radius, wall to wall (feet)",
@@ -3858,23 +3862,27 @@
                     "Suspension": [
                         {
                             "name": "Front Suspension Type",
-                            "value": "Short/Long Arm"
+                            "value": "Independent"
                         },
                         {
                             "name": "Rear Suspension Type",
-                            "value": "Multi-Leaf Springs"
+                            "value": "2-Stage Multi-Leaf"
                         },
                         {
                             "name": "Front Shock Absorber Diameter (mm)",
-                            "value": "2.01"
+                            "value": "N/A"
                         },
                         {
                             "name": "Rear Shock Absorber Diameter (mm)",
-                            "value": "2.01"
+                            "value": "N/A"
                         },
                         {
                             "name": "Front Anti-Roll Bar Diameter (inches)",
-                            "value": "1.38"
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
                         }
                     ],
                     "Brakes": [
@@ -3888,55 +3896,55 @@
                         },
                         {
                             "name": "Front Brake Rotors, diameter x thickness (inches)",
-                            "value": "14 x 1.6"
+                            "value": "13.4 x -TBD-"
                         },
                         {
                             "name": "Rear Brake Rotors, diameter x thickness (inches)",
-                            "value": "14.1 x 1.3"
+                            "value": "13.3 x -TBD-"
                         }
                     ],
                     "Wheels and Tires": [
                         {
                             "name": "Front Wheel Size (inches)",
-                            "value": "17 x -TBD-"
+                            "value": "20 x 9"
                         },
                         {
                             "name": "Front Wheel Material",
-                            "value": "Steel"
+                            "value": "Aluminum"
                         },
                         {
                             "name": "Front Tire Size",
-                            "value": "LT245/75R17E"
+                            "value": "275/60R20SL"
                         },
                         {
                             "name": "Rear Wheel Size (inches)",
-                            "value": "17 x -TBD-"
+                            "value": "20 x 9"
                         },
                         {
                             "name": "Rear Wheel Material",
-                            "value": "Steel"
+                            "value": "Aluminum"
                         },
                         {
                             "name": "Rear Tire Size",
-                            "value": "LT245/75R17E"
+                            "value": "275/60R20SL"
                         },
                         {
                             "name": "Spare Wheel Size (inches)",
-                            "value": "17 x -TBD-"
+                            "value": "20 x 9"
                         },
                         {
                             "name": "Spare Wheel Material",
-                            "value": "Steel"
+                            "value": "Aluminum"
                         },
                         {
                             "name": "Spare Tire Size",
-                            "value": "LT245/75R17E"
+                            "value": "275/60R20"
                         }
                     ],
                     "Towing": [
                         {
                             "name": "Maximum Towing Capacity (pounds)",
-                            "value": "14500"
+                            "value": "7700"
                         },
                         {
                             "name": "Maximum Trailer Weight, dead weight hitch (pounds)",
@@ -3948,11 +3956,11 @@
                         },
                         {
                             "name": "Maximum Trailer Weight, weight distributing hitch (pounds)",
-                            "value": "14500"
+                            "value": "7700"
                         },
                         {
                             "name": "Maximum Tongue Weight, weight distributing hitch (pounds)",
-                            "value": "1450"
+                            "value": "770"
                         }
                     ],
                     "Weight Information": [
@@ -3966,27 +3974,27 @@
                         },
                         {
                             "name": "Maximum Payload Capacity (pounds)",
-                            "value": "N/A"
+                            "value": "1499.00"
                         },
                         {
                             "name": "As Spec'd Payload Capacity (pounds)",
-                            "value": "N/A"
+                            "value": "1499.00"
                         },
                         {
                             "name": "Gross Vehicle Weight Rating (pounds)",
-                            "value": "10000.00"
+                            "value": "6250.00"
                         },
                         {
                             "name": "Front Gross Axle Weight Rating (pounds)",
-                            "value": "N/A"
+                            "value": "3500"
                         },
                         {
                             "name": "Rear Gross Axle Weight Rating (pounds)",
-                            "value": "N/A"
+                            "value": "3600"
                         },
                         {
                             "name": "Curb Weight",
-                            "value": "N/A"
+                            "value": "4751.00"
                         },
                         {
                             "name": "Payload Weight Front",
@@ -3996,7 +4004,7 @@
                     "Electrical": [
                         {
                             "name": "Cold Cranking Amps @ 0° F",
-                            "value": "720"
+                            "value": "800"
                         },
                         {
                             "name": "Maximum Alternator Capacity (amps)",
@@ -4004,8 +4012,8 @@
                         }
                     ]
                 },
-                "slug": "/gmc/sierra-2500hd-3500hd-2023",
-                "name": "Sierra 2500HD Regular Cab Long Box 2-Wheel Drive Pro"
+                "slug": "/gmc/canyon-2022",
+                "name": "Canyon Crew Cab Short Box 4-Wheel Drive Denali"
             }
         ],
         "vans": [

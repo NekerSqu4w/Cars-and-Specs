@@ -15,25 +15,34 @@
                 "model": "iA"
             },
             {
-                "model": "iM",
-                "year": 2016,
-                "price": 19255,
-                "formattedPrice": "$19,255",
+                "model": "iM"
+            },
+            {
+                "model": "tC"
+            },
+            {
+                "model": "xB"
+            },
+            {
+                "model": "xD",
+                "year": 2014,
+                "price": 16690,
+                "formattedPrice": "$16,690",
                 "previewImage": [
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2016/03/2016-Scion-iM-110.jpg"
+                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/52303/2008-scion-xd-photo-53941-s-986x603.jpg"
                     },
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2016/03/2016-Scion-iM-110.jpg",
-                        "credit": "Michael Simari",
-                        "description": "Land vehicle, Vehicle, Car, Mid-size car, Automotive design, Wheel, Rim, Hatchback, Automotive wheel system, Honda civic, "
+                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/52303/2008-scion-xd-photo-53941-s-986x603.jpg",
+                        "credit": "MARY SEELHORST",
+                        "description": "Land vehicle, Vehicle, Car, Motor vehicle, Hatchback, Scion xd, Automotive design, Subcompact car, Compact car, Scion, "
                     }
                 ],
                 "specs": {
                     "Vehicle": [
                         {
                             "name": "EPA Classification",
-                            "value": "Midsize Cars"
+                            "value": "Subcompact Cars"
                         },
                         {
                             "name": "Drivetrain",
@@ -55,11 +64,11 @@
                         },
                         {
                             "name": "Maximum Horsepower @ RPM",
-                            "value": "137 @ 6100"
+                            "value": "128 @ 6000"
                         },
                         {
                             "name": "Maximum Torque @ RPM",
-                            "value": "126 @ 4000"
+                            "value": "125 @ 4400"
                         },
                         {
                             "name": "Cooling System Capacity (quarts)",
@@ -69,23 +78,35 @@
                     "Transmission": [
                         {
                             "name": "Transmission Description",
-                            "value": "CVT w/OD"
+                            "value": "Automatic w/OD"
                         },
                         {
                             "name": "Number of Transmission Speeds",
-                            "value": "1"
+                            "value": "4"
                         },
                         {
                             "name": "First Gear Ratio (:1)",
-                            "value": "2.48 - 0.40"
+                            "value": "2.85"
+                        },
+                        {
+                            "name": "Second Gear Ratio (:1)",
+                            "value": "1.55"
+                        },
+                        {
+                            "name": "Third Gear Ratio (:1)",
+                            "value": "1.00"
+                        },
+                        {
+                            "name": "Fourth Gear Ratio (:1)",
+                            "value": "0.70"
                         },
                         {
                             "name": "Reverse Ratio (:1)",
-                            "value": "2.60"
+                            "value": "2.34"
                         },
                         {
                             "name": "Final Drive Axle Ratio (:1)",
-                            "value": "5.04"
+                            "value": "4.13"
                         },
                         {
                             "name": "Clutch Size",
@@ -95,19 +116,19 @@
                     "Fuel Economy and Range": [
                         {
                             "name": "EPA Greenhouse Gas Score",
-                            "value": "8.0"
+                            "value": "N/A"
                         },
                         {
                             "name": "CO2 Emissions, 15K mi/year (tons)",
-                            "value": "5.5"
+                            "value": "6.3"
                         },
                         {
                             "name": "Range, city/highway (miles)",
-                            "value": "392.00 / 518.00"
+                            "value": "299.70 / 366.30"
                         },
                         {
                             "name": "EPA Fuel Economy, combined/city/highway (mpg)",
-                            "value": "32 / 28 / 37"
+                            "value": "29 / 27 / 33"
                         },
                         {
                             "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
@@ -117,7 +138,7 @@
                     "Fuel Tank": [
                         {
                             "name": "Fuel Capacity / Gas Tank Size",
-                            "value": "14"
+                            "value": "11.1"
                         },
                         {
                             "name": "Aux Fuel Tank Capacity (gallons)",
@@ -127,31 +148,31 @@
                     "Exterior Dimensions": [
                         {
                             "name": "Wheelbase (inches)",
-                            "value": "102.4"
+                            "value": "96.9"
                         },
                         {
                             "name": "Length (inches)",
-                            "value": "170.5"
+                            "value": "154.7"
                         },
                         {
                             "name": "Width, without mirrors (inches)",
-                            "value": "69.3"
+                            "value": "67.9"
                         },
                         {
                             "name": "Height (inches)",
-                            "value": "55.3"
+                            "value": "59.4"
                         },
                         {
                             "name": "Front Track Width (inches)",
-                            "value": "59.6"
+                            "value": "58.5"
                         },
                         {
                             "name": "Rear Track Width (inches)",
-                            "value": "59.3"
+                            "value": "58.7"
                         },
                         {
                             "name": "Minimum Ground Clearance (inches)",
-                            "value": "5.5"
+                            "value": "6.5"
                         },
                         {
                             "name": "Liftover Height (inches)",
@@ -165,39 +186,39 @@
                         },
                         {
                             "name": "Total Passenger Volume (cubic feet)",
-                            "value": "90.4"
+                            "value": "84.5"
                         },
                         {
                             "name": "Front Head Room (inches)",
-                            "value": "39.7"
+                            "value": "38.9"
                         },
                         {
                             "name": "Front Leg Room (inches)",
-                            "value": "41.6"
+                            "value": "40.3"
                         },
                         {
                             "name": "Front Shoulder Room (inches)",
-                            "value": "54.3"
+                            "value": "51.9"
                         },
                         {
                             "name": "Front Hip Room (inches)",
-                            "value": "N/A"
+                            "value": "51.1"
                         },
                         {
                             "name": "Second Row Head Room (inches)",
-                            "value": "37.5"
+                            "value": "37.6"
                         },
                         {
                             "name": "Second Row Leg Room (inches)",
-                            "value": "32.7"
+                            "value": "33.9"
                         },
                         {
                             "name": "Second Row Shoulder Room (inches)",
-                            "value": "54.1"
+                            "value": "50.7"
                         },
                         {
                             "name": "Second Row Hip Room (inches)",
-                            "value": "N/A"
+                            "value": "50.1"
                         }
                     ],
                     "Cargo Area Dimensions": [
@@ -207,11 +228,11 @@
                         },
                         {
                             "name": "Cargo Space/Area with Rear Seat Down",
-                            "value": "N/A"
+                            "value": "35.7"
                         },
                         {
                             "name": "Cargo Space/Area with Rear Seat Up",
-                            "value": "20.8"
+                            "value": "10.5"
                         }
                     ],
                     "Steering": [
@@ -229,7 +250,7 @@
                         },
                         {
                             "name": "Turning Diameter / Radius, curb to curb (feet)",
-                            "value": "35.4"
+                            "value": "37"
                         },
                         {
                             "name": "Turning Diameter / Radius, wall to wall (feet)",
@@ -243,7 +264,7 @@
                         },
                         {
                             "name": "Rear Suspension Type",
-                            "value": "Double Wishbone"
+                            "value": "Torsion Beam"
                         },
                         {
                             "name": "Front Shock Absorber Diameter (mm)",
@@ -265,7 +286,7 @@
                     "Brakes": [
                         {
                             "name": "Brake Type",
-                            "value": "4-Wheel Disc"
+                            "value": "Front Disc/Rear Drum"
                         },
                         {
                             "name": "Anti-Lock-Braking System",
@@ -273,37 +294,41 @@
                         },
                         {
                             "name": "Front Brake Rotors, diameter x thickness (inches)",
-                            "value": "11.7"
+                            "value": "10.8"
                         },
                         {
                             "name": "Rear Brake Rotors, diameter x thickness (inches)",
-                            "value": "11"
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Drums, diameter x width (inches)",
+                            "value": "N/A"
                         }
                     ],
                     "Wheels and Tires": [
                         {
                             "name": "Front Wheel Size (inches)",
-                            "value": "17 X 7"
+                            "value": "16 X 6"
                         },
                         {
                             "name": "Front Wheel Material",
-                            "value": "Aluminum"
+                            "value": "Steel"
                         },
                         {
                             "name": "Front Tire Size",
-                            "value": "P225/45HR17"
+                            "value": "P195/60HR16"
                         },
                         {
                             "name": "Rear Wheel Size (inches)",
-                            "value": "17 X 7"
+                            "value": "16 X 6"
                         },
                         {
                             "name": "Rear Wheel Material",
-                            "value": "Aluminum"
+                            "value": "Steel"
                         },
                         {
                             "name": "Rear Tire Size",
-                            "value": "P225/45HR17"
+                            "value": "P195/60HR16"
                         },
                         {
                             "name": "Spare Wheel Size (inches)",
@@ -339,7 +364,7 @@
                     "Weight Information": [
                         {
                             "name": "Base Curb Weight (pounds)",
-                            "value": "3031"
+                            "value": "2665"
                         }
                     ],
                     "Electrical": [
@@ -353,17 +378,8 @@
                         }
                     ]
                 },
-                "slug": "/scion/im",
-                "name": "iM 5dr HB CVT (Natl)"
-            },
-            {
-                "model": "tC"
-            },
-            {
-                "model": "xB"
-            },
-            {
-                "model": "xD"
+                "slug": "/scion/xd",
+                "name": "xD 5dr HB Auto (Natl)"
             }
         ]
     }

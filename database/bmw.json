@@ -12826,51 +12826,54 @@
         "vans": {},
         "discontinued": [
             {
-                "model": "1-series",
-                "year": 2013,
-                "price": 32425,
-                "formattedPrice": "$32,425",
+                "model": "1-series"
+            },
+            {
+                "model": "3-series Wagon",
+                "year": 2019,
+                "price": 45995,
+                "formattedPrice": "$45,995",
                 "previewImage": [
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/2012-bmw-1-series-mmp-1565029829.jpg"
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/p90180536-highres-the-new-bmw-3-series-1557855349.jpg"
                     },
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/2012-bmw-1-series-mmp-1565029829.jpg",
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/p90180536-highres-the-new-bmw-3-series-1557855349.jpg",
                         "credit": "BMW",
-                        "description": "2012 BMW 1-series"
+                        "description": "2019 BMW 3-series Wagon"
                     }
                 ],
                 "specs": {
                     "Vehicle": [
                         {
                             "name": "EPA Classification",
-                            "value": "Subcompact"
+                            "value": "Small Station Wagons"
                         },
                         {
                             "name": "Drivetrain",
-                            "value": "Rear Wheel Drive"
+                            "value": "All Wheel Drive"
                         }
                     ],
                     "Engine": [
                         {
                             "name": "Engine Type and Required Fuel",
-                            "value": "Gas I6"
+                            "value": "Intercooled Turbo Premium Unleaded I-4"
                         },
                         {
                             "name": "Displacement (liters/cubic inches)",
-                            "value": "3.0L/183"
+                            "value": "2.0 L/122"
                         },
                         {
                             "name": "Fuel System",
-                            "value": "Electronic Fuel Injection"
+                            "value": "Gasoline Direct Injection"
                         },
                         {
                             "name": "Maximum Horsepower @ RPM",
-                            "value": "230 @ 6500"
+                            "value": "248 @ 5200"
                         },
                         {
                             "name": "Maximum Torque @ RPM",
-                            "value": "200 @ 2750"
+                            "value": "258 @ 1450"
                         },
                         {
                             "name": "Cooling System Capacity (quarts)",
@@ -12879,44 +12882,56 @@
                     ],
                     "Transmission": [
                         {
+                            "name": "Transmission Order Code",
+                            "value": "2TB"
+                        },
+                        {
                             "name": "Transmission Description",
-                            "value": "Manual"
+                            "value": "Automatic w/OD"
                         },
                         {
                             "name": "Number of Transmission Speeds",
-                            "value": "6"
+                            "value": "8"
                         },
                         {
                             "name": "First Gear Ratio (:1)",
-                            "value": "4.320"
+                            "value": "4.71"
                         },
                         {
                             "name": "Second Gear Ratio (:1)",
-                            "value": "2.460"
+                            "value": "3.14"
                         },
                         {
                             "name": "Third Gear Ratio (:1)",
-                            "value": "1.660"
+                            "value": "2.11"
                         },
                         {
                             "name": "Fourth Gear Ratio (:1)",
-                            "value": "1.230"
+                            "value": "1.67"
                         },
                         {
                             "name": "Fifth Gear Ratio (:1)",
-                            "value": "1.000"
+                            "value": "1.28"
                         },
                         {
                             "name": "Sixth Gear Ratio (:1)",
-                            "value": "0.850"
+                            "value": "1.00"
+                        },
+                        {
+                            "name": "Seventh Gear Ratio (:1)",
+                            "value": "0.84"
+                        },
+                        {
+                            "name": "Eighth Gear Ratio (:1)",
+                            "value": "0.67"
                         },
                         {
                             "name": "Reverse Ratio (:1)",
-                            "value": "3.940"
+                            "value": "3.29"
                         },
                         {
                             "name": "Final Drive Axle Ratio (:1)",
-                            "value": "3.230"
+                            "value": "2.81"
                         },
                         {
                             "name": "Clutch Size",
@@ -12930,15 +12945,15 @@
                         },
                         {
                             "name": "CO2 Emissions, 15K mi/year (tons)",
-                            "value": "N/A"
+                            "value": "6.6"
                         },
                         {
                             "name": "Range, city/highway (miles)",
-                            "value": "N/A / N/A"
+                            "value": "363.40 / 521.40"
                         },
                         {
                             "name": "EPA Fuel Economy, combined/city/highway (mpg)",
-                            "value": "N/A / N/A / N/A"
+                            "value": "27 / 23 / 33"
                         },
                         {
                             "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
@@ -12948,7 +12963,7 @@
                     "Fuel Tank": [
                         {
                             "name": "Fuel Capacity / Gas Tank Size",
-                            "value": "14.000"
+                            "value": "15.8"
                         },
                         {
                             "name": "Aux Fuel Tank Capacity (gallons)",
@@ -12958,30 +12973,38 @@
                     "Exterior Dimensions": [
                         {
                             "name": "Wheelbase (inches)",
-                            "value": "104.700"
+                            "value": "108.7"
                         },
                         {
                             "name": "Length (inches)",
-                            "value": "172.200"
+                            "value": "182.8"
                         },
                         {
                             "name": "Width, without mirrors (inches)",
-                            "value": "68.800"
+                            "value": "71.3"
                         },
                         {
                             "name": "Height (inches)",
-                            "value": "56.000"
+                            "value": "56.5"
                         },
                         {
                             "name": "Front Track Width (inches)",
-                            "value": "58.300"
+                            "value": "59.1"
                         },
                         {
                             "name": "Rear Track Width (inches)",
-                            "value": "59.600"
+                            "value": "60.2"
                         },
                         {
                             "name": "Minimum Ground Clearance (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Door Opening Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Door Opening Width (inches)",
                             "value": "N/A"
                         },
                         {
@@ -12992,23 +13015,23 @@
                     "Interior Dimensions": [
                         {
                             "name": "Passenger / Seating Capacity",
-                            "value": "4"
+                            "value": "5"
                         },
                         {
                             "name": "Total Passenger Volume (cubic feet)",
-                            "value": "86.000"
+                            "value": "N/A"
                         },
                         {
                             "name": "Front Head Room (inches)",
-                            "value": "37.900"
+                            "value": "40.4"
                         },
                         {
                             "name": "Front Leg Room (inches)",
-                            "value": "41.400"
+                            "value": "42"
                         },
                         {
                             "name": "Front Shoulder Room (inches)",
-                            "value": "54.000"
+                            "value": "55.1"
                         },
                         {
                             "name": "Front Hip Room (inches)",
@@ -13016,15 +13039,15 @@
                         },
                         {
                             "name": "Second Row Head Room (inches)",
-                            "value": "37.100"
+                            "value": "38.3"
                         },
                         {
                             "name": "Second Row Leg Room (inches)",
-                            "value": "32.000"
+                            "value": "35"
                         },
                         {
                             "name": "Second Row Shoulder Room (inches)",
-                            "value": "53.400"
+                            "value": "55.1"
                         },
                         {
                             "name": "Second Row Hip Room (inches)",
@@ -13033,18 +13056,54 @@
                     ],
                     "Cargo Area Dimensions": [
                         {
+                            "name": "Cargo Space/Area Length Behind First Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Length Behind Second Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Length Behind Third Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Width at Beltline (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Width Between Wheelhousings (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Front Row (cubic feet)",
+                            "value": "53"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Second Row (cubic feet)",
+                            "value": "17.5"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Third Row (cubic feet)",
+                            "value": "17.5"
+                        },
+                        {
                             "name": "Trunk Space (cubic feet)",
-                            "value": "10.000"
+                            "value": "N/A"
                         }
                     ],
                     "Steering": [
                         {
                             "name": "Steering Type",
-                            "value": "Pwr Rack & Pinion"
+                            "value": "Rack-Pinion"
                         },
                         {
                             "name": "Steering Ratio (:1)",
-                            "value": "16.000"
+                            "value": "N/A"
                         },
                         {
                             "name": "Turns, lock to lock",
@@ -13052,7 +13111,7 @@
                         },
                         {
                             "name": "Turning Diameter / Radius, curb to curb (feet)",
-                            "value": "35.100"
+                            "value": "37.1"
                         },
                         {
                             "name": "Turning Diameter / Radius, wall to wall (feet)",
@@ -13062,7 +13121,7 @@
                     "Suspension": [
                         {
                             "name": "Front Suspension Type",
-                            "value": "Independent"
+                            "value": "Strut"
                         },
                         {
                             "name": "Rear Suspension Type",
@@ -13088,7 +13147,7 @@
                     "Brakes": [
                         {
                             "name": "Brake Type",
-                            "value": "Pwr"
+                            "value": "4-Wheel Disc"
                         },
                         {
                             "name": "Anti-Lock-Braking System",
@@ -13096,17 +13155,17 @@
                         },
                         {
                             "name": "Front Brake Rotors, diameter x thickness (inches)",
-                            "value": "11.800 x -TBD-"
+                            "value": "12.3"
                         },
                         {
                             "name": "Rear Brake Rotors, diameter x thickness (inches)",
-                            "value": "11.800 x -TBD-"
+                            "value": "11.8"
                         }
                     ],
                     "Wheels and Tires": [
                         {
                             "name": "Front Wheel Size (inches)",
-                            "value": "17 x 7.0"
+                            "value": "17 X 7.5"
                         },
                         {
                             "name": "Front Wheel Material",
@@ -13114,11 +13173,11 @@
                         },
                         {
                             "name": "Front Tire Size",
-                            "value": "P205/50R17"
+                            "value": "P225/50VR17"
                         },
                         {
                             "name": "Rear Wheel Size (inches)",
-                            "value": "17 x 7.0"
+                            "value": "17 X 7.5"
                         },
                         {
                             "name": "Rear Wheel Material",
@@ -13126,7 +13185,7 @@
                         },
                         {
                             "name": "Rear Tire Size",
-                            "value": "P205/50R17"
+                            "value": "P225/50VR17"
                         }
                     ],
                     "Towing": [
@@ -13137,30 +13196,35 @@
                         {
                             "name": "Maximum Tongue Weight, dead weight hitch (pounds)",
                             "value": "N/A"
+                        },
+                        {
+                            "name": "Maximum Trailer Weight, weight distributing hitch (pounds)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Maximum Tongue Weight, weight distributing hitch (pounds)",
+                            "value": "N/A"
                         }
                     ],
                     "Weight Information": [
                         {
                             "name": "Base Curb Weight (pounds)",
-                            "value": "3252"
+                            "value": "3867"
                         }
                     ],
                     "Electrical": [
                         {
                             "name": "Cold Cranking Amps @ 0° F",
-                            "value": "N/A"
+                            "value": "900"
                         },
                         {
                             "name": "Maximum Alternator Capacity (amps)",
-                            "value": "180"
+                            "value": "210"
                         }
                     ]
                 },
-                "slug": "/bmw/1-series",
-                "name": "128i Coupe"
-            },
-            {
-                "model": "3-series Wagon"
+                "slug": "/bmw/3-series-wagon",
+                "name": "330i xDrive Sports Wagon"
             },
             {
                 "model": "6-series"

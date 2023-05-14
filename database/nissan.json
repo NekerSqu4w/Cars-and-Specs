@@ -393,11 +393,11 @@
                         },
                         {
                             "name": "Maximum Horsepower @ RPM",
-                            "value": "565 @ 6800"
+                            "value": "600 @ 6800"
                         },
                         {
                             "name": "Maximum Torque @ RPM",
-                            "value": "467 @ 3300"
+                            "value": "481 @ 3600"
                         },
                         {
                             "name": "Cooling System Capacity (quarts)",
@@ -489,7 +489,7 @@
                         },
                         {
                             "name": "Length (inches)",
-                            "value": "185.4"
+                            "value": "184.6"
                         },
                         {
                             "name": "Width, without mirrors (inches)",
@@ -501,7 +501,7 @@
                         },
                         {
                             "name": "Front Track Width (inches)",
-                            "value": "62.6"
+                            "value": "63"
                         },
                         {
                             "name": "Rear Track Width (inches)",
@@ -633,7 +633,7 @@
                     "Wheels and Tires": [
                         {
                             "name": "Front Wheel Size (inches)",
-                            "value": "20 X 9.5"
+                            "value": "20 X 10"
                         },
                         {
                             "name": "Front Wheel Material",
@@ -677,7 +677,7 @@
                     "Weight Information": [
                         {
                             "name": "Base Curb Weight (pounds)",
-                            "value": "3933"
+                            "value": "3865"
                         }
                     ],
                     "Electrical": [
@@ -692,7 +692,7 @@
                     ]
                 },
                 "slug": "/nissan/gt-r",
-                "name": "GT-R Premium AWD"
+                "name": "GT-R NISMO AWD"
             },
             {
                 "model": "Leaf",
@@ -7393,24 +7393,18 @@
         "vans": {},
         "discontinued": [
             {
-                "model": "Cube"
-            },
-            {
-                "model": "Juke"
-            },
-            {
-                "model": "Juke NISMO / NISMO RS",
-                "year": 2017,
-                "price": 25805,
-                "formattedPrice": "$25,805",
+                "model": "Cube",
+                "year": 2014,
+                "price": 17725,
+                "formattedPrice": "$17,725",
                 "previewImage": [
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/2014-nissan-juke-nismo-rs-photo-678718-s-986x603-1557851745.jpg"
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2010-nissan-cube-s-photo-263683-s-986x603-1557851294.jpg"
                     },
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/images/2014-nissan-juke-nismo-rs-photo-678718-s-986x603-1557851745.jpg",
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2010-nissan-cube-s-photo-263683-s-986x603-1557851294.jpg",
                         "credit": null,
-                        "description": "Land vehicle, Vehicle, Car, Sport utility vehicle, Motor vehicle, Nissan juke, Automotive design, Nissan, Mid-size car, Off-roading, "
+                        "description": "Land vehicle, Vehicle, Car, Motor vehicle, Nissan cube, Nissan, Automotive wheel system, Family car, Compact van, Subcompact car, "
                     }
                 ],
                 "specs": {
@@ -7421,29 +7415,29 @@
                         },
                         {
                             "name": "Drivetrain",
-                            "value": "All Wheel Drive"
+                            "value": "Front Wheel Drive"
                         }
                     ],
                     "Engine": [
                         {
                             "name": "Engine Type and Required Fuel",
-                            "value": "Intercooled Turbo Premium Unleaded I-4"
+                            "value": "Regular Unleaded I-4"
                         },
                         {
                             "name": "Displacement (liters/cubic inches)",
-                            "value": "1.6 L/99"
+                            "value": "1.8 L/108"
                         },
                         {
                             "name": "Fuel System",
-                            "value": "Gasoline Direct Injection"
+                            "value": "Sequential MPI"
                         },
                         {
                             "name": "Maximum Horsepower @ RPM",
-                            "value": "188 @ 5600"
+                            "value": "122 @ 5200"
                         },
                         {
                             "name": "Maximum Torque @ RPM",
-                            "value": "177 @ 2000"
+                            "value": "127 @ 4800"
                         },
                         {
                             "name": "Cooling System Capacity (quarts)",
@@ -7461,23 +7455,15 @@
                         },
                         {
                             "name": "First Gear Ratio (:1)",
-                            "value": "2.63 - 0.38"
+                            "value": "2.56 - 0.43"
                         },
                         {
                             "name": "Reverse Ratio (:1)",
-                            "value": "1.96"
+                            "value": "2.69"
                         },
                         {
                             "name": "Final Drive Axle Ratio (:1)",
-                            "value": "5.80"
-                        },
-                        {
-                            "name": "Transfer Case Gear Ratio, high (:1)",
-                            "value": "N/A"
-                        },
-                        {
-                            "name": "Transfer Case Gear Ratio, low (:1)",
-                            "value": "N/A"
+                            "value": "5.47"
                         },
                         {
                             "name": "Clutch Size",
@@ -7491,15 +7477,15 @@
                         },
                         {
                             "name": "CO2 Emissions, 15K mi/year (tons)",
-                            "value": "6.8"
+                            "value": "6.6 (Est)"
                         },
                         {
                             "name": "Range, city/highway (miles)",
-                            "value": "295.00 / 342.20"
+                            "value": "356.40 / 409.20"
                         },
                         {
                             "name": "EPA Fuel Economy, combined/city/highway (mpg)",
-                            "value": "26 / 25 / 29"
+                            "value": "28 / 27 / 31"
                         },
                         {
                             "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
@@ -7509,7 +7495,7 @@
                     "Fuel Tank": [
                         {
                             "name": "Fuel Capacity / Gas Tank Size",
-                            "value": "11.8"
+                            "value": "13.2"
                         },
                         {
                             "name": "Aux Fuel Tank Capacity (gallons)",
@@ -7523,27 +7509,27 @@
                         },
                         {
                             "name": "Length (inches)",
-                            "value": "163.8"
+                            "value": "156.7"
                         },
                         {
                             "name": "Width, without mirrors (inches)",
-                            "value": "69.7"
+                            "value": "66.7"
                         },
                         {
                             "name": "Height (inches)",
-                            "value": "61.8"
+                            "value": "65"
                         },
                         {
                             "name": "Front Track Width (inches)",
-                            "value": "60"
+                            "value": "58.1"
                         },
                         {
                             "name": "Rear Track Width (inches)",
-                            "value": "59.3"
+                            "value": "58.3"
                         },
                         {
                             "name": "Minimum Ground Clearance (inches)",
-                            "value": "6.6"
+                            "value": "N/A"
                         },
                         {
                             "name": "Rear Door Opening Height (inches)",
@@ -7555,7 +7541,7 @@
                         },
                         {
                             "name": "Liftover Height (inches)",
-                            "value": "30.7"
+                            "value": "28.6"
                         }
                     ],
                     "Interior Dimensions": [
@@ -7565,39 +7551,39 @@
                         },
                         {
                             "name": "Total Passenger Volume (cubic feet)",
-                            "value": "85.5"
+                            "value": "97.7"
                         },
                         {
                             "name": "Front Head Room (inches)",
-                            "value": "39.6"
+                            "value": "42.6"
                         },
                         {
                             "name": "Front Leg Room (inches)",
-                            "value": "42.1"
+                            "value": "42.4"
                         },
                         {
                             "name": "Front Shoulder Room (inches)",
-                            "value": "53.6"
+                            "value": "52.2"
                         },
                         {
                             "name": "Front Hip Room (inches)",
-                            "value": "51.5"
+                            "value": "48.8"
                         },
                         {
                             "name": "Second Row Head Room (inches)",
-                            "value": "36.7"
+                            "value": "40.2"
                         },
                         {
                             "name": "Second Row Leg Room (inches)",
-                            "value": "32.1"
+                            "value": "35.5"
                         },
                         {
                             "name": "Second Row Shoulder Room (inches)",
-                            "value": "51.4"
+                            "value": "52.4"
                         },
                         {
                             "name": "Second Row Hip Room (inches)",
-                            "value": "48.4"
+                            "value": "47.6"
                         }
                     ],
                     "Cargo Area Dimensions": [
@@ -7607,7 +7593,7 @@
                         },
                         {
                             "name": "Cargo Space/Area Length Behind Second Row (inches)",
-                            "value": "26.6"
+                            "value": "9.5"
                         },
                         {
                             "name": "Cargo Space/Area Length Behind Third Row (inches)",
@@ -7615,7 +7601,7 @@
                         },
                         {
                             "name": "Cargo Space/Area Width at Beltline (inches)",
-                            "value": "55.5"
+                            "value": "39.7"
                         },
                         {
                             "name": "Cargo Bed Width Between Wheelhousings (inches)",
@@ -7623,19 +7609,23 @@
                         },
                         {
                             "name": "Cargo Bed Height (inches)",
-                            "value": "26.8"
+                            "value": "45.2"
                         },
                         {
                             "name": "Cargo Space/Area Behind Front Row (cubic feet)",
-                            "value": "35.9"
+                            "value": "58.1"
                         },
                         {
                             "name": "Cargo Space/Area Behind Second Row (cubic feet)",
-                            "value": "10.5"
+                            "value": "11.4"
                         },
                         {
                             "name": "Cargo Space/Area Behind Third Row (cubic feet)",
-                            "value": "10.5"
+                            "value": "11.4"
+                        },
+                        {
+                            "name": "Trunk Space (cubic feet)",
+                            "value": "N/A"
                         }
                     ],
                     "Steering": [
@@ -7653,7 +7643,7 @@
                         },
                         {
                             "name": "Turning Diameter / Radius, curb to curb (feet)",
-                            "value": "35.1"
+                            "value": "33.4"
                         },
                         {
                             "name": "Turning Diameter / Radius, wall to wall (feet)",
@@ -7667,7 +7657,7 @@
                         },
                         {
                             "name": "Rear Suspension Type",
-                            "value": "Multi-Link"
+                            "value": "Torsion Beam"
                         },
                         {
                             "name": "Front Shock Absorber Diameter (mm)",
@@ -7689,7 +7679,7 @@
                     "Brakes": [
                         {
                             "name": "Brake Type",
-                            "value": "4-Wheel Disc"
+                            "value": "Front Disc/Rear Drum"
                         },
                         {
                             "name": "Anti-Lock-Braking System",
@@ -7697,17 +7687,21 @@
                         },
                         {
                             "name": "Front Brake Rotors, diameter x thickness (inches)",
-                            "value": "12.6"
+                            "value": "11"
                         },
                         {
                             "name": "Rear Brake Rotors, diameter x thickness (inches)",
-                            "value": "11.5"
+                            "value": "11.7"
+                        },
+                        {
+                            "name": "Rear Drums, diameter x width (inches)",
+                            "value": "11.7"
                         }
                     ],
                     "Wheels and Tires": [
                         {
                             "name": "Front Wheel Size (inches)",
-                            "value": "18 X 7"
+                            "value": "16 X 6"
                         },
                         {
                             "name": "Front Wheel Material",
@@ -7715,11 +7709,11 @@
                         },
                         {
                             "name": "Front Tire Size",
-                            "value": "P225/45YR18"
+                            "value": "P195/55VR16"
                         },
                         {
                             "name": "Rear Wheel Size (inches)",
-                            "value": "18 X 7"
+                            "value": "16 X 6"
                         },
                         {
                             "name": "Rear Wheel Material",
@@ -7727,7 +7721,7 @@
                         },
                         {
                             "name": "Rear Tire Size",
-                            "value": "P225/45YR18"
+                            "value": "P195/55VR16"
                         },
                         {
                             "name": "Spare Wheel Size (inches)",
@@ -7743,10 +7737,6 @@
                         }
                     ],
                     "Towing": [
-                        {
-                            "name": "Maximum Towing Capacity (pounds)",
-                            "value": "N/A"
-                        },
                         {
                             "name": "Maximum Trailer Weight, dead weight hitch (pounds)",
                             "value": "N/A"
@@ -7767,19 +7757,7 @@
                     "Weight Information": [
                         {
                             "name": "Base Curb Weight (pounds)",
-                            "value": "3206"
-                        },
-                        {
-                            "name": "Total Option Weight (pounds)",
-                            "value": "0.00"
-                        },
-                        {
-                            "name": "Maximum Payload Capacity (pounds)",
-                            "value": "N/A"
-                        },
-                        {
-                            "name": "Curb Weight",
-                            "value": "N/A"
+                            "value": "2847"
                         }
                     ],
                     "Electrical": [
@@ -7793,8 +7771,14 @@
                         }
                     ]
                 },
-                "slug": "/nissan/juke-nismo-nismo-rs",
-                "name": "JUKE AWD NISMO RS"
+                "slug": "/nissan/cube",
+                "name": "cube 5dr Wgn CVT SL"
+            },
+            {
+                "model": "Juke"
+            },
+            {
+                "model": "Juke NISMO / NISMO RS"
             },
             {
                 "model": "NV1500 / 2500 / 3500"

@@ -1943,18 +1943,27 @@
         "vans": {},
         "discontinued": [
             {
-                "model": "DB9 GT",
-                "year": 2016,
-                "price": 201075,
-                "formattedPrice": "$201,075",
+                "model": "DB9 GT"
+            },
+            {
+                "model": "One-77"
+            },
+            {
+                "model": "Rapide"
+            },
+            {
+                "model": "Virage",
+                "year": 2012,
+                "price": 212110,
+                "formattedPrice": "$212,110",
                 "previewImage": [
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2016/02/2016-Aston-Martin-DB9-GT-111-876x535.jpg"
+                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/11q1/391467/2012-aston-martin-virage-photo-392300-s-986x603.jpg"
                     },
                     {
-                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2016/02/2016-Aston-Martin-DB9-GT-111-876x535.jpg",
-                        "credit": "Steve Siler",
-                        "description": "Land vehicle, Vehicle, Car, Sports car, Automotive design, Performance car, Motor vehicle, Aston martin dbs v12, Aston martin virage, Aston martin db9, "
+                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/11q1/391467/2012-aston-martin-virage-photo-392300-s-986x603.jpg",
+                        "credit": "Aston Martin",
+                        "description": "2012 Aston Martin Virage"
                     }
                 ],
                 "specs": {
@@ -1971,23 +1980,23 @@
                     "Engine": [
                         {
                             "name": "Engine Type and Required Fuel",
-                            "value": "Premium Unleaded V-12"
+                            "value": "Gas V12"
                         },
                         {
                             "name": "Displacement (liters/cubic inches)",
-                            "value": "6.0 L/362"
+                            "value": "5.9L/362"
                         },
                         {
                             "name": "Fuel System",
-                            "value": "MPI"
+                            "value": "Electronic Fuel Injection"
                         },
                         {
                             "name": "Maximum Horsepower @ RPM",
-                            "value": "540 @ 6750"
+                            "value": "490 @ 6500"
                         },
                         {
                             "name": "Maximum Torque @ RPM",
-                            "value": "457 @ 5500"
+                            "value": "420 @ 5700"
                         },
                         {
                             "name": "Cooling System Capacity (quarts)",
@@ -1997,7 +2006,7 @@
                     "Transmission": [
                         {
                             "name": "Transmission Description",
-                            "value": "Automatic w/OD"
+                            "value": "Automatic w/Manual Shift"
                         },
                         {
                             "name": "Number of Transmission Speeds",
@@ -2005,57 +2014,53 @@
                         },
                         {
                             "name": "First Gear Ratio (:1)",
-                            "value": "4.17"
+                            "value": "N/A"
                         },
                         {
                             "name": "Second Gear Ratio (:1)",
-                            "value": "2.34"
+                            "value": "N/A"
                         },
                         {
                             "name": "Third Gear Ratio (:1)",
-                            "value": "1.52"
+                            "value": "N/A"
                         },
                         {
                             "name": "Fourth Gear Ratio (:1)",
-                            "value": "1.14"
+                            "value": "N/A"
                         },
                         {
                             "name": "Fifth Gear Ratio (:1)",
-                            "value": "0.87"
+                            "value": "N/A"
                         },
                         {
                             "name": "Sixth Gear Ratio (:1)",
-                            "value": "0.69"
+                            "value": "N/A"
                         },
                         {
                             "name": "Reverse Ratio (:1)",
-                            "value": "3.40"
+                            "value": "N/A"
                         },
                         {
                             "name": "Final Drive Axle Ratio (:1)",
                             "value": "3.46"
-                        },
-                        {
-                            "name": "Clutch Size",
-                            "value": "N/A"
                         }
                     ],
                     "Fuel Economy and Range": [
                         {
                             "name": "EPA Greenhouse Gas Score",
-                            "value": "N/A"
+                            "value": "1"
                         },
                         {
                             "name": "CO2 Emissions, 15K mi/year (tons)",
-                            "value": "11.8"
+                            "value": "12.2"
                         },
                         {
                             "name": "Range, city/highway (miles)",
-                            "value": "267.80 / 391.40"
+                            "value": "274.30 / 379.80"
                         },
                         {
                             "name": "EPA Fuel Economy, combined/city/highway (mpg)",
-                            "value": "15 / 13 / 19"
+                            "value": "15 / 13 / 18"
                         },
                         {
                             "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
@@ -2065,7 +2070,7 @@
                     "Fuel Tank": [
                         {
                             "name": "Fuel Capacity / Gas Tank Size",
-                            "value": "20.6"
+                            "value": "21.1"
                         },
                         {
                             "name": "Aux Fuel Tank Capacity (gallons)",
@@ -2083,19 +2088,19 @@
                         },
                         {
                             "name": "Width, without mirrors (inches)",
-                            "value": "74"
+                            "value": "75.0"
                         },
                         {
                             "name": "Height (inches)",
-                            "value": "50.5"
+                            "value": "50.4"
                         },
                         {
                             "name": "Front Track Width (inches)",
-                            "value": "62.2"
+                            "value": "N/A"
                         },
                         {
                             "name": "Rear Track Width (inches)",
-                            "value": "62.2"
+                            "value": "N/A"
                         },
                         {
                             "name": "Minimum Ground Clearance (inches)",
@@ -2113,19 +2118,19 @@
                         },
                         {
                             "name": "Total Passenger Volume (cubic feet)",
-                            "value": "N/A"
+                            "value": "78.0"
                         },
                         {
                             "name": "Front Head Room (inches)",
-                            "value": "36.2"
+                            "value": "N/A"
                         },
                         {
                             "name": "Front Leg Room (inches)",
-                            "value": "42.7"
+                            "value": "N/A"
                         },
                         {
                             "name": "Front Shoulder Room (inches)",
-                            "value": "54.8"
+                            "value": "N/A"
                         },
                         {
                             "name": "Front Hip Room (inches)",
@@ -2151,13 +2156,13 @@
                     "Cargo Area Dimensions": [
                         {
                             "name": "Trunk Space (cubic feet)",
-                            "value": "6.6"
+                            "value": "5.0"
                         }
                     ],
                     "Steering": [
                         {
                             "name": "Steering Type",
-                            "value": "Rack-Pinion"
+                            "value": "Pwr Rack & Pinion"
                         },
                         {
                             "name": "Steering Ratio (:1)",
@@ -2165,15 +2170,11 @@
                         },
                         {
                             "name": "Turns, lock to lock",
-                            "value": "N/A"
+                            "value": "3.0"
                         },
                         {
                             "name": "Turning Diameter / Radius, curb to curb (feet)",
-                            "value": "41"
-                        },
-                        {
-                            "name": "Turning Diameter / Radius, wall to wall (feet)",
-                            "value": "N/A"
+                            "value": "37.7"
                         }
                     ],
                     "Suspension": [
@@ -2184,28 +2185,12 @@
                         {
                             "name": "Rear Suspension Type",
                             "value": "Double Wishbone"
-                        },
-                        {
-                            "name": "Front Shock Absorber Diameter (mm)",
-                            "value": "N/A"
-                        },
-                        {
-                            "name": "Rear Shock Absorber Diameter (mm)",
-                            "value": "N/A"
-                        },
-                        {
-                            "name": "Front Anti-Roll Bar Diameter (inches)",
-                            "value": "N/A"
-                        },
-                        {
-                            "name": "Rear Anti-Roll Bar Diameter (inches)",
-                            "value": "N/A"
                         }
                     ],
                     "Brakes": [
                         {
                             "name": "Brake Type",
-                            "value": "4-Wheel Disc"
+                            "value": "Pwr"
                         },
                         {
                             "name": "Anti-Lock-Braking System",
@@ -2213,17 +2198,17 @@
                         },
                         {
                             "name": "Front Brake Rotors, diameter x thickness (inches)",
-                            "value": "15.7"
+                            "value": "15.7 x -TBD-"
                         },
                         {
                             "name": "Rear Brake Rotors, diameter x thickness (inches)",
-                            "value": "14.2"
+                            "value": "14.2 x -TBD-"
                         }
                     ],
                     "Wheels and Tires": [
                         {
                             "name": "Front Wheel Size (inches)",
-                            "value": "20 X 8.5"
+                            "value": "20 x 8.5"
                         },
                         {
                             "name": "Front Wheel Material",
@@ -2231,11 +2216,11 @@
                         },
                         {
                             "name": "Front Tire Size",
-                            "value": "P245/35YR20"
+                            "value": "P245/35R20"
                         },
                         {
                             "name": "Rear Wheel Size (inches)",
-                            "value": "20 X 11"
+                            "value": "20 x 11"
                         },
                         {
                             "name": "Rear Wheel Material",
@@ -2243,43 +2228,13 @@
                         },
                         {
                             "name": "Rear Tire Size",
-                            "value": "P295/30YR20"
-                        },
-                        {
-                            "name": "Spare Wheel Size (inches)",
-                            "value": "Compact"
-                        },
-                        {
-                            "name": "Spare Wheel Material",
-                            "value": "Aluminum"
-                        },
-                        {
-                            "name": "Spare Tire Size",
-                            "value": "Compact"
-                        }
-                    ],
-                    "Towing": [
-                        {
-                            "name": "Maximum Trailer Weight, dead weight hitch (pounds)",
-                            "value": "N/A"
-                        },
-                        {
-                            "name": "Maximum Tongue Weight, dead weight hitch (pounds)",
-                            "value": "N/A"
-                        },
-                        {
-                            "name": "Maximum Trailer Weight, weight distributing hitch (pounds)",
-                            "value": "N/A"
-                        },
-                        {
-                            "name": "Maximum Tongue Weight, weight distributing hitch (pounds)",
-                            "value": "N/A"
+                            "value": "P295/30R20"
                         }
                     ],
                     "Weight Information": [
                         {
                             "name": "Base Curb Weight (pounds)",
-                            "value": "3935"
+                            "value": "3836"
                         }
                     ],
                     "Electrical": [
@@ -2293,17 +2248,8 @@
                         }
                     ]
                 },
-                "slug": "/aston-martin/db9-gt",
-                "name": "DB9 2dr Cpe Auto GT Bond Edition"
-            },
-            {
-                "model": "One-77"
-            },
-            {
-                "model": "Rapide"
-            },
-            {
-                "model": "Virage"
+                "slug": "/aston-martin/virage",
+                "name": "Virage 2dr Cpe"
             }
         ]
     }

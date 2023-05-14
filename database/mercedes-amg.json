@@ -480,7 +480,7 @@
                         },
                         {
                             "name": "Final Drive Axle Ratio (:1)",
-                            "value": "2.82"
+                            "value": "3.06"
                         },
                         {
                             "name": "Clutch Size",
@@ -534,7 +534,7 @@
                         },
                         {
                             "name": "Height (inches)",
-                            "value": "55.2"
+                            "value": "55.3"
                         },
                         {
                             "name": "Front Track Width (inches)",
@@ -564,7 +564,7 @@
                         },
                         {
                             "name": "Front Head Room (inches)",
-                            "value": "40.3"
+                            "value": "40.2"
                         },
                         {
                             "name": "Front Leg Room (inches)",
@@ -580,7 +580,7 @@
                         },
                         {
                             "name": "Second Row Head Room (inches)",
-                            "value": "35.6"
+                            "value": "36"
                         },
                         {
                             "name": "Second Row Leg Room (inches)",
@@ -588,7 +588,7 @@
                         },
                         {
                             "name": "Second Row Shoulder Room (inches)",
-                            "value": "51.7"
+                            "value": "47.8"
                         },
                         {
                             "name": "Second Row Hip Room (inches)",
@@ -598,7 +598,7 @@
                     "Cargo Area Dimensions": [
                         {
                             "name": "Trunk Space (cubic feet)",
-                            "value": "10.5"
+                            "value": "8.8"
                         }
                     ],
                     "Steering": [
@@ -714,7 +714,7 @@
                     "Weight Information": [
                         {
                             "name": "Base Curb Weight (pounds)",
-                            "value": "4123"
+                            "value": "4319"
                         }
                     ],
                     "Electrical": [
@@ -729,7 +729,7 @@
                     ]
                 },
                 "slug": "/mercedes-amg/c63",
-                "name": "AMG C 63 S AMG C 63 S Coupe"
+                "name": "AMG C 63 AMG C 63 S Cabriolet"
             },
             {
                 "model": "CLA-class",
@@ -4086,7 +4086,7 @@
                         },
                         {
                             "name": "Final Drive Axle Ratio (:1)",
-                            "value": "2.82"
+                            "value": "3.06"
                         },
                         {
                             "name": "Clutch Size",
@@ -4140,7 +4140,7 @@
                         },
                         {
                             "name": "Height (inches)",
-                            "value": "55.2"
+                            "value": "55.3"
                         },
                         {
                             "name": "Front Track Width (inches)",
@@ -4170,7 +4170,7 @@
                         },
                         {
                             "name": "Front Head Room (inches)",
-                            "value": "40.3"
+                            "value": "40.2"
                         },
                         {
                             "name": "Front Leg Room (inches)",
@@ -4186,7 +4186,7 @@
                         },
                         {
                             "name": "Second Row Head Room (inches)",
-                            "value": "35.6"
+                            "value": "36"
                         },
                         {
                             "name": "Second Row Leg Room (inches)",
@@ -4194,7 +4194,7 @@
                         },
                         {
                             "name": "Second Row Shoulder Room (inches)",
-                            "value": "51.7"
+                            "value": "47.8"
                         },
                         {
                             "name": "Second Row Hip Room (inches)",
@@ -4204,7 +4204,7 @@
                     "Cargo Area Dimensions": [
                         {
                             "name": "Trunk Space (cubic feet)",
-                            "value": "10.5"
+                            "value": "8.8"
                         }
                     ],
                     "Steering": [
@@ -4320,7 +4320,7 @@
                     "Weight Information": [
                         {
                             "name": "Base Curb Weight (pounds)",
-                            "value": "4123"
+                            "value": "4319"
                         }
                     ],
                     "Electrical": [
@@ -4335,7 +4335,7 @@
                     ]
                 },
                 "slug": "/mercedes-amg/c63-2021",
-                "name": "AMG C 63 S AMG C 63 S Coupe"
+                "name": "AMG C 63 AMG C 63 S Cabriolet"
             }
         ],
         "eletric": [
@@ -5530,15 +5530,15 @@
                         },
                         {
                             "name": "Fuel System",
-                            "value": "Gasoline Direct Injection"
+                            "value": "Port/Direct Injection"
                         },
                         {
                             "name": "Maximum Horsepower @ RPM",
-                            "value": "302 @ 5800"
+                            "value": "382 @ 6500"
                         },
                         {
                             "name": "Maximum Torque @ RPM",
-                            "value": "295 @ 3000"
+                            "value": "354 @ 4750"
                         },
                         {
                             "name": "Cooling System Capacity (quarts)",
@@ -5614,15 +5614,15 @@
                         },
                         {
                             "name": "CO2 Emissions, 15K mi/year (tons)",
-                            "value": "7.1"
+                            "value": "8.0"
                         },
                         {
                             "name": "Range, city/highway (miles)",
-                            "value": "297.00 / 391.50"
+                            "value": "270.00 / 337.50"
                         },
                         {
                             "name": "EPA Fuel Economy, combined/city/highway (mpg)",
-                            "value": "25 / 22 / 29"
+                            "value": "22 / 20 / 25"
                         },
                         {
                             "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
@@ -5650,7 +5650,7 @@
                         },
                         {
                             "name": "Width, without mirrors (inches)",
-                            "value": "72.8"
+                            "value": "72.2"
                         },
                         {
                             "name": "Height (inches)",
@@ -5838,7 +5838,7 @@
                         },
                         {
                             "name": "Front Tire Size",
-                            "value": "P235/50HR19"
+                            "value": "P235/50WR19"
                         },
                         {
                             "name": "Rear Wheel Size (inches)",
@@ -5850,7 +5850,7 @@
                         },
                         {
                             "name": "Rear Tire Size",
-                            "value": "P235/50HR19"
+                            "value": "P235/50WR19"
                         }
                     ],
                     "Towing": [
@@ -5878,7 +5878,7 @@
                     "Weight Information": [
                         {
                             "name": "Base Curb Weight (pounds)",
-                            "value": "3653"
+                            "value": "3847"
                         },
                         {
                             "name": "Total Option Weight (pounds)",
@@ -5905,7 +5905,7 @@
                     ]
                 },
                 "slug": "/mercedes-amg/gla35-gla45",
-                "name": "AMG GLA 35 AMG GLA 35 4MATIC SUV"
+                "name": "AMG GLA 45 AMG GLA 45 4MATIC SUV"
             },
             {
                 "model": "GLB35",

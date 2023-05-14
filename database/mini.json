@@ -1177,7 +1177,7 @@
                     "Vehicle": [
                         {
                             "name": "EPA Classification",
-                            "value": "Subcompact Cars"
+                            "value": "Minicompact Cars"
                         },
                         {
                             "name": "Drivetrain",
@@ -1333,7 +1333,7 @@
                         },
                         {
                             "name": "Total Passenger Volume (cubic feet)",
-                            "value": "80.3"
+                            "value": "76.3"
                         },
                         {
                             "name": "Front Head Room (inches)",
@@ -1345,7 +1345,7 @@
                         },
                         {
                             "name": "Front Shoulder Room (inches)",
-                            "value": "50.6"
+                            "value": "51"
                         },
                         {
                             "name": "Front Hip Room (inches)",
@@ -1353,15 +1353,15 @@
                         },
                         {
                             "name": "Second Row Head Room (inches)",
-                            "value": "36.9"
+                            "value": "39"
                         },
                         {
                             "name": "Second Row Leg Room (inches)",
-                            "value": "30.8"
+                            "value": "30.9"
                         },
                         {
                             "name": "Second Row Shoulder Room (inches)",
-                            "value": "47.8"
+                            "value": "39.7"
                         },
                         {
                             "name": "Second Row Hip Room (inches)",
@@ -1372,14 +1372,6 @@
                         {
                             "name": "Trunk Space (cubic feet)",
                             "value": "N/A"
-                        },
-                        {
-                            "name": "Cargo Space/Area with Rear Seat Down",
-                            "value": "34"
-                        },
-                        {
-                            "name": "Cargo Space/Area with Rear Seat Up",
-                            "value": "8.7"
                         }
                     ],
                     "Steering": [
@@ -1507,7 +1499,7 @@
                     "Weight Information": [
                         {
                             "name": "Base Curb Weight (pounds)",
-                            "value": "2712"
+                            "value": "2892"
                         }
                     ],
                     "Electrical": [
@@ -1522,7 +1514,7 @@
                     ]
                 },
                 "slug": "/mini/cooper-hardtop-convertible",
-                "name": "Hardtop 2 Door Cooper Classic FWD *Ltd Avail*"
+                "name": "Convertible Cooper Classic FWD *Ltd Avail*"
             },
             {
                 "model": "Cooper JCW",
@@ -1553,7 +1545,7 @@
                     "Vehicle": [
                         {
                             "name": "EPA Classification",
-                            "value": "Subcompact Cars"
+                            "value": "Minicompact Cars"
                         },
                         {
                             "name": "Drivetrain",
@@ -1709,7 +1701,7 @@
                         },
                         {
                             "name": "Total Passenger Volume (cubic feet)",
-                            "value": "80.3"
+                            "value": "76.3"
                         },
                         {
                             "name": "Front Head Room (inches)",
@@ -1721,7 +1713,7 @@
                         },
                         {
                             "name": "Front Shoulder Room (inches)",
-                            "value": "50.6"
+                            "value": "51"
                         },
                         {
                             "name": "Front Hip Room (inches)",
@@ -1729,15 +1721,15 @@
                         },
                         {
                             "name": "Second Row Head Room (inches)",
-                            "value": "36.9"
+                            "value": "39"
                         },
                         {
                             "name": "Second Row Leg Room (inches)",
-                            "value": "30.8"
+                            "value": "30.9"
                         },
                         {
                             "name": "Second Row Shoulder Room (inches)",
-                            "value": "47.8"
+                            "value": "39.7"
                         },
                         {
                             "name": "Second Row Hip Room (inches)",
@@ -1748,14 +1740,6 @@
                         {
                             "name": "Trunk Space (cubic feet)",
                             "value": "N/A"
-                        },
-                        {
-                            "name": "Cargo Space/Area with Rear Seat Down",
-                            "value": "34"
-                        },
-                        {
-                            "name": "Cargo Space/Area with Rear Seat Up",
-                            "value": "8.7"
                         }
                     ],
                     "Steering": [
@@ -1883,7 +1867,7 @@
                     "Weight Information": [
                         {
                             "name": "Base Curb Weight (pounds)",
-                            "value": "2712"
+                            "value": "2892"
                         }
                     ],
                     "Electrical": [
@@ -1898,7 +1882,7 @@
                     ]
                 },
                 "slug": "/mini/cooper-hardtop-convertible-2024",
-                "name": "Hardtop 2 Door Cooper Classic FWD *Ltd Avail*"
+                "name": "Convertible Cooper Classic FWD *Ltd Avail*"
             }
         ],
         "eletric": [

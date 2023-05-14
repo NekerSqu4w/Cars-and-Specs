@@ -32,7 +32,7 @@
                     "Vehicle": [
                         {
                             "name": "EPA Classification",
-                            "value": "Minicompact Cars"
+                            "value": "Subcompact Cars"
                         },
                         {
                             "name": "Drivetrain",
@@ -126,15 +126,15 @@
                         },
                         {
                             "name": "CO2 Emissions, 15K mi/year (tons)",
-                            "value": "9.8"
+                            "value": "9.9"
                         },
                         {
                             "name": "Range, city/highway (miles)",
-                            "value": "357.00 / 523.60"
+                            "value": "357.00 / 547.40"
                         },
                         {
                             "name": "EPA Fuel Economy, combined/city/highway (mpg)",
-                            "value": "18 / 15 / 22"
+                            "value": "18 / 15 / 23"
                         },
                         {
                             "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
@@ -196,7 +196,7 @@
                         },
                         {
                             "name": "Front Head Room (inches)",
-                            "value": "37.1"
+                            "value": "40.1"
                         },
                         {
                             "name": "Front Leg Room (inches)",
@@ -212,7 +212,7 @@
                         },
                         {
                             "name": "Second Row Head Room (inches)",
-                            "value": "36.9"
+                            "value": "36.7"
                         },
                         {
                             "name": "Second Row Leg Room (inches)",
@@ -230,7 +230,7 @@
                     "Cargo Area Dimensions": [
                         {
                             "name": "Trunk Space (cubic feet)",
-                            "value": "8.3"
+                            "value": "12.6"
                         }
                     ],
                     "Steering": [
@@ -346,7 +346,7 @@
                     "Weight Information": [
                         {
                             "name": "Base Curb Weight (pounds)",
-                            "value": "5148"
+                            "value": "4773"
                         }
                     ],
                     "Electrical": [
@@ -361,7 +361,7 @@
                     ]
                 },
                 "slug": "/bentley/continental-gt",
-                "name": "Continental GT Convertible"
+                "name": "Continental GT Coupe"
             },
             {
                 "model": "Flying Spur",
@@ -402,11 +402,11 @@
                     "Engine": [
                         {
                             "name": "Engine Type and Required Fuel",
-                            "value": "Twin Turbo Premium Unleaded V-8"
+                            "value": "Twin Turbo Gas/Electric V-6"
                         },
                         {
                             "name": "Displacement (liters/cubic inches)",
-                            "value": "4.0 L/244"
+                            "value": "2.9 L/177"
                         },
                         {
                             "name": "Fuel System",
@@ -414,11 +414,11 @@
                         },
                         {
                             "name": "Maximum Horsepower @ RPM",
-                            "value": "542 @ 6000"
+                            "value": "536 @ 5500"
                         },
                         {
                             "name": "Maximum Torque @ RPM",
-                            "value": "568 @ 2000"
+                            "value": "553"
                         },
                         {
                             "name": "Cooling System Capacity (quarts)",
@@ -486,25 +486,25 @@
                         },
                         {
                             "name": "CO2 Emissions, 15K mi/year (tons)",
-                            "value": "10.4"
+                            "value": "N/A"
                         },
                         {
                             "name": "Range, city/highway (miles)",
-                            "value": "357.00 / 523.60"
+                            "value": "N/A / N/A"
                         },
                         {
                             "name": "EPA Fuel Economy, combined/city/highway (mpg)",
-                            "value": "17 / 15 / 22"
+                            "value": "19 / N/A / N/A"
                         },
                         {
                             "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
-                            "value": "N/A / N/A / N/A"
+                            "value": "46 / N/A / N/A"
                         }
                     ],
                     "Fuel Tank": [
                         {
                             "name": "Fuel Capacity / Gas Tank Size",
-                            "value": "23.8"
+                            "value": "21"
                         },
                         {
                             "name": "Aux Fuel Tank Capacity (gallons)",
@@ -590,7 +590,7 @@
                     "Cargo Area Dimensions": [
                         {
                             "name": "Trunk Space (cubic feet)",
-                            "value": "14.8"
+                            "value": "12"
                         }
                     ],
                     "Steering": [
@@ -608,7 +608,7 @@
                         },
                         {
                             "name": "Turning Diameter / Radius, curb to curb (feet)",
-                            "value": "36.3"
+                            "value": "37.6"
                         },
                         {
                             "name": "Turning Diameter / Radius, wall to wall (feet)",
@@ -662,7 +662,7 @@
                     "Wheels and Tires": [
                         {
                             "name": "Front Wheel Size (inches)",
-                            "value": "21 X 9.5"
+                            "value": "22 X 9.5"
                         },
                         {
                             "name": "Front Wheel Material",
@@ -670,11 +670,11 @@
                         },
                         {
                             "name": "Front Tire Size",
-                            "value": "P265/40YR21"
+                            "value": "P275/35YR22"
                         },
                         {
                             "name": "Rear Wheel Size (inches)",
-                            "value": "21 X 11"
+                            "value": "22 X 11"
                         },
                         {
                             "name": "Rear Wheel Material",
@@ -682,7 +682,7 @@
                         },
                         {
                             "name": "Rear Tire Size",
-                            "value": "P305/35YR21"
+                            "value": "P315/30YR22"
                         }
                     ],
                     "Towing": [
@@ -706,7 +706,7 @@
                     "Weight Information": [
                         {
                             "name": "Base Curb Weight (pounds)",
-                            "value": "5137"
+                            "value": "5538"
                         }
                     ],
                     "Electrical": [
@@ -721,7 +721,7 @@
                     ]
                 },
                 "slug": "/bentley/flying-spur",
-                "name": "Flying Spur S Sedan"
+                "name": "Flying Spur Hybrid Azure Sedan"
             }
         ],
         "eletric": {},
