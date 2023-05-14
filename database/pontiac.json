@@ -1,0 +1,355 @@
+{
+    "name": "Pontiac",
+    "id": "pontiac",
+    "vehicleType": {
+        "cars": {},
+        "eletric": {},
+        "suvs": {},
+        "trucks": {},
+        "vans": {},
+        "discontinued": [
+            {
+                "model": "Grand Prix",
+                "year": 2008,
+                "price": 22960,
+                "formattedPrice": "$22,960",
+                "previewImage": [
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/274710/2008-pontiac-grand-prix-gxp-photo-274869-s-986x603.jpg"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/274710/2008-pontiac-grand-prix-gxp-photo-274869-s-986x603.jpg",
+                        "credit": "Pontiac",
+                        "description": "Land vehicle, Vehicle, Car, Motor vehicle, Mid-size car, Full-size car, Sedan, Luxury vehicle, Personal luxury car, Grille, "
+                    }
+                ],
+                "specs": {
+                    "Vehicle": [
+                        {
+                            "name": "EPA Classification",
+                            "value": "Mid-Size"
+                        },
+                        {
+                            "name": "Drivetrain",
+                            "value": "Front Wheel Drive"
+                        }
+                    ],
+                    "Engine": [
+                        {
+                            "name": "Engine Order Code",
+                            "value": "LS4"
+                        },
+                        {
+                            "name": "Engine Type and Required Fuel",
+                            "value": "Gas V8"
+                        },
+                        {
+                            "name": "Displacement (liters/cubic inches)",
+                            "value": "5.3L/346"
+                        },
+                        {
+                            "name": "Fuel System",
+                            "value": "SFI"
+                        },
+                        {
+                            "name": "Maximum Horsepower @ RPM",
+                            "value": "303 @ 5600"
+                        },
+                        {
+                            "name": "Maximum Torque @ RPM",
+                            "value": "323 @ 4000"
+                        },
+                        {
+                            "name": "Cooling System Capacity (quarts)",
+                            "value": "13.0"
+                        }
+                    ],
+                    "Transmission": [
+                        {
+                            "name": "Transmission Order Code",
+                            "value": "MX0"
+                        },
+                        {
+                            "name": "Transmission Description",
+                            "value": "Automatic w/OD"
+                        },
+                        {
+                            "name": "Number of Transmission Speeds",
+                            "value": "4"
+                        },
+                        {
+                            "name": "First Gear Ratio (:1)",
+                            "value": "2.92"
+                        },
+                        {
+                            "name": "Second Gear Ratio (:1)",
+                            "value": "1.56"
+                        },
+                        {
+                            "name": "Third Gear Ratio (:1)",
+                            "value": "1.00"
+                        },
+                        {
+                            "name": "Fourth Gear Ratio (:1)",
+                            "value": "0.70"
+                        },
+                        {
+                            "name": "Reverse Ratio (:1)",
+                            "value": "2.38"
+                        },
+                        {
+                            "name": "Final Drive Axle Ratio (:1)",
+                            "value": "2.93"
+                        }
+                    ],
+                    "Fuel Economy and Range": [
+                        {
+                            "name": "EPA Greenhouse Gas Score",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "CO2 Emissions, 15K mi/year (tons)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Range, city/highway (miles)",
+                            "value": "272.00 / 425.00"
+                        },
+                        {
+                            "name": "EPA Fuel Economy, combined/city/highway (mpg)",
+                            "value": "N/A / 16 / 25"
+                        },
+                        {
+                            "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
+                            "value": "N/A / N/A / N/A"
+                        }
+                    ],
+                    "Fuel Tank": [
+                        {
+                            "name": "Fuel Capacity / Gas Tank Size",
+                            "value": "17"
+                        },
+                        {
+                            "name": "Aux Fuel Tank Capacity (gallons)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Exterior Dimensions": [
+                        {
+                            "name": "Wheelbase (inches)",
+                            "value": "110.5"
+                        },
+                        {
+                            "name": "Length (inches)",
+                            "value": "198.3"
+                        },
+                        {
+                            "name": "Width, without mirrors (inches)",
+                            "value": "71.6"
+                        },
+                        {
+                            "name": "Height (inches)",
+                            "value": "55.9"
+                        },
+                        {
+                            "name": "Front Track Width (inches)",
+                            "value": "61.6"
+                        },
+                        {
+                            "name": "Rear Track Width (inches)",
+                            "value": "61.3"
+                        },
+                        {
+                            "name": "Minimum Ground Clearance (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Liftover Height (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Interior Dimensions": [
+                        {
+                            "name": "Passenger / Seating Capacity",
+                            "value": "5"
+                        },
+                        {
+                            "name": "Total Passenger Volume (cubic feet)",
+                            "value": "98.0"
+                        },
+                        {
+                            "name": "Front Head Room (inches)",
+                            "value": "38.8"
+                        },
+                        {
+                            "name": "Front Leg Room (inches)",
+                            "value": "42.2"
+                        },
+                        {
+                            "name": "Front Shoulder Room (inches)",
+                            "value": "58.0"
+                        },
+                        {
+                            "name": "Front Hip Room (inches)",
+                            "value": "54.5"
+                        },
+                        {
+                            "name": "Second Row Head Room (inches)",
+                            "value": "36.2"
+                        },
+                        {
+                            "name": "Second Row Leg Room (inches)",
+                            "value": "36.2"
+                        },
+                        {
+                            "name": "Second Row Shoulder Room (inches)",
+                            "value": "54.8"
+                        },
+                        {
+                            "name": "Second Row Hip Room (inches)",
+                            "value": "54.3"
+                        }
+                    ],
+                    "Cargo Area Dimensions": [
+                        {
+                            "name": "Trunk Space (cubic feet)",
+                            "value": "16.0"
+                        }
+                    ],
+                    "Steering": [
+                        {
+                            "name": "Steering Type",
+                            "value": "Variable-Effort Pwr Rack & Pinion"
+                        },
+                        {
+                            "name": "Steering Ratio (:1)",
+                            "value": "13.2"
+                        },
+                        {
+                            "name": "Turns, lock to lock",
+                            "value": "2.4"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, curb to curb (feet)",
+                            "value": "38.0"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, wall to wall (feet)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Suspension": [
+                        {
+                            "name": "Front Suspension Type",
+                            "value": "High-Performance"
+                        },
+                        {
+                            "name": "Rear Suspension Type",
+                            "value": "High-Performance"
+                        },
+                        {
+                            "name": "Front Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Anti-Roll Bar Diameter (inches)",
+                            "value": "0.79"
+                        },
+                        {
+                            "name": "Rear Anti-Roll Bar Diameter (inches)",
+                            "value": "0.68"
+                        }
+                    ],
+                    "Brakes": [
+                        {
+                            "name": "Brake Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Anti-Lock-Braking System",
+                            "value": "4-Wheel"
+                        },
+                        {
+                            "name": "Front Brake Rotors, diameter x thickness (inches)",
+                            "value": "12.7 x -TBD-"
+                        },
+                        {
+                            "name": "Rear Brake Rotors, diameter x thickness (inches)",
+                            "value": "12.0 x -TBD-"
+                        }
+                    ],
+                    "Wheels and Tires": [
+                        {
+                            "name": "Front Wheel Size (inches)",
+                            "value": "18 x 8"
+                        },
+                        {
+                            "name": "Front Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Front Tire Size",
+                            "value": "P255/45R18"
+                        },
+                        {
+                            "name": "Rear Wheel Size (inches)",
+                            "value": "18 x 7"
+                        },
+                        {
+                            "name": "Rear Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Rear Tire Size",
+                            "value": "P225/50R18"
+                        },
+                        {
+                            "name": "Spare Wheel Size (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Spare Wheel Material",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Spare Tire Size",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Towing": [
+                        {
+                            "name": "Maximum Trailer Weight, dead weight hitch (pounds)",
+                            "value": "1000"
+                        },
+                        {
+                            "name": "Maximum Tongue Weight, dead weight hitch (pounds)",
+                            "value": "100"
+                        }
+                    ],
+                    "Weight Information": [
+                        {
+                            "name": "Base Curb Weight (pounds)",
+                            "value": "3600"
+                        }
+                    ],
+                    "Electrical": [
+                        {
+                            "name": "Cold Cranking Amps @ 0° F",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Maximum Alternator Capacity (amps)",
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                "slug": "/pontiac/grand-prix",
+                "name": "Grand Prix Grand Prix GXP"
+            }
+        ]
+    }
+}

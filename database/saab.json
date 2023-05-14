@@ -1,0 +1,405 @@
+{
+    "name": "Saab",
+    "id": "saab",
+    "vehicleType": {
+        "cars": {},
+        "eletric": {},
+        "suvs": {},
+        "trucks": {},
+        "vans": {},
+        "discontinued": [
+            {
+                "model": "9-3"
+            },
+            {
+                "model": "9-5"
+            },
+            {
+                "model": "9-7X",
+                "year": 2009,
+                "price": 43390,
+                "formattedPrice": "$43,390",
+                "previewImage": [
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/107063/2008-saab-9-7x-aero-photo-109596-s-986x603.jpg"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/107063/2008-saab-9-7x-aero-photo-109596-s-986x603.jpg",
+                        "credit": "Saab",
+                        "description": null
+                    }
+                ],
+                "specs": {
+                    "Vehicle": [
+                        {
+                            "name": "EPA Classification",
+                            "value": "4WD Sport Utility"
+                        },
+                        {
+                            "name": "Drivetrain",
+                            "value": "All-Wheel Drive"
+                        }
+                    ],
+                    "Engine": [
+                        {
+                            "name": "Engine Order Code",
+                            "value": "LS2"
+                        },
+                        {
+                            "name": "Engine Type and Required Fuel",
+                            "value": "Gas V8"
+                        },
+                        {
+                            "name": "Displacement (liters/cubic inches)",
+                            "value": "6.0L/364"
+                        },
+                        {
+                            "name": "Fuel System",
+                            "value": "SMPI"
+                        },
+                        {
+                            "name": "Maximum Horsepower @ RPM",
+                            "value": "390 @ 6000"
+                        },
+                        {
+                            "name": "Maximum Torque @ RPM",
+                            "value": "400 @ 4000"
+                        },
+                        {
+                            "name": "Cooling System Capacity (quarts)",
+                            "value": "13.9"
+                        }
+                    ],
+                    "Transmission": [
+                        {
+                            "name": "Transmission Order Code",
+                            "value": "M70"
+                        },
+                        {
+                            "name": "Transmission Description",
+                            "value": "Automatic"
+                        },
+                        {
+                            "name": "Number of Transmission Speeds",
+                            "value": "4"
+                        },
+                        {
+                            "name": "First Gear Ratio (:1)",
+                            "value": "3.06"
+                        },
+                        {
+                            "name": "Second Gear Ratio (:1)",
+                            "value": "1.63"
+                        },
+                        {
+                            "name": "Third Gear Ratio (:1)",
+                            "value": "1.00"
+                        },
+                        {
+                            "name": "Fourth Gear Ratio (:1)",
+                            "value": "0.70"
+                        },
+                        {
+                            "name": "Reverse Ratio (:1)",
+                            "value": "2.29"
+                        },
+                        {
+                            "name": "Final Drive Axle Ratio (:1)",
+                            "value": "4.10"
+                        }
+                    ],
+                    "Fuel Economy and Range": [
+                        {
+                            "name": "EPA Greenhouse Gas Score",
+                            "value": "0"
+                        },
+                        {
+                            "name": "CO2 Emissions, 15K mi/year (tons)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Range, city/highway (miles)",
+                            "value": "264.00 / 352.00"
+                        },
+                        {
+                            "name": "EPA Fuel Economy, combined/city/highway (mpg)",
+                            "value": "13 / 12 / 16"
+                        },
+                        {
+                            "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
+                            "value": "N/A / N/A / N/A"
+                        }
+                    ],
+                    "Fuel Tank": [
+                        {
+                            "name": "Fuel Capacity / Gas Tank Size",
+                            "value": "22.0"
+                        },
+                        {
+                            "name": "Aux Fuel Tank Capacity (gallons)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Exterior Dimensions": [
+                        {
+                            "name": "Wheelbase (inches)",
+                            "value": "113.0"
+                        },
+                        {
+                            "name": "Length (inches)",
+                            "value": "193.2"
+                        },
+                        {
+                            "name": "Width, without mirrors (inches)",
+                            "value": "75.4"
+                        },
+                        {
+                            "name": "Height (inches)",
+                            "value": "68.5"
+                        },
+                        {
+                            "name": "Front Track Width (inches)",
+                            "value": "62.7"
+                        },
+                        {
+                            "name": "Rear Track Width (inches)",
+                            "value": "62.0"
+                        },
+                        {
+                            "name": "Minimum Ground Clearance (inches)",
+                            "value": "7.72"
+                        },
+                        {
+                            "name": "Rear Door Opening Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Door Opening Width (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Liftover Height (inches)",
+                            "value": "30.1"
+                        }
+                    ],
+                    "Interior Dimensions": [
+                        {
+                            "name": "Passenger / Seating Capacity",
+                            "value": "5"
+                        },
+                        {
+                            "name": "Total Passenger Volume (cubic feet)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Head Room (inches)",
+                            "value": "38.3"
+                        },
+                        {
+                            "name": "Front Leg Room (inches)",
+                            "value": "41.4"
+                        },
+                        {
+                            "name": "Front Shoulder Room (inches)",
+                            "value": "58.5"
+                        },
+                        {
+                            "name": "Front Hip Room (inches)",
+                            "value": "55.5"
+                        },
+                        {
+                            "name": "Second Row Head Room (inches)",
+                            "value": "39.6"
+                        },
+                        {
+                            "name": "Second Row Leg Room (inches)",
+                            "value": "37.1"
+                        },
+                        {
+                            "name": "Second Row Shoulder Room (inches)",
+                            "value": "58.5"
+                        },
+                        {
+                            "name": "Second Row Hip Room (inches)",
+                            "value": "58.1"
+                        }
+                    ],
+                    "Cargo Area Dimensions": [
+                        {
+                            "name": "Cargo Space/Area Length Behind First Row (inches)",
+                            "value": "70.0"
+                        },
+                        {
+                            "name": "Cargo Space/Area Length Behind Second Row (inches)",
+                            "value": "39.7"
+                        },
+                        {
+                            "name": "Cargo Space/Area Width at Beltline (inches)",
+                            "value": "55.1"
+                        },
+                        {
+                            "name": "Cargo Bed Width Between Wheelhousings (inches)",
+                            "value": "46.1"
+                        },
+                        {
+                            "name": "Cargo Bed Height (inches)",
+                            "value": "40.8"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Front Row (cubic feet)",
+                            "value": "80.1"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Second Row (cubic feet)",
+                            "value": "39.8"
+                        },
+                        {
+                            "name": "Trunk Space (cubic feet)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Steering": [
+                        {
+                            "name": "Steering Type",
+                            "value": "Pwr Rack & Pinion"
+                        },
+                        {
+                            "name": "Steering Ratio (:1)",
+                            "value": "16.0"
+                        },
+                        {
+                            "name": "Turns, lock to lock",
+                            "value": "3.5"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, curb to curb (feet)",
+                            "value": "37.7"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, wall to wall (feet)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Suspension": [
+                        {
+                            "name": "Front Suspension Type",
+                            "value": "Independent"
+                        },
+                        {
+                            "name": "Rear Suspension Type",
+                            "value": "5-Link"
+                        },
+                        {
+                            "name": "Front Shock Absorber Diameter (mm)",
+                            "value": "46.0"
+                        },
+                        {
+                            "name": "Rear Shock Absorber Diameter (mm)",
+                            "value": "36.0"
+                        },
+                        {
+                            "name": "Front Anti-Roll Bar Diameter (inches)",
+                            "value": "1.42"
+                        },
+                        {
+                            "name": "Rear Anti-Roll Bar Diameter (inches)",
+                            "value": "0.94"
+                        }
+                    ],
+                    "Brakes": [
+                        {
+                            "name": "Brake Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Anti-Lock-Braking System",
+                            "value": "4-Wheel"
+                        },
+                        {
+                            "name": "Front Brake Rotors, diameter x thickness (inches)",
+                            "value": "12.9 x -TBD-"
+                        },
+                        {
+                            "name": "Rear Brake Rotors, diameter x thickness (inches)",
+                            "value": "12.8 x -TBD-"
+                        }
+                    ],
+                    "Wheels and Tires": [
+                        {
+                            "name": "Front Wheel Size (inches)",
+                            "value": "20 x 8.0"
+                        },
+                        {
+                            "name": "Front Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Front Tire Size",
+                            "value": "P255/50VR20"
+                        },
+                        {
+                            "name": "Rear Wheel Size (inches)",
+                            "value": "20 x 8.0"
+                        },
+                        {
+                            "name": "Rear Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Rear Tire Size",
+                            "value": "P255/50VR20"
+                        },
+                        {
+                            "name": "Spare Wheel Size (inches)",
+                            "value": "17 x -TBD-"
+                        },
+                        {
+                            "name": "Spare Wheel Material",
+                            "value": "Steel"
+                        },
+                        {
+                            "name": "Spare Tire Size",
+                            "value": "P245/65R17"
+                        }
+                    ],
+                    "Towing": [
+                        {
+                            "name": "Maximum Trailer Weight, dead weight hitch (pounds)",
+                            "value": "5000"
+                        },
+                        {
+                            "name": "Maximum Tongue Weight, dead weight hitch (pounds)",
+                            "value": "500"
+                        },
+                        {
+                            "name": "Maximum Trailer Weight, weight distributing hitch (pounds)",
+                            "value": "6600"
+                        },
+                        {
+                            "name": "Maximum Tongue Weight, weight distributing hitch (pounds)",
+                            "value": "990"
+                        }
+                    ],
+                    "Weight Information": [
+                        {
+                            "name": "Base Curb Weight (pounds)",
+                            "value": "4720"
+                        }
+                    ],
+                    "Electrical": [
+                        {
+                            "name": "Cold Cranking Amps @ 0° F",
+                            "value": "600"
+                        },
+                        {
+                            "name": "Maximum Alternator Capacity (amps)",
+                            "value": "145"
+                        }
+                    ]
+                },
+                "slug": "/saab/9-7x",
+                "name": "9-7X AWD Aero"
+            }
+        ]
+    }
+}

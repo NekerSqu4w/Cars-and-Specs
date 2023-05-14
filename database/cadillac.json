@@ -1,0 +1,4185 @@
+{
+    "name": "Cadillac",
+    "id": "cadillac",
+    "vehicleType": {
+        "cars": [
+            {
+                "model": "Celestiq"
+            },
+            {
+                "model": "CT4",
+                "year": 2023,
+                "price": 35790,
+                "formattedPrice": "$35,790",
+                "previewImage": [
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-cadillac-ct4-premium-luxury-awd-694-1597334318.jpg"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-cadillac-ct4-premium-luxury-awd-694-1597334318.jpg",
+                        "credit": "Michael Simari",
+                        "description": "2023 Cadillac CT4 Premium Luxury AWD"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-cadillac-ct4-premium-luxury-awd-104-hdr-1597334296.jpg",
+                        "credit": "Michael Simari",
+                        "description": "2023Cadillac CT4 Premium Luxury AWD"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-cadillac-ct4-premium-luxury-awd-388-1597334311.jpg",
+                        "credit": "Michael Simari",
+                        "description": "2023 Cadillac CT4 Premium Luxury AWD"
+                    }
+                ],
+                "specs": {
+                    "Vehicle": [
+                        {
+                            "name": "EPA Classification",
+                            "value": "Compact Cars"
+                        },
+                        {
+                            "name": "Drivetrain",
+                            "value": "Rear Wheel Drive"
+                        }
+                    ],
+                    "Engine": [
+                        {
+                            "name": "Engine Order Code",
+                            "value": "LSY"
+                        },
+                        {
+                            "name": "Engine Type and Required Fuel",
+                            "value": "Turbocharged I4"
+                        },
+                        {
+                            "name": "Displacement (liters/cubic inches)",
+                            "value": "2.0L/-TBD-"
+                        },
+                        {
+                            "name": "Fuel System",
+                            "value": "Direct Injection"
+                        },
+                        {
+                            "name": "Maximum Horsepower @ RPM",
+                            "value": "237 @ 5000"
+                        },
+                        {
+                            "name": "Maximum Torque @ RPM",
+                            "value": "258 @ 1500-4000"
+                        }
+                    ],
+                    "Transmission": [
+                        {
+                            "name": "Transmission Order Code",
+                            "value": "M5N"
+                        },
+                        {
+                            "name": "Transmission Description",
+                            "value": "Automatic"
+                        },
+                        {
+                            "name": "Number of Transmission Speeds",
+                            "value": "8"
+                        },
+                        {
+                            "name": "First Gear Ratio (:1)",
+                            "value": "4.61"
+                        },
+                        {
+                            "name": "Second Gear Ratio (:1)",
+                            "value": "3.04"
+                        },
+                        {
+                            "name": "Third Gear Ratio (:1)",
+                            "value": "2.06"
+                        },
+                        {
+                            "name": "Fourth Gear Ratio (:1)",
+                            "value": "1.66"
+                        },
+                        {
+                            "name": "Fifth Gear Ratio (:1)",
+                            "value": "1.26"
+                        },
+                        {
+                            "name": "Sixth Gear Ratio (:1)",
+                            "value": "1.00"
+                        },
+                        {
+                            "name": "Seventh Gear Ratio (:1)",
+                            "value": "0.85"
+                        },
+                        {
+                            "name": "Eighth Gear Ratio (:1)",
+                            "value": "0.66"
+                        },
+                        {
+                            "name": "Reverse Ratio (:1)",
+                            "value": "3.93"
+                        },
+                        {
+                            "name": "Final Drive Axle Ratio (:1)",
+                            "value": "2.85"
+                        },
+                        {
+                            "name": "Clutch Size",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Fuel Economy and Range": [
+                        {
+                            "name": "EPA Greenhouse Gas Score",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "CO2 Emissions, 15K mi/year (tons)",
+                            "value": "6.6"
+                        },
+                        {
+                            "name": "Range, city/highway (miles)",
+                            "value": "391.00 / 578.00"
+                        },
+                        {
+                            "name": "EPA Fuel Economy, combined/city/highway (mpg)",
+                            "value": "27 / 23 / 34"
+                        },
+                        {
+                            "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
+                            "value": "N/A / N/A / N/A"
+                        }
+                    ],
+                    "Fuel Tank": [
+                        {
+                            "name": "Fuel Capacity / Gas Tank Size",
+                            "value": "17"
+                        },
+                        {
+                            "name": "Aux Fuel Tank Capacity (gallons)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Exterior Dimensions": [
+                        {
+                            "name": "Wheelbase (inches)",
+                            "value": "109.3"
+                        },
+                        {
+                            "name": "Length (inches)",
+                            "value": "187.2"
+                        },
+                        {
+                            "name": "Width, without mirrors (inches)",
+                            "value": "71.4"
+                        },
+                        {
+                            "name": "Height (inches)",
+                            "value": "56"
+                        },
+                        {
+                            "name": "Front Track Width (inches)",
+                            "value": "60.3"
+                        },
+                        {
+                            "name": "Rear Track Width (inches)",
+                            "value": "61.7"
+                        }
+                    ],
+                    "Interior Dimensions": [
+                        {
+                            "name": "Passenger / Seating Capacity",
+                            "value": "5"
+                        },
+                        {
+                            "name": "Total Passenger Volume (cubic feet)",
+                            "value": "90"
+                        },
+                        {
+                            "name": "Front Head Room (inches)",
+                            "value": "38.3"
+                        },
+                        {
+                            "name": "Front Leg Room (inches)",
+                            "value": "42.4"
+                        },
+                        {
+                            "name": "Front Shoulder Room (inches)",
+                            "value": "55.2"
+                        },
+                        {
+                            "name": "Front Hip Room (inches)",
+                            "value": "53"
+                        },
+                        {
+                            "name": "Second Row Head Room (inches)",
+                            "value": "36.5"
+                        },
+                        {
+                            "name": "Second Row Leg Room (inches)",
+                            "value": "33.4"
+                        },
+                        {
+                            "name": "Second Row Shoulder Room (inches)",
+                            "value": "53.9"
+                        },
+                        {
+                            "name": "Second Row Hip Room (inches)",
+                            "value": "52.5"
+                        }
+                    ],
+                    "Cargo Area Dimensions": [
+                        {
+                            "name": "Trunk Space (cubic feet)",
+                            "value": "10.7"
+                        }
+                    ],
+                    "Steering": [
+                        {
+                            "name": "Steering Type",
+                            "value": "Electric Rack & Pinion"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, curb to curb (feet)",
+                            "value": "37.1"
+                        }
+                    ],
+                    "Suspension": [
+                        {
+                            "name": "Front Suspension Type",
+                            "value": "MacPherson Strut"
+                        },
+                        {
+                            "name": "Rear Suspension Type",
+                            "value": "Five-Link"
+                        }
+                    ],
+                    "Brakes": [
+                        {
+                            "name": "Brake Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Anti-Lock-Braking System",
+                            "value": "4-Wheel"
+                        },
+                        {
+                            "name": "Front Brake Rotors, diameter x thickness (inches)",
+                            "value": "11.8 x 1.0"
+                        },
+                        {
+                            "name": "Rear Brake Rotors, diameter x thickness (inches)",
+                            "value": "12.4 x 0.9"
+                        }
+                    ],
+                    "Wheels and Tires": [
+                        {
+                            "name": "Front Wheel Size (inches)",
+                            "value": "17 x 8"
+                        },
+                        {
+                            "name": "Front Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Front Tire Size",
+                            "value": "P225/45R17"
+                        },
+                        {
+                            "name": "Rear Wheel Size (inches)",
+                            "value": "17 x 8"
+                        },
+                        {
+                            "name": "Rear Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Rear Tire Size",
+                            "value": "P225/45R17"
+                        }
+                    ],
+                    "Weight Information": [
+                        {
+                            "name": "Base Curb Weight (pounds)",
+                            "value": "3422"
+                        }
+                    ]
+                },
+                "slug": "/cadillac/ct4",
+                "name": "CT4 4dr Sdn Luxury"
+            },
+            {
+                "model": "CT4-V Blackwing",
+                "year": 2023,
+                "price": 62390,
+                "formattedPrice": "$62,390",
+                "previewImage": [
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2022-cadillac-ct4-v-blackwing-101-1665090459.jpg"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2022-cadillac-ct4-v-blackwing-101-1665090459.jpg",
+                        "credit": "Marc Urbano",
+                        "description": "2022 Cadillac CT4-V Blackwing"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2022-cadillac-ct4-v-blackwing-114-1665090184.jpg",
+                        "credit": "Marc Urbano",
+                        "description": "2022 Cadillac CT4-V Blackwing"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2022-cadillac-ct4-v-blackwing-106-1665090355.jpg",
+                        "credit": "Marc Urbano",
+                        "description": "2022 Cadillac CT4-V Blackwing"
+                    }
+                ],
+                "specs": {
+                    "Vehicle": [
+                        {
+                            "name": "EPA Classification",
+                            "value": "Compact Cars"
+                        },
+                        {
+                            "name": "Drivetrain",
+                            "value": "Rear Wheel Drive"
+                        }
+                    ],
+                    "Engine": [
+                        {
+                            "name": "Engine Order Code",
+                            "value": "LF4"
+                        },
+                        {
+                            "name": "Engine Type and Required Fuel",
+                            "value": "Turbocharged V6"
+                        },
+                        {
+                            "name": "Displacement (liters/cubic inches)",
+                            "value": "3.6L/217"
+                        },
+                        {
+                            "name": "Fuel System",
+                            "value": "Direct Injection"
+                        },
+                        {
+                            "name": "Maximum Horsepower @ RPM",
+                            "value": "472 @ 5750"
+                        },
+                        {
+                            "name": "Maximum Torque @ RPM",
+                            "value": "445 @ 3500-5000"
+                        }
+                    ],
+                    "Transmission": [
+                        {
+                            "name": "Transmission Order Code",
+                            "value": "MG9"
+                        },
+                        {
+                            "name": "Transmission Description",
+                            "value": "Manual"
+                        },
+                        {
+                            "name": "Number of Transmission Speeds",
+                            "value": "6"
+                        },
+                        {
+                            "name": "First Gear Ratio (:1)",
+                            "value": "2.66"
+                        },
+                        {
+                            "name": "Second Gear Ratio (:1)",
+                            "value": "1.78"
+                        },
+                        {
+                            "name": "Third Gear Ratio (:1)",
+                            "value": "1.30"
+                        },
+                        {
+                            "name": "Fourth Gear Ratio (:1)",
+                            "value": "1.00"
+                        },
+                        {
+                            "name": "Fifth Gear Ratio (:1)",
+                            "value": "0.80"
+                        },
+                        {
+                            "name": "Sixth Gear Ratio (:1)",
+                            "value": "0.63"
+                        },
+                        {
+                            "name": "Reverse Ratio (:1)",
+                            "value": "2.90"
+                        },
+                        {
+                            "name": "Final Drive Axle Ratio (:1)",
+                            "value": "3.73"
+                        },
+                        {
+                            "name": "Clutch Size",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Fuel Economy and Range": [
+                        {
+                            "name": "CO2 Emissions, 15K mi/year (tons)",
+                            "value": "9.8"
+                        },
+                        {
+                            "name": "Range, city/highway (miles)",
+                            "value": "255.00 / 391.00"
+                        },
+                        {
+                            "name": "EPA Fuel Economy, combined/city/highway (mpg)",
+                            "value": "18 / 15 / 23"
+                        },
+                        {
+                            "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
+                            "value": "N/A / N/A / N/A"
+                        }
+                    ],
+                    "Fuel Tank": [
+                        {
+                            "name": "Fuel Capacity / Gas Tank Size",
+                            "value": "17"
+                        },
+                        {
+                            "name": "Aux Fuel Tank Capacity (gallons)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Exterior Dimensions": [
+                        {
+                            "name": "Wheelbase (inches)",
+                            "value": "109.3"
+                        },
+                        {
+                            "name": "Length (inches)",
+                            "value": "187.6"
+                        },
+                        {
+                            "name": "Width, without mirrors (inches)",
+                            "value": "71.4"
+                        },
+                        {
+                            "name": "Height (inches)",
+                            "value": "56"
+                        },
+                        {
+                            "name": "Front Track Width (inches)",
+                            "value": "60.5"
+                        },
+                        {
+                            "name": "Rear Track Width (inches)",
+                            "value": "60.5"
+                        }
+                    ],
+                    "Interior Dimensions": [
+                        {
+                            "name": "Passenger / Seating Capacity",
+                            "value": "5"
+                        },
+                        {
+                            "name": "Total Passenger Volume (cubic feet)",
+                            "value": "90"
+                        },
+                        {
+                            "name": "Front Head Room (inches)",
+                            "value": "38.3"
+                        },
+                        {
+                            "name": "Front Leg Room (inches)",
+                            "value": "42.4"
+                        },
+                        {
+                            "name": "Front Shoulder Room (inches)",
+                            "value": "55.2"
+                        },
+                        {
+                            "name": "Front Hip Room (inches)",
+                            "value": "53"
+                        },
+                        {
+                            "name": "Second Row Head Room (inches)",
+                            "value": "36.5"
+                        },
+                        {
+                            "name": "Second Row Leg Room (inches)",
+                            "value": "33.4"
+                        },
+                        {
+                            "name": "Second Row Shoulder Room (inches)",
+                            "value": "53.9"
+                        },
+                        {
+                            "name": "Second Row Hip Room (inches)",
+                            "value": "52.5"
+                        }
+                    ],
+                    "Cargo Area Dimensions": [
+                        {
+                            "name": "Trunk Space (cubic feet)",
+                            "value": "10.7"
+                        }
+                    ],
+                    "Steering": [
+                        {
+                            "name": "Steering Type",
+                            "value": "Electric Rack & Pinion"
+                        }
+                    ],
+                    "Suspension": [
+                        {
+                            "name": "Front Suspension Type",
+                            "value": "MacPherson Strut"
+                        },
+                        {
+                            "name": "Rear Suspension Type",
+                            "value": "Five-Link"
+                        }
+                    ],
+                    "Brakes": [
+                        {
+                            "name": "Brake Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Anti-Lock-Braking System",
+                            "value": "4-Wheel"
+                        },
+                        {
+                            "name": "Front Brake Rotors, diameter x thickness (inches)",
+                            "value": "14.96 x 1.34"
+                        },
+                        {
+                            "name": "Rear Brake Rotors, diameter x thickness (inches)",
+                            "value": "13.4 x 1.1"
+                        }
+                    ],
+                    "Wheels and Tires": [
+                        {
+                            "name": "Front Wheel Size (inches)",
+                            "value": "18 x 9"
+                        },
+                        {
+                            "name": "Front Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Front Tire Size",
+                            "value": "255/35ZR18"
+                        },
+                        {
+                            "name": "Rear Wheel Size (inches)",
+                            "value": "18 x 9.5"
+                        },
+                        {
+                            "name": "Rear Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Rear Tire Size",
+                            "value": "275/35ZR18"
+                        }
+                    ],
+                    "Weight Information": [
+                        {
+                            "name": "Base Curb Weight (pounds)",
+                            "value": "3860"
+                        }
+                    ]
+                },
+                "slug": "/cadillac/ct4-v-blackwing",
+                "name": "CT4-V 4dr Sdn Blackwing"
+            },
+            {
+                "model": "CT5",
+                "year": 2023,
+                "price": 39590,
+                "formattedPrice": "$39,590",
+                "previewImage": [
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-cadillac-ct5-v-101-1584446684.jpg"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-cadillac-ct5-v-101-1584446684.jpg",
+                        "credit": "James Lipman",
+                        "description": "2023 Cadillac CT5-V driving"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-cadillac-ct5-v-102-1584446681.jpg",
+                        "credit": "James Lipman",
+                        "description": "2023 Cadillac CT5-V driving"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-cadillac-ct5-v-110-1584446683.jpg",
+                        "credit": "James Lipman",
+                        "description": "2023 Cadillac CT5-V Interior"
+                    }
+                ],
+                "specs": {
+                    "Vehicle": [
+                        {
+                            "name": "EPA Classification",
+                            "value": "Mid-Size"
+                        },
+                        {
+                            "name": "Drivetrain",
+                            "value": "Rear Wheel Drive"
+                        }
+                    ],
+                    "Engine": [
+                        {
+                            "name": "Engine Order Code",
+                            "value": "LSY"
+                        },
+                        {
+                            "name": "Engine Type and Required Fuel",
+                            "value": "Turbocharged Gas I4"
+                        },
+                        {
+                            "name": "Displacement (liters/cubic inches)",
+                            "value": "2.0L/-TBD-"
+                        },
+                        {
+                            "name": "Fuel System",
+                            "value": "Direct Injection"
+                        },
+                        {
+                            "name": "Maximum Horsepower @ RPM",
+                            "value": "237 @ 5000"
+                        },
+                        {
+                            "name": "Maximum Torque @ RPM",
+                            "value": "258 @ 1500-4000"
+                        },
+                        {
+                            "name": "Cooling System Capacity (quarts)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Transmission": [
+                        {
+                            "name": "Transmission Order Code",
+                            "value": "MQ2"
+                        },
+                        {
+                            "name": "Transmission Description",
+                            "value": "Automatic"
+                        },
+                        {
+                            "name": "Number of Transmission Speeds",
+                            "value": "10"
+                        },
+                        {
+                            "name": "First Gear Ratio (:1)",
+                            "value": "4.70"
+                        },
+                        {
+                            "name": "Second Gear Ratio (:1)",
+                            "value": "2.99"
+                        },
+                        {
+                            "name": "Third Gear Ratio (:1)",
+                            "value": "2.15"
+                        },
+                        {
+                            "name": "Fourth Gear Ratio (:1)",
+                            "value": "1.80"
+                        },
+                        {
+                            "name": "Fifth Gear Ratio (:1)",
+                            "value": "1.52"
+                        },
+                        {
+                            "name": "Sixth Gear Ratio (:1)",
+                            "value": "1.28"
+                        },
+                        {
+                            "name": "Seventh Gear Ratio (:1)",
+                            "value": "1.00"
+                        },
+                        {
+                            "name": "Eighth Gear Ratio (:1)",
+                            "value": "0.85"
+                        },
+                        {
+                            "name": "Ninth Gear Ratio (:1)",
+                            "value": "0.69"
+                        },
+                        {
+                            "name": "Tenth Gear Ratio (:1)",
+                            "value": "0.64"
+                        },
+                        {
+                            "name": "Reverse Ratio (:1)",
+                            "value": "4.87"
+                        },
+                        {
+                            "name": "Final Drive Axle Ratio (:1)",
+                            "value": "2.85"
+                        },
+                        {
+                            "name": "Clutch Size",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Fuel Economy and Range": [
+                        {
+                            "name": "EPA Greenhouse Gas Score",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "CO2 Emissions, 15K mi/year (tons)",
+                            "value": "6.5"
+                        },
+                        {
+                            "name": "Range, city/highway (miles)",
+                            "value": "391.00 / 561.00"
+                        },
+                        {
+                            "name": "EPA Fuel Economy, combined/city/highway (mpg)",
+                            "value": "27 / 23 / 33"
+                        },
+                        {
+                            "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
+                            "value": "N/A / N/A / N/A"
+                        }
+                    ],
+                    "Fuel Tank": [
+                        {
+                            "name": "Fuel Capacity / Gas Tank Size",
+                            "value": "17"
+                        },
+                        {
+                            "name": "Aux Fuel Tank Capacity (gallons)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Exterior Dimensions": [
+                        {
+                            "name": "Wheelbase (inches)",
+                            "value": "116"
+                        },
+                        {
+                            "name": "Length (inches)",
+                            "value": "193.8"
+                        },
+                        {
+                            "name": "Width, without mirrors (inches)",
+                            "value": "74.1"
+                        },
+                        {
+                            "name": "Height (inches)",
+                            "value": "57.2"
+                        },
+                        {
+                            "name": "Front Track Width (inches)",
+                            "value": "62.8"
+                        },
+                        {
+                            "name": "Rear Track Width (inches)",
+                            "value": "63.9"
+                        },
+                        {
+                            "name": "Minimum Ground Clearance (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Liftover Height (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Interior Dimensions": [
+                        {
+                            "name": "Passenger / Seating Capacity",
+                            "value": "5"
+                        },
+                        {
+                            "name": "Total Passenger Volume (cubic feet)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Head Room (inches)",
+                            "value": "39"
+                        },
+                        {
+                            "name": "Front Leg Room (inches)",
+                            "value": "42.4"
+                        },
+                        {
+                            "name": "Front Shoulder Room (inches)",
+                            "value": "56.7"
+                        },
+                        {
+                            "name": "Front Hip Room (inches)",
+                            "value": "53.7"
+                        },
+                        {
+                            "name": "Second Row Head Room (inches)",
+                            "value": "36.6"
+                        },
+                        {
+                            "name": "Second Row Leg Room (inches)",
+                            "value": "37.9"
+                        },
+                        {
+                            "name": "Second Row Shoulder Room (inches)",
+                            "value": "55.7"
+                        },
+                        {
+                            "name": "Second Row Hip Room (inches)",
+                            "value": "53.7"
+                        }
+                    ],
+                    "Cargo Area Dimensions": [
+                        {
+                            "name": "Trunk Space (cubic feet)",
+                            "value": "11.9"
+                        }
+                    ],
+                    "Steering": [
+                        {
+                            "name": "Steering Type",
+                            "value": "Electric Rack & Pinion"
+                        },
+                        {
+                            "name": "Steering Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Turns, lock to lock",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, curb to curb (feet)",
+                            "value": "39"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, wall to wall (feet)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Suspension": [
+                        {
+                            "name": "Front Suspension Type",
+                            "value": "MacPherson Strut"
+                        },
+                        {
+                            "name": "Rear Suspension Type",
+                            "value": "Five-Link"
+                        },
+                        {
+                            "name": "Front Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Brakes": [
+                        {
+                            "name": "Brake Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Anti-Lock-Braking System",
+                            "value": "4-Wheel"
+                        },
+                        {
+                            "name": "Front Brake Rotors, diameter x thickness (inches)",
+                            "value": "12.6 x 1.1"
+                        },
+                        {
+                            "name": "Rear Brake Rotors, diameter x thickness (inches)",
+                            "value": "12.4 x 0.9"
+                        }
+                    ],
+                    "Wheels and Tires": [
+                        {
+                            "name": "Front Wheel Size (inches)",
+                            "value": "18 x -TBD-"
+                        },
+                        {
+                            "name": "Front Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Front Tire Size",
+                            "value": "245/45R18"
+                        },
+                        {
+                            "name": "Rear Wheel Size (inches)",
+                            "value": "18 x -TBD-"
+                        },
+                        {
+                            "name": "Rear Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Rear Tire Size",
+                            "value": "245/45R18"
+                        }
+                    ],
+                    "Weight Information": [
+                        {
+                            "name": "Base Curb Weight (pounds)",
+                            "value": "3659"
+                        }
+                    ],
+                    "Electrical": [
+                        {
+                            "name": "Cold Cranking Amps @ 0° F",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Maximum Alternator Capacity (amps)",
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                "slug": "/cadillac/ct5",
+                "name": "CT5 4dr Sdn Luxury"
+            },
+            {
+                "model": "CT5-V Blackwing",
+                "year": 2023,
+                "price": 93390,
+                "formattedPrice": "$93,390",
+                "previewImage": [
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2022-cadillac-ct5-v-blackwing-intro-129-1661525496.jpg"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2022-cadillac-ct5-v-blackwing-intro-129-1661525496.jpg",
+                        "credit": "Marc Urbano",
+                        "description": "2022 Cadillac CT5-V Blackwing"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2022-cadillac-ct5-v-blackwing-intro-127-1661525495.jpg",
+                        "credit": "Marc Urbano",
+                        "description": "2022 Cadillac CT5-V Blackwing"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2022-cadillac-ct5-v-blackwing-intro-114-1661525488.jpg",
+                        "credit": "Marc Urbano",
+                        "description": "2022 Cadillac CT5-V Blackwing"
+                    }
+                ],
+                "specs": {
+                    "Vehicle": [
+                        {
+                            "name": "EPA Classification",
+                            "value": "Mid-Size"
+                        },
+                        {
+                            "name": "Drivetrain",
+                            "value": "Rear Wheel Drive"
+                        }
+                    ],
+                    "Engine": [
+                        {
+                            "name": "Engine Order Code",
+                            "value": "LT4"
+                        },
+                        {
+                            "name": "Engine Type and Required Fuel",
+                            "value": "Supercharged Gas V8"
+                        },
+                        {
+                            "name": "Displacement (liters/cubic inches)",
+                            "value": "6.2L/376"
+                        },
+                        {
+                            "name": "Fuel System",
+                            "value": "DI"
+                        },
+                        {
+                            "name": "Maximum Horsepower @ RPM",
+                            "value": "668 @ 6500"
+                        },
+                        {
+                            "name": "Maximum Torque @ RPM",
+                            "value": "659 @ 3600"
+                        },
+                        {
+                            "name": "Cooling System Capacity (quarts)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Transmission": [
+                        {
+                            "name": "Transmission Order Code",
+                            "value": "MJK"
+                        },
+                        {
+                            "name": "Transmission Description",
+                            "value": "Manual"
+                        },
+                        {
+                            "name": "Number of Transmission Speeds",
+                            "value": "6"
+                        },
+                        {
+                            "name": "First Gear Ratio (:1)",
+                            "value": "2.29"
+                        },
+                        {
+                            "name": "Second Gear Ratio (:1)",
+                            "value": "1.61"
+                        },
+                        {
+                            "name": "Third Gear Ratio (:1)",
+                            "value": "1.21"
+                        },
+                        {
+                            "name": "Fourth Gear Ratio (:1)",
+                            "value": "1.00"
+                        },
+                        {
+                            "name": "Fifth Gear Ratio (:1)",
+                            "value": "0.82"
+                        },
+                        {
+                            "name": "Sixth Gear Ratio (:1)",
+                            "value": "0.54"
+                        },
+                        {
+                            "name": "Reverse Ratio (:1)",
+                            "value": "3.11"
+                        },
+                        {
+                            "name": "Final Drive Axle Ratio (:1)",
+                            "value": "3.73"
+                        },
+                        {
+                            "name": "Clutch Size",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Fuel Economy and Range": [
+                        {
+                            "name": "EPA Greenhouse Gas Score",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "CO2 Emissions, 15K mi/year (tons)",
+                            "value": "11.8"
+                        },
+                        {
+                            "name": "Range, city/highway (miles)",
+                            "value": "221.00 / 357.00"
+                        },
+                        {
+                            "name": "EPA Fuel Economy, combined/city/highway (mpg)",
+                            "value": "15 / 13 / 21"
+                        },
+                        {
+                            "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
+                            "value": "N/A / N/A / N/A"
+                        }
+                    ],
+                    "Fuel Tank": [
+                        {
+                            "name": "Fuel Capacity / Gas Tank Size",
+                            "value": "17"
+                        },
+                        {
+                            "name": "Aux Fuel Tank Capacity (gallons)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Exterior Dimensions": [
+                        {
+                            "name": "Wheelbase (inches)",
+                            "value": "116"
+                        },
+                        {
+                            "name": "Length (inches)",
+                            "value": "194.9"
+                        },
+                        {
+                            "name": "Width, without mirrors (inches)",
+                            "value": "74.1"
+                        },
+                        {
+                            "name": "Height (inches)",
+                            "value": "56.5"
+                        },
+                        {
+                            "name": "Front Track Width (inches)",
+                            "value": "63.3"
+                        },
+                        {
+                            "name": "Rear Track Width (inches)",
+                            "value": "62.3"
+                        },
+                        {
+                            "name": "Minimum Ground Clearance (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Liftover Height (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Interior Dimensions": [
+                        {
+                            "name": "Passenger / Seating Capacity",
+                            "value": "5"
+                        },
+                        {
+                            "name": "Total Passenger Volume (cubic feet)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Head Room (inches)",
+                            "value": "39"
+                        },
+                        {
+                            "name": "Front Leg Room (inches)",
+                            "value": "42.4"
+                        },
+                        {
+                            "name": "Front Shoulder Room (inches)",
+                            "value": "56.7"
+                        },
+                        {
+                            "name": "Front Hip Room (inches)",
+                            "value": "53.7"
+                        },
+                        {
+                            "name": "Second Row Head Room (inches)",
+                            "value": "36.6"
+                        },
+                        {
+                            "name": "Second Row Leg Room (inches)",
+                            "value": "37.0"
+                        },
+                        {
+                            "name": "Second Row Shoulder Room (inches)",
+                            "value": "55.7"
+                        },
+                        {
+                            "name": "Second Row Hip Room (inches)",
+                            "value": "53.7"
+                        }
+                    ],
+                    "Cargo Area Dimensions": [
+                        {
+                            "name": "Trunk Space (cubic feet)",
+                            "value": "11.9"
+                        }
+                    ],
+                    "Steering": [
+                        {
+                            "name": "Steering Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Steering Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Turns, lock to lock",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, curb to curb (feet)",
+                            "value": "42.6"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, wall to wall (feet)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Suspension": [
+                        {
+                            "name": "Front Suspension Type",
+                            "value": "MacPherson Strut"
+                        },
+                        {
+                            "name": "Rear Suspension Type",
+                            "value": "Five-Link"
+                        },
+                        {
+                            "name": "Front Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Brakes": [
+                        {
+                            "name": "Brake Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Anti-Lock-Braking System",
+                            "value": "4-Wheel"
+                        },
+                        {
+                            "name": "Front Brake Rotors, diameter x thickness (inches)",
+                            "value": "15.67 x 1.42"
+                        },
+                        {
+                            "name": "Rear Brake Rotors, diameter x thickness (inches)",
+                            "value": "14.7 x 1.1"
+                        }
+                    ],
+                    "Wheels and Tires": [
+                        {
+                            "name": "Front Wheel Size (inches)",
+                            "value": "19 x 10"
+                        },
+                        {
+                            "name": "Front Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Front Tire Size",
+                            "value": "275/35ZR19"
+                        },
+                        {
+                            "name": "Rear Wheel Size (inches)",
+                            "value": "19 x 11"
+                        },
+                        {
+                            "name": "Rear Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Rear Tire Size",
+                            "value": "305/30ZR19"
+                        }
+                    ],
+                    "Weight Information": [
+                        {
+                            "name": "Base Curb Weight (pounds)",
+                            "value": "4123"
+                        }
+                    ],
+                    "Electrical": [
+                        {
+                            "name": "Cold Cranking Amps @ 0° F",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Maximum Alternator Capacity (amps)",
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                "slug": "/cadillac/ct5-v-blackwing",
+                "name": "CT5-V 4dr Sdn Blackwing"
+            }
+        ],
+        "eletric": [
+            {
+                "model": "Celestiq"
+            },
+            {
+                "model": "Lyriq",
+                "year": 2024,
+                "price": 58590,
+                "formattedPrice": "$58,590",
+                "previewImage": [
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2024-cadillac-lyriq-005-1675979632.jpg"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2024-cadillac-lyriq-005-1675979632.jpg",
+                        "credit": "Cadillac",
+                        "description": "2024 Cadillac Lyriq"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2023-cadillac-lyriq-054-1660588738.jpeg",
+                        "credit": "Marc Urbano",
+                        "description": "2024 Cadillac Lyriq interior"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2024-cadillac-lyriq-002-1675979632.jpg",
+                        "credit": "Cadillac",
+                        "description": "2024 Cadillac Lyriq"
+                    }
+                ],
+                "specs": {
+                    "Vehicle": [
+                        {
+                            "name": "EPA Classification",
+                            "value": "Sport Utility Vehicles"
+                        },
+                        {
+                            "name": "Drivetrain",
+                            "value": "Rear Wheel Drive"
+                        }
+                    ],
+                    "Engine": [
+                        {
+                            "name": "Engine Order Code",
+                            "value": "EN0"
+                        },
+                        {
+                            "name": "Engine Type and Required Fuel",
+                            "value": "Electric"
+                        },
+                        {
+                            "name": "Fuel System",
+                            "value": "Electric"
+                        },
+                        {
+                            "name": "Maximum Horsepower @ RPM",
+                            "value": "340 (Est.)"
+                        },
+                        {
+                            "name": "Maximum Torque @ RPM",
+                            "value": "325 (Est.)"
+                        },
+                        {
+                            "name": "Cooling System Capacity (quarts)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Transmission": [
+                        {
+                            "name": "Transmission Order Code",
+                            "value": "MF1"
+                        },
+                        {
+                            "name": "Number of Transmission Speeds",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Final Drive Axle Ratio (:1)",
+                            "value": "11.63"
+                        },
+                        {
+                            "name": "Transfer Case Gear Ratio, high (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Transfer Case Gear Ratio, low (:1)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Fuel Economy and Range": [
+                        {
+                            "name": "EPA Greenhouse Gas Score",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Range, city/highway (miles)",
+                            "value": "0.00 / 0.00"
+                        },
+                        {
+                            "name": "EPA Fuel Economy, combined/city/highway (mpg)",
+                            "value": " /  / "
+                        },
+                        {
+                            "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
+                            "value": "N/A / N/A / N/A"
+                        }
+                    ],
+                    "Fuel Tank": [
+                        {
+                            "name": "Aux Fuel Tank Capacity (gallons)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Exterior Dimensions": [
+                        {
+                            "name": "Wheelbase (inches)",
+                            "value": "121.8"
+                        },
+                        {
+                            "name": "Length (inches)",
+                            "value": "196.7"
+                        },
+                        {
+                            "name": "Width, without mirrors (inches)",
+                            "value": "77.8"
+                        },
+                        {
+                            "name": "Height (inches)",
+                            "value": "63.9"
+                        },
+                        {
+                            "name": "Front Track Width (inches)",
+                            "value": "65.9"
+                        },
+                        {
+                            "name": "Rear Track Width (inches)",
+                            "value": "65.9"
+                        },
+                        {
+                            "name": "Minimum Ground Clearance (inches)",
+                            "value": "7"
+                        },
+                        {
+                            "name": "Rear Door Opening Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Door Opening Width (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Liftover Height (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Interior Dimensions": [
+                        {
+                            "name": "Passenger / Seating Capacity",
+                            "value": "5"
+                        },
+                        {
+                            "name": "Total Passenger Volume (cubic feet)",
+                            "value": "105.1"
+                        },
+                        {
+                            "name": "Front Head Room (inches)",
+                            "value": "38.6"
+                        },
+                        {
+                            "name": "Front Leg Room (inches)",
+                            "value": "44.3"
+                        },
+                        {
+                            "name": "Front Shoulder Room (inches)",
+                            "value": "58.9"
+                        },
+                        {
+                            "name": "Front Hip Room (inches)",
+                            "value": "56.5"
+                        },
+                        {
+                            "name": "Second Row Head Room (inches)",
+                            "value": "37.7"
+                        },
+                        {
+                            "name": "Second Row Leg Room (inches)",
+                            "value": "39.6"
+                        },
+                        {
+                            "name": "Second Row Shoulder Room (inches)",
+                            "value": "58.6"
+                        },
+                        {
+                            "name": "Second Row Hip Room (inches)",
+                            "value": "54"
+                        }
+                    ],
+                    "Cargo Area Dimensions": [
+                        {
+                            "name": "Cargo Space/Area Length Behind First Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Length Behind Second Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Width at Beltline (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Width Between Wheelhousings (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Front Row (cubic feet)",
+                            "value": "60.8"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Second Row (cubic feet)",
+                            "value": "28.0"
+                        }
+                    ],
+                    "Steering": [
+                        {
+                            "name": "Steering Type",
+                            "value": "Continuously Variable Electric Power"
+                        },
+                        {
+                            "name": "Steering Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Turns, lock to lock",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, curb to curb (feet)",
+                            "value": "39.7"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, wall to wall (feet)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Suspension": [
+                        {
+                            "name": "Front Suspension Type",
+                            "value": "5-Link"
+                        },
+                        {
+                            "name": "Rear Suspension Type",
+                            "value": "5-Link"
+                        },
+                        {
+                            "name": "Front Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Brakes": [
+                        {
+                            "name": "Brake Type",
+                            "value": "4-Wheel Disc"
+                        },
+                        {
+                            "name": "Anti-Lock-Braking System",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Brake Rotors, diameter x thickness (inches)",
+                            "value": "17 x -TBD-"
+                        },
+                        {
+                            "name": "Rear Brake Rotors, diameter x thickness (inches)",
+                            "value": "18 x -TBD-"
+                        }
+                    ],
+                    "Wheels and Tires": [
+                        {
+                            "name": "Front Wheel Size (inches)",
+                            "value": "20 x -TBD-"
+                        },
+                        {
+                            "name": "Front Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Front Tire Size",
+                            "value": "265/50R20"
+                        },
+                        {
+                            "name": "Rear Wheel Size (inches)",
+                            "value": "20 x -TBD-"
+                        },
+                        {
+                            "name": "Rear Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Rear Tire Size",
+                            "value": "265/50R20"
+                        }
+                    ],
+                    "Weight Information": [
+                        {
+                            "name": "Base Curb Weight (pounds)",
+                            "value": "5557"
+                        },
+                        {
+                            "name": "Total Option Weight (pounds)",
+                            "value": "0.00"
+                        },
+                        {
+                            "name": "Maximum Payload Capacity (pounds)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Curb Weight",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Electrical": [
+                        {
+                            "name": "Cold Cranking Amps @ 0° F",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Maximum Alternator Capacity (amps)",
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                "slug": "/cadillac/lyriq",
+                "name": "LYRIQ 4dr Tech w/1SA"
+            }
+        ],
+        "suvs": [
+            {
+                "model": "Escalade / Escalade ESV",
+                "year": 2023,
+                "price": 82690,
+                "formattedPrice": "$82,690",
+                "previewImage": [
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2023-cadillac-escalade-v-290-1660134678.jpg"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2023-cadillac-escalade-v-290-1660134678.jpg",
+                        "credit": "Michael Simari",
+                        "description": "2023 Cadillac Escalade-V"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2023-cadillac-escalade-v-254-1660134655.jpg",
+                        "credit": "Michael Simari",
+                        "description": "2023 Cadillac Escalade-V"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2023-cadillac-escalade-v-533-1660134750.jpg",
+                        "credit": null,
+                        "description": "2023 Cadillac Escalade-V"
+                    }
+                ],
+                "specs": {
+                    "Vehicle": [
+                        {
+                            "name": "Drivetrain",
+                            "value": "Rear Wheel Drive"
+                        }
+                    ],
+                    "Engine": [
+                        {
+                            "name": "Engine Order Code",
+                            "value": "L87"
+                        },
+                        {
+                            "name": "Engine Type and Required Fuel",
+                            "value": "Gas V8"
+                        },
+                        {
+                            "name": "Displacement (liters/cubic inches)",
+                            "value": "6.2L/375"
+                        },
+                        {
+                            "name": "Fuel System",
+                            "value": "Direct Injection"
+                        },
+                        {
+                            "name": "Maximum Horsepower @ RPM",
+                            "value": "420 @ 5600"
+                        },
+                        {
+                            "name": "Maximum Torque @ RPM",
+                            "value": "460 @ 4100"
+                        },
+                        {
+                            "name": "Cooling System Capacity (quarts)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Transmission": [
+                        {
+                            "name": "Transmission Order Code",
+                            "value": "MHS"
+                        },
+                        {
+                            "name": "Transmission Description",
+                            "value": "Automatic"
+                        },
+                        {
+                            "name": "Number of Transmission Speeds",
+                            "value": "10"
+                        },
+                        {
+                            "name": "First Gear Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Second Gear Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Third Gear Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Fourth Gear Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Fifth Gear Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Sixth Gear Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Seventh Gear Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Eighth Gear Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Ninth Gear Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Tenth Gear Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Reverse Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Final Drive Axle Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Transfer Case Gear Ratio, high (:1)",
+                            "value": "1.00"
+                        },
+                        {
+                            "name": "Transfer Case Gear Ratio, low (:1)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Fuel Economy and Range": [
+                        {
+                            "name": "EPA Greenhouse Gas Score",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "CO2 Emissions, 15K mi/year (tons)",
+                            "value": "11.0 (2022)"
+                        },
+                        {
+                            "name": "Range, city/highway (miles)",
+                            "value": "336.00 / 456.00"
+                        },
+                        {
+                            "name": "EPA Fuel Economy, combined/city/highway (mpg)",
+                            "value": "16 (2022) / 14 (2022) / 19 (2022)"
+                        }
+                    ],
+                    "Fuel Tank": [
+                        {
+                            "name": "Fuel Capacity / Gas Tank Size",
+                            "value": "24"
+                        }
+                    ],
+                    "Exterior Dimensions": [
+                        {
+                            "name": "Wheelbase (inches)",
+                            "value": "120.9"
+                        },
+                        {
+                            "name": "Length (inches)",
+                            "value": "211.9"
+                        },
+                        {
+                            "name": "Width, without mirrors (inches)",
+                            "value": "81.1"
+                        },
+                        {
+                            "name": "Height (inches)",
+                            "value": "76.7"
+                        },
+                        {
+                            "name": "Rear Door Opening Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Door Opening Width (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Body Length",
+                            "value": "0.00"
+                        },
+                        {
+                            "name": "Ground Clearance, Front",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Interior Dimensions": [
+                        {
+                            "name": "Passenger / Seating Capacity",
+                            "value": "7"
+                        },
+                        {
+                            "name": "Front Head Room (inches)",
+                            "value": "42.3"
+                        },
+                        {
+                            "name": "Front Leg Room (inches)",
+                            "value": "44.5"
+                        },
+                        {
+                            "name": "Front Shoulder Room (inches)",
+                            "value": "65.5"
+                        },
+                        {
+                            "name": "Front Hip Room (inches)",
+                            "value": "61.7"
+                        },
+                        {
+                            "name": "Second Row Head Room (inches)",
+                            "value": "38.9"
+                        },
+                        {
+                            "name": "Second Row Leg Room (inches)",
+                            "value": "41.7"
+                        },
+                        {
+                            "name": "Second Row Shoulder Room (inches)",
+                            "value": "64.6"
+                        },
+                        {
+                            "name": "Second Row Hip Room (inches)",
+                            "value": "61.2"
+                        },
+                        {
+                            "name": "Third Row Head Room (inches)",
+                            "value": "38.2"
+                        },
+                        {
+                            "name": "Third Row Leg Room (inches)",
+                            "value": "34.9"
+                        },
+                        {
+                            "name": "Third Row Shoulder Room (inches)",
+                            "value": "62.7"
+                        },
+                        {
+                            "name": "Third Row Hip Room (inches)",
+                            "value": "49.4"
+                        }
+                    ],
+                    "Cargo Area Dimensions": [
+                        {
+                            "name": "Cargo Space/Area Length @ Floor to Console",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Length Behind First Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Length Behind Second Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Length Behind Third Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Width at Beltline (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Width at Floor (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Width Between Wheelhousings (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area (cubic feet)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Front Row (cubic feet)",
+                            "value": "121.0"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Second Row (cubic feet)",
+                            "value": "72.9"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Third Row (cubic feet)",
+                            "value": "25.5"
+                        }
+                    ],
+                    "Steering": [
+                        {
+                            "name": "Steering Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Steering Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, curb to curb (feet)",
+                            "value": "39.7"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, wall to wall (feet)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Suspension": [
+                        {
+                            "name": "Front Suspension Type",
+                            "value": "Independent"
+                        },
+                        {
+                            "name": "Rear Suspension Type",
+                            "value": "Independent Multi-Link"
+                        },
+                        {
+                            "name": "Front Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Brakes": [
+                        {
+                            "name": "Brake Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Anti-Lock-Braking System",
+                            "value": "4-Wheel"
+                        },
+                        {
+                            "name": "Front Brake Rotors, diameter x thickness (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Brake Rotors, diameter x thickness (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Wheels and Tires": [
+                        {
+                            "name": "Front Wheel Size (inches)",
+                            "value": "22 x -TBD-"
+                        },
+                        {
+                            "name": "Front Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Front Tire Size",
+                            "value": "275/50R22SL"
+                        },
+                        {
+                            "name": "Rear Wheel Size (inches)",
+                            "value": "22 x -TBD-"
+                        },
+                        {
+                            "name": "Rear Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Rear Tire Size",
+                            "value": "275/50R22SL"
+                        },
+                        {
+                            "name": "Spare Wheel Size (inches)",
+                            "value": "17 x -TBD-"
+                        },
+                        {
+                            "name": "Spare Wheel Material",
+                            "value": "Steel"
+                        },
+                        {
+                            "name": "Spare Tire Size",
+                            "value": "265/70R17SL"
+                        }
+                    ],
+                    "Towing": [
+                        {
+                            "name": "Maximum Towing Capacity (pounds)",
+                            "value": "7700"
+                        },
+                        {
+                            "name": "Maximum Trailer Weight, dead weight hitch (pounds)",
+                            "value": "5000"
+                        },
+                        {
+                            "name": "Maximum Tongue Weight, dead weight hitch (pounds)",
+                            "value": "500"
+                        },
+                        {
+                            "name": "Maximum Trailer Weight, weight distributing hitch (pounds)",
+                            "value": "7700"
+                        },
+                        {
+                            "name": "Maximum Tongue Weight, weight distributing hitch (pounds)",
+                            "value": "770"
+                        }
+                    ],
+                    "Weight Information": [
+                        {
+                            "name": "Base Curb Weight (pounds)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Total Option Weight (pounds)",
+                            "value": "72.00"
+                        },
+                        {
+                            "name": "Maximum Payload Capacity (pounds)",
+                            "value": "2044.00"
+                        },
+                        {
+                            "name": "As Spec'd Payload Capacity (pounds)",
+                            "value": "1972.00"
+                        },
+                        {
+                            "name": "Gross Vehicle Weight Rating (pounds)",
+                            "value": "7400.00"
+                        },
+                        {
+                            "name": "Front Gross Axle Weight Rating (pounds)",
+                            "value": "3700"
+                        },
+                        {
+                            "name": "Rear Gross Axle Weight Rating (pounds)",
+                            "value": "4300"
+                        },
+                        {
+                            "name": "Curb Weight",
+                            "value": "5356.00"
+                        },
+                        {
+                            "name": "Payload Weight Front",
+                            "value": "0"
+                        }
+                    ],
+                    "Electrical": [
+                        {
+                            "name": "Cold Cranking Amps @ 0° F",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Maximum Alternator Capacity (amps)",
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                "slug": "/cadillac/escalade-escalade-esv",
+                "name": "Escalade RWD Luxury"
+            },
+            {
+                "model": "Lyriq",
+                "year": 2024,
+                "price": 58590,
+                "formattedPrice": "$58,590",
+                "previewImage": [
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2024-cadillac-lyriq-005-1675979632.jpg"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2024-cadillac-lyriq-005-1675979632.jpg",
+                        "credit": "Cadillac",
+                        "description": "2024 Cadillac Lyriq"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2023-cadillac-lyriq-054-1660588738.jpeg",
+                        "credit": "Marc Urbano",
+                        "description": "2024 Cadillac Lyriq interior"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2024-cadillac-lyriq-002-1675979632.jpg",
+                        "credit": "Cadillac",
+                        "description": "2024 Cadillac Lyriq"
+                    }
+                ],
+                "specs": {
+                    "Vehicle": [
+                        {
+                            "name": "EPA Classification",
+                            "value": "Sport Utility Vehicles"
+                        },
+                        {
+                            "name": "Drivetrain",
+                            "value": "Rear Wheel Drive"
+                        }
+                    ],
+                    "Engine": [
+                        {
+                            "name": "Engine Order Code",
+                            "value": "EN0"
+                        },
+                        {
+                            "name": "Engine Type and Required Fuel",
+                            "value": "Electric"
+                        },
+                        {
+                            "name": "Fuel System",
+                            "value": "Electric"
+                        },
+                        {
+                            "name": "Maximum Horsepower @ RPM",
+                            "value": "340 (Est.)"
+                        },
+                        {
+                            "name": "Maximum Torque @ RPM",
+                            "value": "325 (Est.)"
+                        },
+                        {
+                            "name": "Cooling System Capacity (quarts)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Transmission": [
+                        {
+                            "name": "Transmission Order Code",
+                            "value": "MF1"
+                        },
+                        {
+                            "name": "Number of Transmission Speeds",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Final Drive Axle Ratio (:1)",
+                            "value": "11.63"
+                        },
+                        {
+                            "name": "Transfer Case Gear Ratio, high (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Transfer Case Gear Ratio, low (:1)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Fuel Economy and Range": [
+                        {
+                            "name": "EPA Greenhouse Gas Score",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Range, city/highway (miles)",
+                            "value": "0.00 / 0.00"
+                        },
+                        {
+                            "name": "EPA Fuel Economy, combined/city/highway (mpg)",
+                            "value": " /  / "
+                        },
+                        {
+                            "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
+                            "value": "N/A / N/A / N/A"
+                        }
+                    ],
+                    "Fuel Tank": [
+                        {
+                            "name": "Aux Fuel Tank Capacity (gallons)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Exterior Dimensions": [
+                        {
+                            "name": "Wheelbase (inches)",
+                            "value": "121.8"
+                        },
+                        {
+                            "name": "Length (inches)",
+                            "value": "196.7"
+                        },
+                        {
+                            "name": "Width, without mirrors (inches)",
+                            "value": "77.8"
+                        },
+                        {
+                            "name": "Height (inches)",
+                            "value": "63.9"
+                        },
+                        {
+                            "name": "Front Track Width (inches)",
+                            "value": "65.9"
+                        },
+                        {
+                            "name": "Rear Track Width (inches)",
+                            "value": "65.9"
+                        },
+                        {
+                            "name": "Minimum Ground Clearance (inches)",
+                            "value": "7"
+                        },
+                        {
+                            "name": "Rear Door Opening Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Door Opening Width (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Liftover Height (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Interior Dimensions": [
+                        {
+                            "name": "Passenger / Seating Capacity",
+                            "value": "5"
+                        },
+                        {
+                            "name": "Total Passenger Volume (cubic feet)",
+                            "value": "105.1"
+                        },
+                        {
+                            "name": "Front Head Room (inches)",
+                            "value": "38.6"
+                        },
+                        {
+                            "name": "Front Leg Room (inches)",
+                            "value": "44.3"
+                        },
+                        {
+                            "name": "Front Shoulder Room (inches)",
+                            "value": "58.9"
+                        },
+                        {
+                            "name": "Front Hip Room (inches)",
+                            "value": "56.5"
+                        },
+                        {
+                            "name": "Second Row Head Room (inches)",
+                            "value": "37.7"
+                        },
+                        {
+                            "name": "Second Row Leg Room (inches)",
+                            "value": "39.6"
+                        },
+                        {
+                            "name": "Second Row Shoulder Room (inches)",
+                            "value": "58.6"
+                        },
+                        {
+                            "name": "Second Row Hip Room (inches)",
+                            "value": "54"
+                        }
+                    ],
+                    "Cargo Area Dimensions": [
+                        {
+                            "name": "Cargo Space/Area Length Behind First Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Length Behind Second Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Width at Beltline (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Width Between Wheelhousings (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Front Row (cubic feet)",
+                            "value": "60.8"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Second Row (cubic feet)",
+                            "value": "28.0"
+                        }
+                    ],
+                    "Steering": [
+                        {
+                            "name": "Steering Type",
+                            "value": "Continuously Variable Electric Power"
+                        },
+                        {
+                            "name": "Steering Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Turns, lock to lock",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, curb to curb (feet)",
+                            "value": "39.7"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, wall to wall (feet)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Suspension": [
+                        {
+                            "name": "Front Suspension Type",
+                            "value": "5-Link"
+                        },
+                        {
+                            "name": "Rear Suspension Type",
+                            "value": "5-Link"
+                        },
+                        {
+                            "name": "Front Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Brakes": [
+                        {
+                            "name": "Brake Type",
+                            "value": "4-Wheel Disc"
+                        },
+                        {
+                            "name": "Anti-Lock-Braking System",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Brake Rotors, diameter x thickness (inches)",
+                            "value": "17 x -TBD-"
+                        },
+                        {
+                            "name": "Rear Brake Rotors, diameter x thickness (inches)",
+                            "value": "18 x -TBD-"
+                        }
+                    ],
+                    "Wheels and Tires": [
+                        {
+                            "name": "Front Wheel Size (inches)",
+                            "value": "20 x -TBD-"
+                        },
+                        {
+                            "name": "Front Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Front Tire Size",
+                            "value": "265/50R20"
+                        },
+                        {
+                            "name": "Rear Wheel Size (inches)",
+                            "value": "20 x -TBD-"
+                        },
+                        {
+                            "name": "Rear Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Rear Tire Size",
+                            "value": "265/50R20"
+                        }
+                    ],
+                    "Weight Information": [
+                        {
+                            "name": "Base Curb Weight (pounds)",
+                            "value": "5557"
+                        },
+                        {
+                            "name": "Total Option Weight (pounds)",
+                            "value": "0.00"
+                        },
+                        {
+                            "name": "Maximum Payload Capacity (pounds)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Curb Weight",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Electrical": [
+                        {
+                            "name": "Cold Cranking Amps @ 0° F",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Maximum Alternator Capacity (amps)",
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                "slug": "/cadillac/lyriq",
+                "name": "LYRIQ 4dr Tech w/1SA"
+            },
+            {
+                "model": "XT4",
+                "year": 2024,
+                "price": 39090,
+                "formattedPrice": "$39,090",
+                "previewImage": [
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2024-cadillac-xt4-001-1676992697.jpg"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2024-cadillac-xt4-001-1676992697.jpg",
+                        "credit": "Cadillac",
+                        "description": "2024 Cadillac XT4"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2024-cadillac-xt4-004-1676992611.jpg",
+                        "credit": "Cadillac",
+                        "description": "2024 Cadillac XT4 interior"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2024-cadillac-xt4-002-1676992657.jpg",
+                        "credit": "Cadillac",
+                        "description": "2024 Cadillac XT4"
+                    }
+                ],
+                "specs": {
+                    "Vehicle": [
+                        {
+                            "name": "EPA Classification",
+                            "value": "Small Sport Utility Vehicle"
+                        },
+                        {
+                            "name": "Drivetrain",
+                            "value": "Front Wheel Drive"
+                        }
+                    ],
+                    "Engine": [
+                        {
+                            "name": "Engine Order Code",
+                            "value": "LSY"
+                        },
+                        {
+                            "name": "Engine Type and Required Fuel",
+                            "value": "Turbocharged Gas I4"
+                        },
+                        {
+                            "name": "Displacement (liters/cubic inches)",
+                            "value": "2.0L/122"
+                        },
+                        {
+                            "name": "Fuel System",
+                            "value": "Direct Injection"
+                        },
+                        {
+                            "name": "Maximum Horsepower @ RPM",
+                            "value": "235 @ 5000"
+                        },
+                        {
+                            "name": "Maximum Torque @ RPM",
+                            "value": "258 @ 1500-4000"
+                        },
+                        {
+                            "name": "Cooling System Capacity (quarts)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Transmission": [
+                        {
+                            "name": "Transmission Order Code",
+                            "value": "M3H"
+                        },
+                        {
+                            "name": "Transmission Description",
+                            "value": "Automatic"
+                        },
+                        {
+                            "name": "Number of Transmission Speeds",
+                            "value": "9"
+                        },
+                        {
+                            "name": "First Gear Ratio (:1)",
+                            "value": "4.69"
+                        },
+                        {
+                            "name": "Second Gear Ratio (:1)",
+                            "value": "3.31"
+                        },
+                        {
+                            "name": "Third Gear Ratio (:1)",
+                            "value": "3.01"
+                        },
+                        {
+                            "name": "Fourth Gear Ratio (:1)",
+                            "value": "2.44"
+                        },
+                        {
+                            "name": "Fifth Gear Ratio (:1)",
+                            "value": "1.92"
+                        },
+                        {
+                            "name": "Sixth Gear Ratio (:1)",
+                            "value": "1.44"
+                        },
+                        {
+                            "name": "Seventh Gear Ratio (:1)",
+                            "value": "1.00"
+                        },
+                        {
+                            "name": "Eighth Gear Ratio (:1)",
+                            "value": "0.75"
+                        },
+                        {
+                            "name": "Ninth Gear Ratio (:1)",
+                            "value": "0.62"
+                        },
+                        {
+                            "name": "Reverse Ratio (:1)",
+                            "value": "2.96"
+                        },
+                        {
+                            "name": "Final Drive Axle Ratio (:1)",
+                            "value": "3.47"
+                        }
+                    ],
+                    "Fuel Economy and Range": [
+                        {
+                            "name": "EPA Greenhouse Gas Score",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "CO2 Emissions, 15K mi/year (tons)",
+                            "value": "6.8"
+                        },
+                        {
+                            "name": "Range, city/highway (miles)",
+                            "value": "365.70 / 477.00"
+                        },
+                        {
+                            "name": "EPA Fuel Economy, combined/city/highway (mpg)",
+                            "value": "26 / 23 / 30"
+                        },
+                        {
+                            "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
+                            "value": "N/A /  / N/A"
+                        }
+                    ],
+                    "Fuel Tank": [
+                        {
+                            "name": "Fuel Capacity / Gas Tank Size",
+                            "value": "15.9"
+                        },
+                        {
+                            "name": "Aux Fuel Tank Capacity (gallons)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Exterior Dimensions": [
+                        {
+                            "name": "Wheelbase (inches)",
+                            "value": "109.4"
+                        },
+                        {
+                            "name": "Length (inches)",
+                            "value": "181.1"
+                        },
+                        {
+                            "name": "Width, without mirrors (inches)",
+                            "value": "76.7"
+                        },
+                        {
+                            "name": "Height (inches)",
+                            "value": "64.1"
+                        },
+                        {
+                            "name": "Front Track Width (inches)",
+                            "value": "63.2"
+                        },
+                        {
+                            "name": "Rear Track Width (inches)",
+                            "value": "63.1"
+                        },
+                        {
+                            "name": "Minimum Ground Clearance (inches)",
+                            "value": "6.7"
+                        },
+                        {
+                            "name": "Rear Door Opening Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Door Opening Width (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Liftover Height (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Interior Dimensions": [
+                        {
+                            "name": "Passenger / Seating Capacity",
+                            "value": "5"
+                        },
+                        {
+                            "name": "Total Passenger Volume (cubic feet)",
+                            "value": "100.6"
+                        },
+                        {
+                            "name": "Front Head Room (inches)",
+                            "value": "39.4"
+                        },
+                        {
+                            "name": "Front Leg Room (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Shoulder Room (inches)",
+                            "value": "57.0"
+                        },
+                        {
+                            "name": "Front Hip Room (inches)",
+                            "value": "54.5"
+                        },
+                        {
+                            "name": "Second Row Head Room (inches)",
+                            "value": "38.3"
+                        },
+                        {
+                            "name": "Second Row Leg Room (inches)",
+                            "value": "39.5"
+                        },
+                        {
+                            "name": "Second Row Shoulder Room (inches)",
+                            "value": "55.1"
+                        },
+                        {
+                            "name": "Second Row Hip Room (inches)",
+                            "value": "49.8"
+                        }
+                    ],
+                    "Cargo Area Dimensions": [
+                        {
+                            "name": "Cargo Space/Area Length Behind First Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Length Behind Second Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Width at Beltline (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Width Between Wheelhousings (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Front Row (cubic feet)",
+                            "value": "48.9"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Second Row (cubic feet)",
+                            "value": "22.5"
+                        }
+                    ],
+                    "Steering": [
+                        {
+                            "name": "Steering Type",
+                            "value": "Electric Rack & Pinion"
+                        },
+                        {
+                            "name": "Steering Ratio (:1)",
+                            "value": "Variable"
+                        },
+                        {
+                            "name": "Turns, lock to lock",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, curb to curb (feet)",
+                            "value": "38.0"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, wall to wall (feet)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Suspension": [
+                        {
+                            "name": "Front Suspension Type",
+                            "value": "MacPherson Strut"
+                        },
+                        {
+                            "name": "Rear Suspension Type",
+                            "value": "Multi-Link"
+                        },
+                        {
+                            "name": "Front Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Brakes": [
+                        {
+                            "name": "Brake Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Anti-Lock-Braking System",
+                            "value": "4-Wheel"
+                        },
+                        {
+                            "name": "Front Brake Rotors, diameter x thickness (inches)",
+                            "value": "12.6 x -TBD-"
+                        },
+                        {
+                            "name": "Rear Brake Rotors, diameter x thickness (inches)",
+                            "value": "12.4 x -TBD-"
+                        }
+                    ],
+                    "Wheels and Tires": [
+                        {
+                            "name": "Front Wheel Size (inches)",
+                            "value": "18 x -TBD-"
+                        },
+                        {
+                            "name": "Front Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Front Tire Size",
+                            "value": "P235/60R18"
+                        },
+                        {
+                            "name": "Rear Wheel Size (inches)",
+                            "value": "18 x -TBD-"
+                        },
+                        {
+                            "name": "Rear Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Rear Tire Size",
+                            "value": "P235/60R18"
+                        }
+                    ],
+                    "Towing": [
+                        {
+                            "name": "Maximum Towing Capacity (pounds)",
+                            "value": "3500"
+                        },
+                        {
+                            "name": "Maximum Trailer Weight, dead weight hitch (pounds)",
+                            "value": "2000"
+                        },
+                        {
+                            "name": "Maximum Tongue Weight, dead weight hitch (pounds)",
+                            "value": "200"
+                        },
+                        {
+                            "name": "Maximum Trailer Weight, weight distributing hitch (pounds)",
+                            "value": "2000"
+                        },
+                        {
+                            "name": "Maximum Tongue Weight, weight distributing hitch (pounds)",
+                            "value": "200"
+                        }
+                    ],
+                    "Weight Information": [
+                        {
+                            "name": "Base Curb Weight (pounds)",
+                            "value": "3708"
+                        },
+                        {
+                            "name": "Total Option Weight (pounds)",
+                            "value": "0.00"
+                        },
+                        {
+                            "name": "Maximum Payload Capacity (pounds)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Curb Weight",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Electrical": [
+                        {
+                            "name": "Cold Cranking Amps @ 0° F",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Maximum Alternator Capacity (amps)",
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                "slug": "/cadillac/xt4",
+                "name": "XT4 FWD 4dr Sport"
+            },
+            {
+                "model": "XT5",
+                "year": 2023,
+                "price": 45540,
+                "formattedPrice": "$45,540",
+                "previewImage": [
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2023-cadillac-xt5-001-1667400361.jpg"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2023-cadillac-xt5-001-1667400361.jpg",
+                        "credit": "Cadillac",
+                        "description": "2023 Cadillac XT5"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2023-cadillac-xt5-003-1667400288.jpg",
+                        "credit": "Cadillac",
+                        "description": "2023 Cadillac XT5 interior"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2023-cadillac-xt5-002-1667400323.jpg",
+                        "credit": "Cadillac",
+                        "description": "2023 Cadillac XT5"
+                    }
+                ],
+                "specs": {
+                    "Vehicle": [
+                        {
+                            "name": "EPA Classification",
+                            "value": "Sport Utility Vehicles"
+                        },
+                        {
+                            "name": "Drivetrain",
+                            "value": "All Wheel Drive"
+                        }
+                    ],
+                    "Engine": [
+                        {
+                            "name": "Engine Order Code",
+                            "value": "LSY"
+                        },
+                        {
+                            "name": "Engine Type and Required Fuel",
+                            "value": "Turbocharged Gas I4"
+                        },
+                        {
+                            "name": "Displacement (liters/cubic inches)",
+                            "value": "2.0L/-TBD-"
+                        },
+                        {
+                            "name": "Fuel System",
+                            "value": "Direct Injection"
+                        },
+                        {
+                            "name": "Maximum Horsepower @ RPM",
+                            "value": "235 @ 5000"
+                        },
+                        {
+                            "name": "Maximum Torque @ RPM",
+                            "value": "258 @ 1500-4000"
+                        },
+                        {
+                            "name": "Cooling System Capacity (quarts)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Transmission": [
+                        {
+                            "name": "Transmission Order Code",
+                            "value": "M3G"
+                        },
+                        {
+                            "name": "Transmission Description",
+                            "value": "Automatic"
+                        },
+                        {
+                            "name": "Number of Transmission Speeds",
+                            "value": "9"
+                        },
+                        {
+                            "name": "First Gear Ratio (:1)",
+                            "value": "4.69"
+                        },
+                        {
+                            "name": "Second Gear Ratio (:1)",
+                            "value": "3.31"
+                        },
+                        {
+                            "name": "Third Gear Ratio (:1)",
+                            "value": "3.01"
+                        },
+                        {
+                            "name": "Fourth Gear Ratio (:1)",
+                            "value": "2.44"
+                        },
+                        {
+                            "name": "Fifth Gear Ratio (:1)",
+                            "value": "1.92"
+                        },
+                        {
+                            "name": "Sixth Gear Ratio (:1)",
+                            "value": "1.44"
+                        },
+                        {
+                            "name": "Seventh Gear Ratio (:1)",
+                            "value": "1.00"
+                        },
+                        {
+                            "name": "Eighth Gear Ratio (:1)",
+                            "value": "0.75"
+                        },
+                        {
+                            "name": "Ninth Gear Ratio (:1)",
+                            "value": "0.62"
+                        },
+                        {
+                            "name": "Reverse Ratio (:1)",
+                            "value": "2.96"
+                        },
+                        {
+                            "name": "Final Drive Axle Ratio (:1)",
+                            "value": "3.47"
+                        }
+                    ],
+                    "Fuel Economy and Range": [
+                        {
+                            "name": "EPA Greenhouse Gas Score",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "CO2 Emissions, 15K mi/year (tons)",
+                            "value": "7.7"
+                        },
+                        {
+                            "name": "Range, city/highway (miles)",
+                            "value": "462.00 / 594.00"
+                        },
+                        {
+                            "name": "EPA Fuel Economy, combined/city/highway (mpg)",
+                            "value": "23 / 21 / 27"
+                        },
+                        {
+                            "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
+                            "value": "N/A / N/A / N/A"
+                        }
+                    ],
+                    "Fuel Tank": [
+                        {
+                            "name": "Fuel Capacity / Gas Tank Size",
+                            "value": "22.0"
+                        },
+                        {
+                            "name": "Aux Fuel Tank Capacity (gallons)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Exterior Dimensions": [
+                        {
+                            "name": "Wheelbase (inches)",
+                            "value": "112.5"
+                        },
+                        {
+                            "name": "Length (inches)",
+                            "value": "189.6"
+                        },
+                        {
+                            "name": "Width, without mirrors (inches)",
+                            "value": "74.9"
+                        },
+                        {
+                            "name": "Height (inches)",
+                            "value": "66.1"
+                        },
+                        {
+                            "name": "Front Track Width (inches)",
+                            "value": "64.8"
+                        },
+                        {
+                            "name": "Rear Track Width (inches)",
+                            "value": "64.8"
+                        },
+                        {
+                            "name": "Minimum Ground Clearance (inches)",
+                            "value": "7.8"
+                        },
+                        {
+                            "name": "Rear Door Opening Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Door Opening Width (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Liftover Height (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Interior Dimensions": [
+                        {
+                            "name": "Passenger / Seating Capacity",
+                            "value": "5"
+                        },
+                        {
+                            "name": "Total Passenger Volume (cubic feet)",
+                            "value": "104.5"
+                        },
+                        {
+                            "name": "Front Head Room (inches)",
+                            "value": "37.9"
+                        },
+                        {
+                            "name": "Front Leg Room (inches)",
+                            "value": "41.2"
+                        },
+                        {
+                            "name": "Front Shoulder Room (inches)",
+                            "value": "58.3"
+                        },
+                        {
+                            "name": "Front Hip Room (inches)",
+                            "value": "56.1"
+                        },
+                        {
+                            "name": "Second Row Head Room (inches)",
+                            "value": "36.6"
+                        },
+                        {
+                            "name": "Second Row Leg Room (inches)",
+                            "value": "39"
+                        },
+                        {
+                            "name": "Second Row Shoulder Room (inches)",
+                            "value": "56.3"
+                        },
+                        {
+                            "name": "Second Row Hip Room (inches)",
+                            "value": "54.8"
+                        }
+                    ],
+                    "Cargo Area Dimensions": [
+                        {
+                            "name": "Cargo Space/Area Length Behind First Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Length Behind Second Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Width at Beltline (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Width Between Wheelhousings (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Front Row (cubic feet)",
+                            "value": "63.0"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Second Row (cubic feet)",
+                            "value": "30.0"
+                        }
+                    ],
+                    "Steering": [
+                        {
+                            "name": "Steering Type",
+                            "value": "Electric Rack & Pinion"
+                        },
+                        {
+                            "name": "Steering Ratio (:1)",
+                            "value": "16"
+                        },
+                        {
+                            "name": "Turns, lock to lock",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, curb to curb (feet)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, wall to wall (feet)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Suspension": [
+                        {
+                            "name": "Front Suspension Type",
+                            "value": "MacPherson Strut"
+                        },
+                        {
+                            "name": "Rear Suspension Type",
+                            "value": "Multi-Link"
+                        },
+                        {
+                            "name": "Front Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Brakes": [
+                        {
+                            "name": "Brake Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Anti-Lock-Braking System",
+                            "value": "4-Wheel"
+                        },
+                        {
+                            "name": "Front Brake Rotors, diameter x thickness (inches)",
+                            "value": "13.6 x -TBD-"
+                        },
+                        {
+                            "name": "Rear Brake Rotors, diameter x thickness (inches)",
+                            "value": "12.4 x -TBD-"
+                        }
+                    ],
+                    "Wheels and Tires": [
+                        {
+                            "name": "Front Wheel Size (inches)",
+                            "value": "18 x -TBD-"
+                        },
+                        {
+                            "name": "Front Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Front Tire Size",
+                            "value": "P235/65R18"
+                        },
+                        {
+                            "name": "Rear Wheel Size (inches)",
+                            "value": "18 x -TBD-"
+                        },
+                        {
+                            "name": "Rear Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Rear Tire Size",
+                            "value": "P235/65R18"
+                        },
+                        {
+                            "name": "Spare Wheel Size (inches)",
+                            "value": "18 x -TBD-"
+                        },
+                        {
+                            "name": "Spare Wheel Material",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Spare Tire Size",
+                            "value": "Compact"
+                        }
+                    ],
+                    "Towing": [
+                        {
+                            "name": "Maximum Towing Capacity (pounds)",
+                            "value": "1000"
+                        },
+                        {
+                            "name": "Maximum Trailer Weight, dead weight hitch (pounds)",
+                            "value": "1000"
+                        },
+                        {
+                            "name": "Maximum Tongue Weight, dead weight hitch (pounds)",
+                            "value": "100"
+                        },
+                        {
+                            "name": "Maximum Trailer Weight, weight distributing hitch (pounds)",
+                            "value": "1000"
+                        },
+                        {
+                            "name": "Maximum Tongue Weight, weight distributing hitch (pounds)",
+                            "value": "100"
+                        }
+                    ],
+                    "Weight Information": [
+                        {
+                            "name": "Base Curb Weight (pounds)",
+                            "value": "4206"
+                        },
+                        {
+                            "name": "Total Option Weight (pounds)",
+                            "value": "0.00"
+                        },
+                        {
+                            "name": "Maximum Payload Capacity (pounds)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Curb Weight",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Electrical": [
+                        {
+                            "name": "Cold Cranking Amps @ 0° F",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Maximum Alternator Capacity (amps)",
+                            "value": "170"
+                        }
+                    ]
+                },
+                "slug": "/cadillac/xt5",
+                "name": "XT5 AWD 4dr Premium Luxury"
+            },
+            {
+                "model": "XT6",
+                "year": 2023,
+                "price": 49940,
+                "formattedPrice": "$49,940",
+                "previewImage": [
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-cadillac-xt6-sport-awd-101-1569305294.jpg"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-cadillac-xt6-sport-awd-101-1569305294.jpg",
+                        "credit": "John Roe",
+                        "description": "2023 Cadillac XT6 SUV"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-cadillac-xt6-sport-awd-103-1569305301.jpg",
+                        "credit": "John Roe",
+                        "description": "2023 Cadillac XT6"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/images/2020-cadillac-xt6-sport-awd-104-1569305301.jpg",
+                        "credit": "John Roe",
+                        "description": "2023 Cadillac XT6 interior"
+                    }
+                ],
+                "specs": {
+                    "Vehicle": [
+                        {
+                            "name": "EPA Classification",
+                            "value": "Sport Utility Vehicles"
+                        },
+                        {
+                            "name": "Drivetrain",
+                            "value": "All Wheel Drive"
+                        }
+                    ],
+                    "Engine": [
+                        {
+                            "name": "Engine Order Code",
+                            "value": "LGX"
+                        },
+                        {
+                            "name": "Engine Type and Required Fuel",
+                            "value": "Gas V6"
+                        },
+                        {
+                            "name": "Displacement (liters/cubic inches)",
+                            "value": "3.6L/222"
+                        },
+                        {
+                            "name": "Fuel System",
+                            "value": "Direct Injection"
+                        },
+                        {
+                            "name": "Maximum Horsepower @ RPM",
+                            "value": "310 @ 6600"
+                        },
+                        {
+                            "name": "Maximum Torque @ RPM",
+                            "value": "271 @ 5000"
+                        },
+                        {
+                            "name": "Cooling System Capacity (quarts)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Transmission": [
+                        {
+                            "name": "Transmission Order Code",
+                            "value": "M3W"
+                        },
+                        {
+                            "name": "Transmission Description",
+                            "value": "Automatic"
+                        },
+                        {
+                            "name": "Number of Transmission Speeds",
+                            "value": "9"
+                        },
+                        {
+                            "name": "First Gear Ratio (:1)",
+                            "value": "4.69"
+                        },
+                        {
+                            "name": "Second Gear Ratio (:1)",
+                            "value": "3.31"
+                        },
+                        {
+                            "name": "Third Gear Ratio (:1)",
+                            "value": "3.01"
+                        },
+                        {
+                            "name": "Fourth Gear Ratio (:1)",
+                            "value": "2.44"
+                        },
+                        {
+                            "name": "Fifth Gear Ratio (:1)",
+                            "value": "1.92"
+                        },
+                        {
+                            "name": "Sixth Gear Ratio (:1)",
+                            "value": "1.44"
+                        },
+                        {
+                            "name": "Seventh Gear Ratio (:1)",
+                            "value": "1.00"
+                        },
+                        {
+                            "name": "Eighth Gear Ratio (:1)",
+                            "value": "0.75"
+                        },
+                        {
+                            "name": "Ninth Gear Ratio (:1)",
+                            "value": "0.62"
+                        },
+                        {
+                            "name": "Reverse Ratio (:1)",
+                            "value": "2.96"
+                        },
+                        {
+                            "name": "Final Drive Axle Ratio (:1)",
+                            "value": "3.49"
+                        },
+                        {
+                            "name": "Transfer Case Gear Ratio, high (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Transfer Case Gear Ratio, low (:1)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Fuel Economy and Range": [
+                        {
+                            "name": "EPA Greenhouse Gas Score",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "CO2 Emissions, 15K mi/year (tons)",
+                            "value": "8.5"
+                        },
+                        {
+                            "name": "Range, city/highway (miles)",
+                            "value": "396.00 / 550.00"
+                        },
+                        {
+                            "name": "EPA Fuel Economy, combined/city/highway (mpg)",
+                            "value": "21 / 18 / 25"
+                        },
+                        {
+                            "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
+                            "value": "N/A / N/A / N/A"
+                        }
+                    ],
+                    "Fuel Tank": [
+                        {
+                            "name": "Fuel Capacity / Gas Tank Size",
+                            "value": "22.0"
+                        },
+                        {
+                            "name": "Aux Fuel Tank Capacity (gallons)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Exterior Dimensions": [
+                        {
+                            "name": "Wheelbase (inches)",
+                            "value": "112.7"
+                        },
+                        {
+                            "name": "Length (inches)",
+                            "value": "198.5"
+                        },
+                        {
+                            "name": "Width, without mirrors (inches)",
+                            "value": "77.3"
+                        },
+                        {
+                            "name": "Height (inches)",
+                            "value": "69.9"
+                        },
+                        {
+                            "name": "Front Track Width (inches)",
+                            "value": "66.4"
+                        },
+                        {
+                            "name": "Rear Track Width (inches)",
+                            "value": "66.2"
+                        },
+                        {
+                            "name": "Minimum Ground Clearance (inches)",
+                            "value": "6.65"
+                        },
+                        {
+                            "name": "Rear Door Opening Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Door Opening Width (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Liftover Height (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Interior Dimensions": [
+                        {
+                            "name": "Passenger / Seating Capacity",
+                            "value": "7"
+                        },
+                        {
+                            "name": "Total Passenger Volume (cubic feet)",
+                            "value": "149.9"
+                        },
+                        {
+                            "name": "Front Head Room (inches)",
+                            "value": "39.8"
+                        },
+                        {
+                            "name": "Front Leg Room (inches)",
+                            "value": "41.2"
+                        },
+                        {
+                            "name": "Front Shoulder Room (inches)",
+                            "value": "58.3"
+                        },
+                        {
+                            "name": "Front Hip Room (inches)",
+                            "value": "50.1"
+                        },
+                        {
+                            "name": "Second Row Head Room (inches)",
+                            "value": "39.1"
+                        },
+                        {
+                            "name": "Second Row Leg Room (inches)",
+                            "value": "39.1"
+                        },
+                        {
+                            "name": "Second Row Shoulder Room (inches)",
+                            "value": "57.4"
+                        },
+                        {
+                            "name": "Second Row Hip Room (inches)",
+                            "value": "55.7"
+                        },
+                        {
+                            "name": "Third Row Head Room (inches)",
+                            "value": "37.2"
+                        },
+                        {
+                            "name": "Third Row Leg Room (inches)",
+                            "value": "29.5"
+                        },
+                        {
+                            "name": "Third Row Shoulder Room (inches)",
+                            "value": "53.5"
+                        },
+                        {
+                            "name": "Third Row Hip Room (inches)",
+                            "value": "39.5"
+                        }
+                    ],
+                    "Cargo Area Dimensions": [
+                        {
+                            "name": "Cargo Space/Area Length Behind First Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Length Behind Second Row (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Width at Beltline (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Width Between Wheelhousings (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Front Row (cubic feet)",
+                            "value": "78.7"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Second Row (cubic feet)",
+                            "value": "43.1"
+                        },
+                        {
+                            "name": "Cargo Space/Area Behind Third Row (cubic feet)",
+                            "value": "12.6"
+                        }
+                    ],
+                    "Steering": [
+                        {
+                            "name": "Steering Type",
+                            "value": "Electric Power Steering"
+                        },
+                        {
+                            "name": "Steering Ratio (:1)",
+                            "value": "16"
+                        },
+                        {
+                            "name": "Turns, lock to lock",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, curb to curb (feet)",
+                            "value": "38.7"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, wall to wall (feet)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Suspension": [
+                        {
+                            "name": "Front Suspension Type",
+                            "value": "MacPherson Strut"
+                        },
+                        {
+                            "name": "Rear Suspension Type",
+                            "value": "Five-Link Independent"
+                        },
+                        {
+                            "name": "Front Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Anti-Roll Bar Diameter (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Brakes": [
+                        {
+                            "name": "Brake Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Anti-Lock-Braking System",
+                            "value": "4-Wheel"
+                        },
+                        {
+                            "name": "Front Brake Rotors, diameter x thickness (inches)",
+                            "value": "12.6 x 1.9"
+                        },
+                        {
+                            "name": "Rear Brake Rotors, diameter x thickness (inches)",
+                            "value": "12.4 x 0.9"
+                        }
+                    ],
+                    "Wheels and Tires": [
+                        {
+                            "name": "Front Wheel Size (inches)",
+                            "value": "20 x -TBD-"
+                        },
+                        {
+                            "name": "Front Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Front Tire Size",
+                            "value": "P235/55R20"
+                        },
+                        {
+                            "name": "Rear Wheel Size (inches)",
+                            "value": "20 x -TBD-"
+                        },
+                        {
+                            "name": "Rear Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Rear Tire Size",
+                            "value": "P235/55R20"
+                        },
+                        {
+                            "name": "Spare Wheel Size (inches)",
+                            "value": "18 x -TBD-"
+                        },
+                        {
+                            "name": "Spare Wheel Material",
+                            "value": "Steel"
+                        },
+                        {
+                            "name": "Spare Tire Size",
+                            "value": "Compact"
+                        }
+                    ],
+                    "Towing": [
+                        {
+                            "name": "Maximum Towing Capacity (pounds)",
+                            "value": "4000"
+                        },
+                        {
+                            "name": "Maximum Trailer Weight, dead weight hitch (pounds)",
+                            "value": "4000"
+                        },
+                        {
+                            "name": "Maximum Tongue Weight, dead weight hitch (pounds)",
+                            "value": "400"
+                        },
+                        {
+                            "name": "Maximum Trailer Weight, weight distributing hitch (pounds)",
+                            "value": "4000"
+                        },
+                        {
+                            "name": "Maximum Tongue Weight, weight distributing hitch (pounds)",
+                            "value": "400"
+                        }
+                    ],
+                    "Weight Information": [
+                        {
+                            "name": "Base Curb Weight (pounds)",
+                            "value": "4644"
+                        },
+                        {
+                            "name": "Total Option Weight (pounds)",
+                            "value": "0.00"
+                        },
+                        {
+                            "name": "Maximum Payload Capacity (pounds)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Curb Weight",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Electrical": [
+                        {
+                            "name": "Cold Cranking Amps @ 0° F",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Maximum Alternator Capacity (amps)",
+                            "value": "155"
+                        }
+                    ]
+                },
+                "slug": "/cadillac/xt6",
+                "name": "XT6 AWD 4dr Premium Luxury"
+            }
+        ],
+        "trucks": {},
+        "vans": {},
+        "discontinued": [
+            {
+                "model": "ATS"
+            },
+            {
+                "model": "ATS-V"
+            },
+            {
+                "model": "CT6"
+            },
+            {
+                "model": "CTS"
+            },
+            {
+                "model": "CTS-V"
+            },
+            {
+                "model": "DTS"
+            },
+            {
+                "model": "ELR"
+            },
+            {
+                "model": "Escalade EXT",
+                "year": 2013,
+                "price": 64055,
+                "formattedPrice": "$64,055",
+                "previewImage": [
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2015/04/2002-Cadillac-Escalade-EXT-1011.jpg"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2015/04/2002-Cadillac-Escalade-EXT-1011.jpg",
+                        "credit": "Cadillac",
+                        "description": "2002 Cadillac Escalade EXT"
+                    }
+                ],
+                "specs": {
+                    "Vehicle": [
+                        {
+                            "name": "Drivetrain",
+                            "value": "All Wheel Drive"
+                        }
+                    ],
+                    "Engine": [
+                        {
+                            "name": "Engine Order Code",
+                            "value": "L94"
+                        },
+                        {
+                            "name": "Engine Type and Required Fuel",
+                            "value": "Gas/Ethanol V8"
+                        },
+                        {
+                            "name": "Displacement (liters/cubic inches)",
+                            "value": "6.2L/376"
+                        },
+                        {
+                            "name": "Fuel System",
+                            "value": "Electronic Fuel Injection"
+                        },
+                        {
+                            "name": "Maximum Horsepower @ RPM",
+                            "value": "403 @ 5700"
+                        },
+                        {
+                            "name": "Maximum Torque @ RPM",
+                            "value": "417 @ 4300"
+                        },
+                        {
+                            "name": "Cooling System Capacity (quarts)",
+                            "value": "17.6"
+                        }
+                    ],
+                    "Transmission": [
+                        {
+                            "name": "Transmission Order Code",
+                            "value": "MYC"
+                        },
+                        {
+                            "name": "Transmission Description",
+                            "value": "Automatic w/Manual Shift"
+                        },
+                        {
+                            "name": "Number of Transmission Speeds",
+                            "value": "6"
+                        },
+                        {
+                            "name": "First Gear Ratio (:1)",
+                            "value": "4.02"
+                        },
+                        {
+                            "name": "Second Gear Ratio (:1)",
+                            "value": "2.36"
+                        },
+                        {
+                            "name": "Third Gear Ratio (:1)",
+                            "value": "1.52"
+                        },
+                        {
+                            "name": "Fourth Gear Ratio (:1)",
+                            "value": "1.15"
+                        },
+                        {
+                            "name": "Fifth Gear Ratio (:1)",
+                            "value": "0.85"
+                        },
+                        {
+                            "name": "Sixth Gear Ratio (:1)",
+                            "value": "0.66"
+                        },
+                        {
+                            "name": "Reverse Ratio (:1)",
+                            "value": "3.06"
+                        },
+                        {
+                            "name": "Final Drive Axle Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Transfer Case Model",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Fuel Economy and Range": [
+                        {
+                            "name": "EPA Greenhouse Gas Score",
+                            "value": "1 (2012)"
+                        },
+                        {
+                            "name": "CO2 Emissions, 15K mi/year (tons)",
+                            "value": "13.1"
+                        },
+                        {
+                            "name": "Range, city/highway (miles)",
+                            "value": "403.00 / 558.00"
+                        },
+                        {
+                            "name": "EPA Fuel Economy, combined/city/highway (mpg)",
+                            "value": "14 / 13 / 18"
+                        }
+                    ],
+                    "Fuel Tank": [
+                        {
+                            "name": "Fuel Capacity / Gas Tank Size",
+                            "value": "31"
+                        }
+                    ],
+                    "Exterior Dimensions": [
+                        {
+                            "name": "Wheelbase (inches)",
+                            "value": "130.00"
+                        },
+                        {
+                            "name": "Length (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Width, without mirrors (inches)",
+                            "value": "79.10"
+                        },
+                        {
+                            "name": "Height (inches)",
+                            "value": "74.50"
+                        },
+                        {
+                            "name": "Body Length",
+                            "value": "0.00"
+                        },
+                        {
+                            "name": "Ground Clearance, Front",
+                            "value": "9.2"
+                        }
+                    ],
+                    "Interior Dimensions": [
+                        {
+                            "name": "Passenger / Seating Capacity",
+                            "value": "5"
+                        },
+                        {
+                            "name": "Front Head Room (inches)",
+                            "value": "41.10"
+                        },
+                        {
+                            "name": "Front Leg Room (inches)",
+                            "value": "41.30"
+                        },
+                        {
+                            "name": "Front Shoulder Room (inches)",
+                            "value": "65.20"
+                        },
+                        {
+                            "name": "Front Hip Room (inches)",
+                            "value": "60.50"
+                        },
+                        {
+                            "name": "Second Row Head Room (inches)",
+                            "value": "40.00"
+                        },
+                        {
+                            "name": "Second Row Leg Room (inches)",
+                            "value": "39.10"
+                        },
+                        {
+                            "name": "Second Row Shoulder Room (inches)",
+                            "value": "65.30"
+                        },
+                        {
+                            "name": "Second Row Hip Room (inches)",
+                            "value": "62.30"
+                        }
+                    ],
+                    "Cargo Area Dimensions": [
+                        {
+                            "name": "Cargo Bed Length (inches)",
+                            "value": "53.0"
+                        },
+                        {
+                            "name": "Cargo Bed Width at Floor (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Width Between Wheelhousings (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Bed Height (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Cargo Space/Area (cubic feet)",
+                            "value": "45.5"
+                        }
+                    ],
+                    "Steering": [
+                        {
+                            "name": "Steering Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Steering Ratio (:1)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, curb to curb (feet)",
+                            "value": "43.0"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, wall to wall (feet)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Suspension": [
+                        {
+                            "name": "Front Suspension Type",
+                            "value": "Independent"
+                        },
+                        {
+                            "name": "Rear Suspension Type",
+                            "value": "5-Link"
+                        },
+                        {
+                            "name": "Front Shock Absorber Diameter (mm)",
+                            "value": "1.81"
+                        },
+                        {
+                            "name": "Rear Shock Absorber Diameter (mm)",
+                            "value": "1.81"
+                        },
+                        {
+                            "name": "Front Anti-Roll Bar Diameter (inches)",
+                            "value": "1.41"
+                        },
+                        {
+                            "name": "Rear Anti-Roll Bar Diameter (inches)",
+                            "value": "1.10"
+                        }
+                    ],
+                    "Brakes": [
+                        {
+                            "name": "Brake Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Anti-Lock-Braking System",
+                            "value": "4-Wheel"
+                        },
+                        {
+                            "name": "Front Brake Rotors, diameter x thickness (inches)",
+                            "value": "13 x 1.18"
+                        },
+                        {
+                            "name": "Rear Brake Rotors, diameter x thickness (inches)",
+                            "value": "13.5 x 0.787"
+                        }
+                    ],
+                    "Wheels and Tires": [
+                        {
+                            "name": "Front Wheel Size (inches)",
+                            "value": "22 x 9.0"
+                        },
+                        {
+                            "name": "Front Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Front Tire Size",
+                            "value": "P285/45R22"
+                        },
+                        {
+                            "name": "Rear Wheel Size (inches)",
+                            "value": "22 x 9.0"
+                        },
+                        {
+                            "name": "Rear Wheel Material",
+                            "value": "Aluminum"
+                        },
+                        {
+                            "name": "Rear Tire Size",
+                            "value": "P285/45R22"
+                        },
+                        {
+                            "name": "Spare Wheel Size (inches)",
+                            "value": "17 x 7.5"
+                        },
+                        {
+                            "name": "Spare Wheel Material",
+                            "value": "Steel"
+                        },
+                        {
+                            "name": "Spare Tire Size",
+                            "value": "P265/70R17"
+                        }
+                    ],
+                    "Towing": [
+                        {
+                            "name": "Maximum Towing Capacity (pounds)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Maximum Trailer Weight, dead weight hitch (pounds)",
+                            "value": "5000"
+                        },
+                        {
+                            "name": "Maximum Tongue Weight, dead weight hitch (pounds)",
+                            "value": "500"
+                        },
+                        {
+                            "name": "Maximum Trailer Weight, weight distributing hitch (pounds)",
+                            "value": "7600"
+                        },
+                        {
+                            "name": "Maximum Tongue Weight, weight distributing hitch (pounds)",
+                            "value": "1140"
+                        }
+                    ],
+                    "Weight Information": [
+                        {
+                            "name": "Base Curb Weight (pounds)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Total Option Weight (pounds)",
+                            "value": "0.00"
+                        },
+                        {
+                            "name": "Maximum Payload Capacity (pounds)",
+                            "value": "1265.00"
+                        },
+                        {
+                            "name": "As Spec'd Payload Capacity (pounds)",
+                            "value": "1265.00"
+                        },
+                        {
+                            "name": "Gross Vehicle Weight Rating (pounds)",
+                            "value": "7200.00"
+                        },
+                        {
+                            "name": "Front Gross Axle Weight Rating (pounds)",
+                            "value": "3800"
+                        },
+                        {
+                            "name": "Rear Gross Axle Weight Rating (pounds)",
+                            "value": "4100"
+                        },
+                        {
+                            "name": "Curb Weight",
+                            "value": "5935.00"
+                        },
+                        {
+                            "name": "Payload Weight Front",
+                            "value": "0"
+                        }
+                    ],
+                    "Electrical": [
+                        {
+                            "name": "Cold Cranking Amps @ 0° F",
+                            "value": "600"
+                        },
+                        {
+                            "name": "Maximum Alternator Capacity (amps)",
+                            "value": "160"
+                        }
+                    ]
+                },
+                "slug": "/cadillac/escalade-ext",
+                "name": "Escalade EXT AWD 4dr Premium"
+            },
+            {
+                "model": "SRX"
+            },
+            {
+                "model": "STS"
+            },
+            {
+                "model": "XLR"
+            },
+            {
+                "model": "XTS"
+            }
+        ]
+    }
+}

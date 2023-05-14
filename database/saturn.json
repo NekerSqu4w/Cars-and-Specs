@@ -1,0 +1,360 @@
+{
+    "name": "Saturn",
+    "id": "saturn",
+    "vehicleType": {
+        "cars": {},
+        "eletric": {},
+        "suvs": {},
+        "trucks": {},
+        "vans": {},
+        "discontinued": [
+            {
+                "model": "Aura"
+            },
+            {
+                "model": "Outlook"
+            },
+            {
+                "model": "Sky",
+                "year": 2009,
+                "price": 28265,
+                "formattedPrice": "$28,265",
+                "previewImage": [
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/107896/2007-saturn-sky-red-line-photo-125317-s-986x603.jpg"
+                    },
+                    {
+                        "url": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/107896/2007-saturn-sky-red-line-photo-125317-s-986x603.jpg",
+                        "credit": "JEFFREY G. RUSSELL",
+                        "description": "Land vehicle, Vehicle, Car, Sports car, Saturn sky, Convertible, Motor vehicle, Saturn, Performance car, Automotive design, "
+                    }
+                ],
+                "specs": {
+                    "Vehicle": [
+                        {
+                            "name": "EPA Classification",
+                            "value": "Two Seater"
+                        },
+                        {
+                            "name": "Drivetrain",
+                            "value": "Rear Wheel Drive"
+                        }
+                    ],
+                    "Engine": [
+                        {
+                            "name": "Engine Order Code",
+                            "value": "LE5"
+                        },
+                        {
+                            "name": "Engine Type and Required Fuel",
+                            "value": "Gas I4"
+                        },
+                        {
+                            "name": "Displacement (liters/cubic inches)",
+                            "value": "2.4L/145"
+                        },
+                        {
+                            "name": "Fuel System",
+                            "value": "EFI"
+                        },
+                        {
+                            "name": "Maximum Horsepower @ RPM",
+                            "value": "173 @ 5800"
+                        },
+                        {
+                            "name": "Maximum Torque @ RPM",
+                            "value": "167 @ 4500"
+                        },
+                        {
+                            "name": "Cooling System Capacity (quarts)",
+                            "value": "7.9"
+                        }
+                    ],
+                    "Transmission": [
+                        {
+                            "name": "Transmission Order Code",
+                            "value": "MM5"
+                        },
+                        {
+                            "name": "Transmission Description",
+                            "value": "Manual"
+                        },
+                        {
+                            "name": "Number of Transmission Speeds",
+                            "value": "5"
+                        },
+                        {
+                            "name": "First Gear Ratio (:1)",
+                            "value": "3.75"
+                        },
+                        {
+                            "name": "Second Gear Ratio (:1)",
+                            "value": "2.26"
+                        },
+                        {
+                            "name": "Third Gear Ratio (:1)",
+                            "value": "1.51"
+                        },
+                        {
+                            "name": "Fourth Gear Ratio (:1)",
+                            "value": "1.00"
+                        },
+                        {
+                            "name": "Fifth Gear Ratio (:1)",
+                            "value": "0.73"
+                        },
+                        {
+                            "name": "Reverse Ratio (:1)",
+                            "value": "3.67"
+                        },
+                        {
+                            "name": "Final Drive Axle Ratio (:1)",
+                            "value": "3.91"
+                        },
+                        {
+                            "name": "Clutch Size",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Fuel Economy and Range": [
+                        {
+                            "name": "EPA Greenhouse Gas Score",
+                            "value": "5"
+                        },
+                        {
+                            "name": "CO2 Emissions, 15K mi/year (tons)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Range, city/highway (miles)",
+                            "value": "247.00 / 325.00"
+                        },
+                        {
+                            "name": "EPA Fuel Economy, combined/city/highway (mpg)",
+                            "value": "21 / 19 / 25"
+                        },
+                        {
+                            "name": "EPA Fuel Economy Equivalent (for hybrid and electric vehicles), combined/city/highway (MPGe)",
+                            "value": "N/A / N/A / N/A"
+                        }
+                    ],
+                    "Fuel Tank": [
+                        {
+                            "name": "Fuel Capacity / Gas Tank Size",
+                            "value": "13"
+                        },
+                        {
+                            "name": "Aux Fuel Tank Capacity (gallons)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Exterior Dimensions": [
+                        {
+                            "name": "Wheelbase (inches)",
+                            "value": "95.1"
+                        },
+                        {
+                            "name": "Length (inches)",
+                            "value": "161.1"
+                        },
+                        {
+                            "name": "Width, without mirrors (inches)",
+                            "value": "71.4"
+                        },
+                        {
+                            "name": "Height (inches)",
+                            "value": "50.1"
+                        },
+                        {
+                            "name": "Front Track Width (inches)",
+                            "value": "60.7"
+                        },
+                        {
+                            "name": "Rear Track Width (inches)",
+                            "value": "61.4"
+                        },
+                        {
+                            "name": "Minimum Ground Clearance (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Liftover Height (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Interior Dimensions": [
+                        {
+                            "name": "Passenger / Seating Capacity",
+                            "value": "2"
+                        },
+                        {
+                            "name": "Total Passenger Volume (cubic feet)",
+                            "value": "50"
+                        },
+                        {
+                            "name": "Front Head Room (inches)",
+                            "value": "38.4"
+                        },
+                        {
+                            "name": "Front Leg Room (inches)",
+                            "value": "42.7"
+                        },
+                        {
+                            "name": "Front Shoulder Room (inches)",
+                            "value": "52.7"
+                        },
+                        {
+                            "name": "Front Hip Room (inches)",
+                            "value": "50.6"
+                        },
+                        {
+                            "name": "Second Row Head Room (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Second Row Leg Room (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Second Row Shoulder Room (inches)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Second Row Hip Room (inches)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Cargo Area Dimensions": [
+                        {
+                            "name": "Trunk Space (cubic feet)",
+                            "value": "5.4 (2.0 w/top down)"
+                        }
+                    ],
+                    "Steering": [
+                        {
+                            "name": "Steering Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Steering Ratio (:1)",
+                            "value": "16.4"
+                        },
+                        {
+                            "name": "Turns, lock to lock",
+                            "value": "2.7"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, curb to curb (feet)",
+                            "value": "34.9"
+                        },
+                        {
+                            "name": "Turning Diameter / Radius, wall to wall (feet)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Suspension": [
+                        {
+                            "name": "Front Suspension Type",
+                            "value": "Indep Sport-tuned"
+                        },
+                        {
+                            "name": "Rear Suspension Type",
+                            "value": "Indep Sport-tuned"
+                        },
+                        {
+                            "name": "Front Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Rear Shock Absorber Diameter (mm)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Front Anti-Roll Bar Diameter (inches)",
+                            "value": "1.07"
+                        },
+                        {
+                            "name": "Rear Anti-Roll Bar Diameter (inches)",
+                            "value": "0.95"
+                        }
+                    ],
+                    "Brakes": [
+                        {
+                            "name": "Brake Type",
+                            "value": "Pwr"
+                        },
+                        {
+                            "name": "Anti-Lock-Braking System",
+                            "value": "4-Wheel"
+                        },
+                        {
+                            "name": "Front Brake Rotors, diameter x thickness (inches)",
+                            "value": "11.7 x 1"
+                        },
+                        {
+                            "name": "Rear Brake Rotors, diameter x thickness (inches)",
+                            "value": "10.9 x 0.5"
+                        }
+                    ],
+                    "Wheels and Tires": [
+                        {
+                            "name": "Front Wheel Size (inches)",
+                            "value": "18 x 8"
+                        },
+                        {
+                            "name": "Front Wheel Material",
+                            "value": "Alluminum"
+                        },
+                        {
+                            "name": "Front Tire Size",
+                            "value": "P245/45VR18"
+                        },
+                        {
+                            "name": "Rear Wheel Size (inches)",
+                            "value": "18 x 8"
+                        },
+                        {
+                            "name": "Rear Wheel Material",
+                            "value": "Alluminum"
+                        },
+                        {
+                            "name": "Rear Tire Size",
+                            "value": "P245/45VR18"
+                        }
+                    ],
+                    "Towing": [
+                        {
+                            "name": "Maximum Trailer Weight, dead weight hitch (pounds)",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Maximum Tongue Weight, dead weight hitch (pounds)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Weight Information": [
+                        {
+                            "name": "Base Curb Weight (pounds)",
+                            "value": "N/A"
+                        }
+                    ],
+                    "Electrical": [
+                        {
+                            "name": "Cold Cranking Amps @ 0° F",
+                            "value": "N/A"
+                        },
+                        {
+                            "name": "Maximum Alternator Capacity (amps)",
+                            "value": "125"
+                        }
+                    ]
+                },
+                "slug": "/saturn/sky",
+                "name": "Sky Ruby Red Limited Edition"
+            },
+            {
+                "model": "Vue"
+            }
+        ]
+    }
+}
